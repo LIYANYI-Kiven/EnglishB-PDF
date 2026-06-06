@@ -2,6 +2,12 @@
 
 将英语考试 JSON 数据批量生成 PDF。
 
+## 在线训练
+
+配套在线练习网站：[https://ucasphd.logicmoriaty.top/](https://ucasphd.logicmoriaty.top/)
+
+可在网站上进行英语训练与模考练习，本仓库生成的 PDF 试卷可作为线下打印或复习使用。
+
 ## 目录结构
 
 ```
