@@ -1,0 +1,1159 @@
+{
+  "exams": [
+    {
+      "id": "test-3",
+      "title": "Model Test 3",
+      "sections": [
+        {
+          "id": "test-3-part-1-listening-secA",
+          "title": "Part I Listening Comprehension - Section A",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%203.mp3",
+          "instructions": "In this part, you will hear 10 short conversations. At the end of each conversation, a question will be asked about what is said. Each conversation and the question will be spoken only once.",
+          "questions": [
+            {
+              "id": "test-3-q1",
+              "number": 1,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Prof. Johnson is often late."
+                },
+                {
+                  "label": "B",
+                  "text": "Prof. Johnson is quite different from other professors."
+                },
+                {
+                  "label": "C",
+                  "text": "Prof. Johnson is always punctual."
+                },
+                {
+                  "label": "D",
+                  "text": "Prof. Johnson seldom gives lectures."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q2",
+              "number": 2,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Accept what they are told."
+                },
+                {
+                  "label": "B",
+                  "text": "Ask questions at all times."
+                },
+                {
+                  "label": "C",
+                  "text": "Think more about their studies."
+                },
+                {
+                  "label": "D",
+                  "text": "Think where progress will lead them."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q3",
+              "number": 3,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "His wife likes roses."
+                },
+                {
+                  "label": "B",
+                  "text": "His wife is younger than him."
+                },
+                {
+                  "label": "C",
+                  "text": "His marriage isn't satisfactory."
+                },
+                {
+                  "label": "D",
+                  "text": "It's impossible to keep a long-time marriage fresh."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q4",
+              "number": 4,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has been nasty for months."
+                },
+                {
+                  "label": "B",
+                  "text": "It is changeable."
+                },
+                {
+                  "label": "C",
+                  "text": "It is the first day of his vacation."
+                },
+                {
+                  "label": "D",
+                  "text": "He has to put off his vacation."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q5",
+              "number": 5,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They will increase."
+                },
+                {
+                  "label": "B",
+                  "text": "They will be lower for poor students."
+                },
+                {
+                  "label": "C",
+                  "text": "Fees will remain the same."
+                },
+                {
+                  "label": "D",
+                  "text": "Fees may vary in different universities."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q6",
+              "number": 6,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He wants to assure the woman that he can finish the paper."
+                },
+                {
+                  "label": "B",
+                  "text": "He doubts whether he can finish the paper."
+                },
+                {
+                  "label": "C",
+                  "text": "He has some trouble finishing the paper."
+                },
+                {
+                  "label": "D",
+                  "text": "He needs more time to finish the paper."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q7",
+              "number": 7,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are going to buy some drink."
+                },
+                {
+                  "label": "B",
+                  "text": "They are going to visit some friends."
+                },
+                {
+                  "label": "C",
+                  "text": "They are going to a bar."
+                },
+                {
+                  "label": "D",
+                  "text": "They are planning to drop in on a family."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q8",
+              "number": 8,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To play with a toy."
+                },
+                {
+                  "label": "B",
+                  "text": "To try the walking machine."
+                },
+                {
+                  "label": "C",
+                  "text": "To play on the walking machine."
+                },
+                {
+                  "label": "D",
+                  "text": "To buy the walking machine."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q9",
+              "number": 9,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The mobile phone doesn't work."
+                },
+                {
+                  "label": "B",
+                  "text": "The mobile phone fails to work in rural areas."
+                },
+                {
+                  "label": "C",
+                  "text": "The man wants to have the mobile phone repaired."
+                },
+                {
+                  "label": "D",
+                  "text": "The man hopes the mobile phone can be returned."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q10",
+              "number": 10,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He is lying."
+                },
+                {
+                  "label": "B",
+                  "text": "She is not young any longer."
+                },
+                {
+                  "label": "C",
+                  "text": "He should do the work by himself."
+                },
+                {
+                  "label": "D",
+                  "text": "He has done the work excessively well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "test-3-part-1-listening-secB",
+          "title": "Part I Listening Comprehension - Section B",
+          "instructions": "Complete the sentences.",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%203.mp3",
+          "questions": [
+            {
+              "id": "test-3-q11",
+              "number": 11,
+              "text": "In order to live a long life, people need to keep {{11}}.",
+              "type": "fill-blank",
+              "correctAnswer": "a balanced diet"
+            },
+            {
+              "id": "test-3-q12",
+              "number": 12,
+              "text": "If we are {{12}} we may not have enough chemical substances.",
+              "type": "fill-blank",
+              "correctAnswer": "fussy about food"
+            },
+            {
+              "id": "test-3-q13",
+              "number": 13,
+              "text": "In speaking of exercises, jogging is a good method to {{13}}.",
+              "type": "fill-blank",
+              "correctAnswer": "keep people fit"
+            },
+            {
+              "id": "test-3-q14",
+              "number": 14,
+              "text": "To avoid a bad mood, we need to {{14}}.",
+              "type": "fill-blank",
+              "correctAnswer": "calm our nerves"
+            },
+            {
+              "id": "test-3-q15",
+              "number": 15,
+              "text": "According to the speaker, we should have {{15}} to welcome everything.",
+              "type": "fill-blank",
+              "correctAnswer": "a generous heart"
+            },
+            {
+              "id": "test-3-q16",
+              "number": 16,
+              "text": "This year, weather scientists anticipated {{16}} of ocean storms.",
+              "type": "fill-blank",
+              "correctAnswer": "an active season"
+            },
+            {
+              "id": "test-3-q17",
+              "number": 17,
+              "text": "Half of the storms had winds of at least {{17}} kilometers an hour.",
+              "type": "fill-blank",
+              "correctAnswer": "one hundred nineteen"
+            },
+            {
+              "id": "test-3-q18",
+              "number": 18,
+              "text": "Great ocean storms in the Northern Hemisphere usually develop near {{18}} waters as they move west toward the Caribbean Sea and North America.",
+              "type": "fill-blank",
+              "correctAnswer": "the Equator"
+            },
+            {
+              "id": "test-3-q19",
+              "number": 19,
+              "text": "The storms gather strength from {{19}}.",
+              "type": "fill-blank",
+              "correctAnswer": "warm ocean"
+            },
+            {
+              "id": "test-3-q20",
+              "number": 20,
+              "text": "If the storms happen in parts of the Pacific west of the dateline, they are called {{20}}.",
+              "type": "fill-blank",
+              "correctAnswer": "typhoons"
+            }
+          ]
+        },
+        {
+          "id": "test-3-part-1-listening-secC",
+          "title": "Part I Listening Comprehension - Section C",
+          "instructions": "Answer the questions.",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%203.mp3",
+          "questions": [
+            {
+              "id": "test-3-q21",
+              "number": 21,
+              "text": "What is the subject for this week?",
+              "type": "fill-blank",
+              "correctAnswer": "Production of postage stamps."
+            },
+            {
+              "id": "test-3-q22",
+              "number": 22,
+              "text": "What are the members from the public asked to do with the possible list?",
+              "type": "fill-blank",
+              "correctAnswer": "To rank them."
+            },
+            {
+              "id": "test-3-q23",
+              "number": 23,
+              "text": "What will possibly happen for a designed stamp?",
+              "type": "fill-blank",
+              "correctAnswer": "It will never actually go into circulation."
+            },
+            {
+              "id": "test-3-q24",
+              "number": 24,
+              "text": "Why did they want to sleep with the windows open?",
+              "type": "fill-blank",
+              "correctAnswer": "Because it was very hot."
+            },
+            {
+              "id": "test-3-q25",
+              "number": 25,
+              "text": "Why were they worried about leaving the windows open?",
+              "type": "fill-blank",
+              "correctAnswer": "Because they had a lot of important possessions in the room and they were worried they would be stolen."
+            },
+            {
+              "id": "test-3-q26",
+              "number": 26,
+              "text": "How did they construct an alarm system?",
+              "type": "fill-blank",
+              "correctAnswer": "By piling pots and pans under the windows so that an intruder would make a lot of noise."
+            },
+            {
+              "id": "test-3-q27",
+              "number": 27,
+              "text": "What are the two colors of Helsinki?",
+              "type": "fill-blank",
+              "correctAnswer": "White and blue."
+            },
+            {
+              "id": "test-3-q28",
+              "number": 28,
+              "text": "What is the usual way to see Helsinki for the first time?",
+              "type": "fill-blank",
+              "correctAnswer": "By boat."
+            },
+            {
+              "id": "test-3-q29",
+              "number": 29,
+              "text": "When will passengers have a slightly sad film feeling?",
+              "type": "fill-blank",
+              "correctAnswer": "When they watch the old houses, parks, theatres, churches, shops, restaurants and people in the streets."
+            },
+            {
+              "id": "test-3-q30",
+              "number": 30,
+              "text": "What makes Helsinki the most modern city in northern Europe? List at least 2 things.",
+              "type": "fill-blank",
+              "correctAnswer": "The white Glass Palace, the modern art museum, and all those extremely popular cafes and design stores."
+            }
+          ]
+        },
+        {
+          "id": "test-3-part-2-section-a-cloze",
+          "title": "Part II Use of English - Section A",
+          "instructions": "Cloze test.",
+          "questions": [
+            {
+              "id": "test-3-q31",
+              "number": 31,
+              "text": "Fill in the blank {{31}}",
+              "type": "fill-blank",
+              "correctAnswer": "about which"
+            },
+            {
+              "id": "test-3-q32",
+              "number": 32,
+              "text": "Fill in the blank {{32}}",
+              "type": "fill-blank",
+              "correctAnswer": "theoretical"
+            },
+            {
+              "id": "test-3-q33",
+              "number": 33,
+              "text": "Fill in the blank {{33}}",
+              "type": "fill-blank",
+              "correctAnswer": "intrinsic"
+            },
+            {
+              "id": "test-3-q34",
+              "number": 34,
+              "text": "Fill in the blank {{34}}",
+              "type": "fill-blank",
+              "correctAnswer": "distinguishes"
+            },
+            {
+              "id": "test-3-q35",
+              "number": 35,
+              "text": "Fill in the blank {{35}}",
+              "type": "fill-blank",
+              "correctAnswer": "technical"
+            },
+            {
+              "id": "test-3-q36",
+              "number": 36,
+              "text": "Fill in the blank {{36}}",
+              "type": "fill-blank",
+              "correctAnswer": "equally"
+            },
+            {
+              "id": "test-3-q37",
+              "number": 37,
+              "text": "Fill in the blank {{37}}",
+              "type": "fill-blank",
+              "correctAnswer": "defining"
+            },
+            {
+              "id": "test-3-q38",
+              "number": 38,
+              "text": "Fill in the blank {{38}}",
+              "type": "fill-blank",
+              "correctAnswer": "even"
+            },
+            {
+              "id": "test-3-q39",
+              "number": 39,
+              "text": "Fill in the blank {{39}}",
+              "type": "fill-blank",
+              "correctAnswer": "autonomy"
+            },
+            {
+              "id": "test-3-q40",
+              "number": 40,
+              "text": "Fill in the blank {{40}}",
+              "type": "fill-blank",
+              "correctAnswer": "except"
+            },
+            {
+              "id": "test-3-q41",
+              "number": 41,
+              "text": "Fill in the blank {{41}}",
+              "type": "fill-blank",
+              "correctAnswer": "recall"
+            },
+            {
+              "id": "test-3-q42",
+              "number": 42,
+              "text": "Fill in the blank {{42}}",
+              "type": "fill-blank",
+              "correctAnswer": "suspicion"
+            },
+            {
+              "id": "test-3-q43",
+              "number": 43,
+              "text": "Fill in the blank {{43}}",
+              "type": "fill-blank",
+              "correctAnswer": "navigate"
+            },
+            {
+              "id": "test-3-q44",
+              "number": 44,
+              "text": "Fill in the blank {{44}}",
+              "type": "fill-blank",
+              "correctAnswer": "curiosity"
+            },
+            {
+              "id": "test-3-q45",
+              "number": 45,
+              "text": "Fill in the blank {{45}}",
+              "type": "fill-blank",
+              "correctAnswer": "conceive"
+            }
+          ],
+          "content": "For me, scientific knowledge is divided into mathematical sciences, natural sciences or sciences dealing with the natural world (physical and biological sciences), and sciences dealing with mankind (psychology, sociology, all the sciences of cultural achievements, every kind of historical knowledge). Apart from these sciences is philosophy, {{31}} we will talk later. In the first place, all this is pure or {{32}} knowledge, sought only for the purpose of understanding, in order to fulfill the need to understand what is {{33}} and consubstantial (同质的) to man. What {{34}} man from animal is that he knows and needs to know. If man did not know that the world existed, and that the world was of a certain kind, that he was in the world and that he himself was of a certain kind, he wouldn't be man. The {{35}} aspects or applications of knowledge are {{36}} necessary for man and are of the great importance, because they also contribute to {{37}} him as man and permit him to pursue a life increasingly more truly human. But {{38}} while enjoying the results of technical progress, he must defend the primacy and {{39}} of pure knowledge. Knowledge sought directly for its practical applications will have immediate and foreseeable success, but not the kind of important result whose revolutionary scope is in large part unforeseen, {{40}} by the imagination of the Utopians. Let me {{41}} a well-known example. If the Greek mathematicians had not applied themselves to the investigation of conic (圆锥的) sections, zealously and without the least {{42}} that it might someday be useful, it would not have been possible centuries later to {{43}} far from shore. The first men to study the nature of electricity could not imagine that their experiments, carried on because of mere intellectual {{44}} would eventually lead to modern electrical technology, without which we can scarcely {{45}} of contemporary life. Pure knowledge is valuable for its own sake, because the human spirit cannot resign itself to ignorance. But, in addition, it is the foundation for practical results that would not have been reached if this knowledge had not been sought disinterestedly.",
+          "sharedOptions": [
+            {
+              "label": "word_1",
+              "text": "intrinsic"
+            },
+            {
+              "label": "word_2",
+              "text": "that"
+            },
+            {
+              "label": "word_3",
+              "text": "theoretical"
+            },
+            {
+              "label": "word_4",
+              "text": "even"
+            },
+            {
+              "label": "word_5",
+              "text": "technical"
+            },
+            {
+              "label": "word_6",
+              "text": "personal"
+            },
+            {
+              "label": "word_7",
+              "text": "equally"
+            },
+            {
+              "label": "word_8",
+              "text": "conceive"
+            },
+            {
+              "label": "word_9",
+              "text": "exclusive"
+            },
+            {
+              "label": "word_10",
+              "text": "just"
+            },
+            {
+              "label": "word_11",
+              "text": "autonomy"
+            },
+            {
+              "label": "word_12",
+              "text": "navigate"
+            },
+            {
+              "label": "word_13",
+              "text": "except"
+            },
+            {
+              "label": "word_14",
+              "text": "not to mention"
+            },
+            {
+              "label": "word_15",
+              "text": "recall"
+            },
+            {
+              "label": "word_16",
+              "text": "defining"
+            },
+            {
+              "label": "word_17",
+              "text": "take"
+            },
+            {
+              "label": "word_18",
+              "text": "suspicion"
+            },
+            {
+              "label": "word_19",
+              "text": "general"
+            },
+            {
+              "label": "word_20",
+              "text": "credibility"
+            },
+            {
+              "label": "word_21",
+              "text": "still"
+            },
+            {
+              "label": "word_22",
+              "text": "curiosity"
+            },
+            {
+              "label": "word_23",
+              "text": "migrate"
+            },
+            {
+              "label": "word_24",
+              "text": "imagination"
+            },
+            {
+              "label": "word_25",
+              "text": "introduce"
+            },
+            {
+              "label": "word_26",
+              "text": "predominance"
+            },
+            {
+              "label": "word_27",
+              "text": "regarding"
+            },
+            {
+              "label": "word_28",
+              "text": "separates"
+            },
+            {
+              "label": "word_29",
+              "text": "distinguishes"
+            },
+            {
+              "label": "word_30",
+              "text": "about which"
+            }
+          ],
+          "passageAnalysis": "### 1. 文章大意 (Main Idea)\n本文探讨了科学知识的分类及其价值。作者首先将知识分为数学、自然科学、人文科学以及哲学，并强调纯粹理论知识对于满足人类理解自身与世界的内在需求至关重要。接着，文章论证了技术应用虽然同样重要，但必须维护纯粹知识的首要地位和自主性，因为许多重大的、革命性的实践成果恰恰源于最初看似无用的纯粹理论研究。最后，通过数学和电学的历史实例，文章重申了纯粹知识因其自身价值及作为实践基础的双重重要性。\n\n### 2. 语篇结构 (Structure Analysis)\n*   **第一段（开头至“…he wouldn’t be man.”）：** 提出知识分类，并界定纯粹（理论）知识的本质与目的——满足人类理解自身与世界的内在需求，这是人与动物的根本区别。\n*   **第二段（“The technical aspects…contemporary life.”）：** 展开论证。首先承认技术应用的必要性，但随即转折，强调必须捍卫纯粹知识的首要性与自主性。通过对比直接追求实用知识的结果与纯粹知识带来的不可预见的革命性影响，并引用圆锥曲线研究和电学起源两个历史例证，有力支撑了论点。\n*   **第三段（最后两句）：** 总结全文。重申纯粹知识的双重价值：一是其本身满足人类求知精神，二是它构成了许多重大实践成果不可或缺的基础。\n\n### 3. 核心词汇 (Core Vocabulary)\n1.  **philosophy** - 哲学\n2.  **theoretical** - 理论的\n3.  **intrinsic** - 固有的，内在的\n4.  **distinguishes...from** - 将…与…区分开\n5.  **technical** - 技术的，工艺的\n6.  **equally** - 同样地\n7.  **defining** - 定义，界定\n8.  **autonomy** - 自主性，自治\n9.  **except** - 除了\n10. **recall** - 回忆起，提及\n11. **suspicion** - 怀疑\n12. **navigate** - 航行，导航\n13. **curiosity** - 好奇心\n14. **conceive (of)** - 想象，构想"
+        },
+        {
+          "id": "test-3-sec-reading-B-passage-1",
+          "title": "Part II Reading Comprehension - Section B - Passage 1",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-3-q46",
+              "number": 46,
+              "text": "Which of the following is NOT mentioned as the cause of SAD during Christmas period?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Cold weather."
+                },
+                {
+                  "label": "B",
+                  "text": "Cooking."
+                },
+                {
+                  "label": "C",
+                  "text": "Shopping."
+                },
+                {
+                  "label": "D",
+                  "text": "Financial difficulty."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q47",
+              "number": 47,
+              "text": "When do people feel stressed?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Before Christmas comes."
+                },
+                {
+                  "label": "B",
+                  "text": "After Christmas celebrations are over."
+                },
+                {
+                  "label": "C",
+                  "text": "During Christmas period."
+                },
+                {
+                  "label": "D",
+                  "text": "When the family members are separated."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q48",
+              "number": 48,
+              "text": "What suggestion does Dr. Skynner give in dealing with SAD?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Do not expect too much from the festive season."
+                },
+                {
+                  "label": "B",
+                  "text": "Spend more time with family."
+                },
+                {
+                  "label": "C",
+                  "text": "Do less shopping and cooking."
+                },
+                {
+                  "label": "D",
+                  "text": "Avoid spending too much money."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q49",
+              "number": 49,
+              "text": "What does Dr. Skynner mean when he says \"they will probably end up having a whale of a time\"?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People will have a good time."
+                },
+                {
+                  "label": "B",
+                  "text": "People will have more time for sleep."
+                },
+                {
+                  "label": "C",
+                  "text": "People will enjoy more staying with their families."
+                },
+                {
+                  "label": "D",
+                  "text": "People will become more energetic."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q50",
+              "number": 50,
+              "text": "Couples are more likely to have a divorce during Christmas because",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "they have more time to spend with each other."
+                },
+                {
+                  "label": "B",
+                  "text": "they have different opinion on what to buy."
+                },
+                {
+                  "label": "C",
+                  "text": "their expectations of family closeness make them unhappy."
+                },
+                {
+                  "label": "D",
+                  "text": "the husband is lazy about the increasing amount of housework."
+                }
+              ]
+            }
+          ],
+          "content": "Those who find Christmas stressful and joyless could be suffering a hormonal imbalance identified by scientists as Seasonal Affective Disorder (SAD).\n\nThe symptoms are an urgent desire to pack off mad Aunt Maude for another year, turn off the television and the oven and then hibernate.\n\nDr. Malcolm Carruthers, director of the Positive Health Centre in Harley Street, London, said that for many, Christmas came at the wrong time of the year.\n\n\"At precisely the time they're supposed to be getting up and having a good time, all they really want to do is curl up in a ball and go to sleep. When they can't do that they get depressed.\"\n\nCold weather can trigger another hormonal effect. This gives people more energy to keep warm, but renders them more vulnerable to a heart attack when they wind down.\n\nChristmas produces stress for everyone, rushing around doing the shopping and, often for women, doing the cooking.\n\n\"It is when people relax after the exertion that the effects of the stress catch up with them,” said Dr. Carruthers.\n\nDespite being the season of goodwill Christmas is the peak period for depression, heart attacks and suicide.\n\nProf. Cary Cooper of Manchester University's Institute of Science and Technology said that it was a period when families spent more time together.\n\n\"When there is no daily routine, families are thrust back into their own company and adapting to that can be very stressful.\"\n\nHis views were supported by Dr. Robin Skynner, a consultant psychiatrist, who wrote a book with the comedian John Cleese on surviving family life.\n\n\"People are led to expect too much of Christmas. They are led to imagine it will be a time of happiness and goodwill,\" he said.\n\nDr. Skynner recommends lowering expectations as the key to handling the festive season.\n\n\"If people accept that and don't expect too much they will probably end up having a whale of a time.\"\n\nPeter Pallot, Health Service Staff, writes: More than 3,000 marriages end in divorce every week and that process is more likely to start at Christmas than at any other time of the year. According to Relate, formerly the National Marriage Guidance Council, \"The long Christmas period with all the traditional expectations of family closeness makes warring couples feel specially unhappy.\""
+        },
+        {
+          "id": "test-3-sec-reading-B-passage-2",
+          "title": "Part II Reading Comprehension - Section B - Passage 2",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-3-q51",
+              "number": 51,
+              "text": "What is the consequence of lacking access to safe-drinking water?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has killed many people."
+                },
+                {
+                  "label": "B",
+                  "text": "It hinders the development of the country."
+                },
+                {
+                  "label": "C",
+                  "text": "It has caused some conflicts among nations."
+                },
+                {
+                  "label": "D",
+                  "text": "It enlarges the differences between the rich nations and the poor nations."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q52",
+              "number": 52,
+              "text": "It can be inferred from the second paragraph that",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "water shortage is a problem for all countries."
+                },
+                {
+                  "label": "B",
+                  "text": "most people who suffer from water scarcity are among poor people."
+                },
+                {
+                  "label": "C",
+                  "text": "water supply has nothing to do with income or social status."
+                },
+                {
+                  "label": "D",
+                  "text": "people in developing countries are more conscious of water saving than those in developed countries."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q53",
+              "number": 53,
+              "text": "Which word can best replace the word \"glaring\" in Para.2?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Obvious."
+                },
+                {
+                  "label": "B",
+                  "text": "Glistening."
+                },
+                {
+                  "label": "C",
+                  "text": "Bright."
+                },
+                {
+                  "label": "D",
+                  "text": "Angry."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q54",
+              "number": 54,
+              "text": "Pakistan is mentioned as an example of a country",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "which suffers most from water shortage in South Asia."
+                },
+                {
+                  "label": "B",
+                  "text": "which has the most serious problem in water safety."
+                },
+                {
+                  "label": "C",
+                  "text": "which has the largest number of people killed by water shortage."
+                },
+                {
+                  "label": "D",
+                  "text": "which has the largest number of poor people."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q55",
+              "number": 55,
+              "text": "What is NOT mentioned as the solution to the problem of water shortage?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The government can turn to NGO for help."
+                },
+                {
+                  "label": "B",
+                  "text": "People can try traditional conversation methods to save water."
+                },
+                {
+                  "label": "C",
+                  "text": "The developed countries should give more help to the developing countries."
+                },
+                {
+                  "label": "D",
+                  "text": "Awareness of saving water and safeguarding water safety should be promoted."
+                }
+              ]
+            }
+          ],
+          "content": "Water is a prerequisite to all forms of life. The growing lack of access to it has therefore become a serious development concern. UN agencies estimate that there are 1.3 billion people around the world without access to safe drinking water and nearly twice that number lacking adequate sanitation. The disturbing consequence of this situation is 3 million deaths per year, which the World Health Organization attributes to water-related diseases.\n\nDevelopment practitioners emphasize that inadequate access to water is directly linked to poverty. The lack of safe water supplies damages the health, food security and livelihoods of the poor. Although, water should be available to all people regardless of their income or social status, this is not the way things are. An average person in developed nations uses an average of 400-500 liters of water per day, whereas in developing countries the average is around 20 liters per day. In addition to citing this glaring inequality, the United Nations Development Program points out that a majority of people who are affected by contaminated water are found living in the swarming slums of mega-cities and in the marginalized rural areas across developing countries.\n\nWater shortages are particularly severe in South Asia, the Middle East and North Africa. According to the Carnegie Institute in the US, Pakistan is facing the most serious water shortage in South Asia. The warning is based on a projection that Pakistan will require 335 billion cubic meters of water per annum by 2025, but will have no more than 236 billion cubic meters available, resulting in a serious shortfall of over one billion cubic meters. Besides the looming threat of severe water shortages - which various other sources estimate will occur even sooner - there is the evident problem of deteriorating water quality.\n\nIn dealing with the issue of water scarcity, it is necessary also to think at the micro level. The government could certainly use more NGO help in this regard. Some NGOs are already promoting traditional conservation methods like rainwater harvesting and creating awareness about the effects of water scarcity and contamination. All relevant stakeholders need to give more attention to the prevailing lack of awareness and sensitivity amongst the people in both urban and rural areas, which becomes a major handicap in rational use of water and in safeguarding its pollution. It is unfortunate that the judicious use of an invaluable commodity like water is nowhere to be seen, particularly amongst those fortunate enough to have easy access to it."
+        },
+        {
+          "id": "test-3-sec-reading-B-passage-3",
+          "title": "Part II Reading Comprehension - Section B - Passage 3",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-3-q56",
+              "number": 56,
+              "text": "The word \"atrophying\" most probably means",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "applying."
+                },
+                {
+                  "label": "B",
+                  "text": "balancing."
+                },
+                {
+                  "label": "C",
+                  "text": "decreasing."
+                },
+                {
+                  "label": "D",
+                  "text": "making full use of."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q57",
+              "number": 57,
+              "text": "What can be inferred from the first paragraph?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Haircut in the past cost more than today."
+                },
+                {
+                  "label": "B",
+                  "text": "People think self-care is a waste of time."
+                },
+                {
+                  "label": "C",
+                  "text": "Males spend more money on their appearance than women do."
+                },
+                {
+                  "label": "D",
+                  "text": "People's idea about males going to beauty has not changed much."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q58",
+              "number": 58,
+              "text": "David Beckham is mentioned because",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "he is a famous football player."
+                },
+                {
+                  "label": "B",
+                  "text": "he sets an example of males paying attention to their facial appearance."
+                },
+                {
+                  "label": "C",
+                  "text": "he gives some ideas for males who are aware of their hairstyles."
+                },
+                {
+                  "label": "D",
+                  "text": "what he does is in agreement with the conventional beliefs."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q59",
+              "number": 59,
+              "text": "All the following is true about Prince EXCEPT that",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Prince is the owner of a salon."
+                },
+                {
+                  "label": "B",
+                  "text": "Prince is an experienced hair-cutter."
+                },
+                {
+                  "label": "C",
+                  "text": "Prince is a name of a salon."
+                },
+                {
+                  "label": "D",
+                  "text": "Prince is an A-list stylist."
+                }
+              ]
+            },
+            {
+              "id": "test-3-q60",
+              "number": 60,
+              "text": "It can be inferred from the passage that",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A-list stylists charge less than Prince."
+                },
+                {
+                  "label": "B",
+                  "text": "some local fashionable salons charge too much."
+                },
+                {
+                  "label": "C",
+                  "text": "many salons have a growing number of clients."
+                },
+                {
+                  "label": "D",
+                  "text": "going to salon can do harm to health."
+                }
+              ]
+            }
+          ],
+          "content": "What extent do men go to in order to look good? Interestingly, a great deal now. Gone are the days when they thought of self-care as a waste of time, atrophying of budget and most importantly, a threat to their masculinity. \"Makeover\" was a term associated exclusively with females and the gradual change came along courtesy of models and actors. Many believed (and continue to do so even today) that the idea of a man going to a beauty salon sounded bizarre and unmanly and thus, often associated to males who were effeminate. The fact however remains that men are becoming increasingly conscious of the way they look.\n\nWhile women are eager try out Bipasha Basu's hair extensions and Aishwarya Rai's tangled curls, the men derive their inspiration from David Beckham. From the Mohican to a ponytail and from a crew cut and a shaggy mop, this British footballer has sported it all at some time or the other. Closer home, the trend is just starting out and picking up. While many salons are trying to capture a significant percent of the market, few are beginning to enjoy a hidden monopoly, which becomes evident by their growing client base and mounting revenues.\n\nPrince is named after the man who, as well as owning the salon, brings along 14 years of hair-cutting experience with him. Young and enthusiastic, Prince understands the importance of male styling. He, and others like him, cater mostly to the upper crust of society who can easily afford to pay anything from 150 rupees to 600 per cut, which is still better than what many of our A-list stylists are charging. Over a short span, such small, seemingly humble places have become the choice for many of the models and trendsetters of the town who come to get their hair done for parties and social gatherings. A cross between the local and the swanky up-market salons that charge an arm and a leg for a trim, Prince and its counterparts are using their homey feel, less intimidating atmosphere and lower prices to attract a loyal following.\n\nTimes certainly have changed. For women, going to a salon is therapeutic and has transformed from a luxury to a need over the years. Interestingly, men too have become dependent on treatments to look attractive. Stylish haircuts have become the hallmark of a man's taste. For people like me it might be too late already but for all the young men in search of an opportunity to look better, hair it is!"
+        },
+        {
+          "id": "test-3-sec-reading-C",
+          "title": "Part II Reading Comprehension - Section C",
+          "instructions": "In the following passage, five sentences have been removed from the original text.",
+          "questions": [
+            {
+              "id": "test-3-q61",
+              "number": 61,
+              "text": "Choose the best sentence to fill in blank {{61}}",
+              "type": "fill-blank",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "test-3-q62",
+              "number": 62,
+              "text": "Choose the best sentence to fill in blank {{62}}",
+              "type": "fill-blank",
+              "correctAnswer": "E"
+            },
+            {
+              "id": "test-3-q63",
+              "number": 63,
+              "text": "Choose the best sentence to fill in blank {{63}}",
+              "type": "fill-blank",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "test-3-q64",
+              "number": 64,
+              "text": "Choose the best sentence to fill in blank {{64}}",
+              "type": "fill-blank",
+              "correctAnswer": "F"
+            },
+            {
+              "id": "test-3-q65",
+              "number": 65,
+              "text": "Choose the best sentence to fill in blank {{65}}",
+              "type": "fill-blank",
+              "correctAnswer": "D"
+            }
+          ],
+          "content": "Unlike most of the other non-foolish holidays, the history of April Fools' Day, sometimes called All Fools' Day, is not totally clear. There really wasn't a \"first April Fools' Day\" that can be pinpointed on the calendar. Some believe it to be evolved simultaneously in several cultures at the same time, from celebrations involving the first day of spring.\n\nThe closest point in time that can be identified as the beginning of this tradition was in 1582, in France. {{61}} The celebration culminated on April 1. With the reform of the calendar under Charles IX, the Gregorian Calendar was introduced, and New Year's Day was moved to January 1.\n\nHowever, communications being what they were in the days when news traveled by foot, many people did not receive the news for several years. Others, the more obstinate crowd, refused to accept the new calendar and continued to celebrate the new year on April 1. {{62}} They were subject to some ridicule, and were often sent on \"fools' errands\" or were made the butt of other practical jokes.\n\nThis harassment evolved, over time, into a tradition of prank-playing on the first day of April. The tradition eventually spread to England and Scotland in the eighteenth century. It was later introduced to the American colonies of both the English and French. {{63}}\n\nIn Scotland, for example, April Fools' Day is actually celebrated for two days. The second day is devoted to pranks involving the posterior region of the body. It is called Taily Day. The origin of the \"kick me\" sign can be traced to this observance.\n\nMexico's counterpart of April Fools' Day is actually observed on December 28. {{64}} It eventually evolved into a lighter commemoration involving pranks and trickery.\n\nPranks performed on April Fools' Day range from the simple (such as saying, \"Your shoe's untied!\"), to the elaborate. Setting a roommate's alarm clock back an hour is a common gag. Whatever the prank, the trickster usually ends it by yelling to his victim, “April Fool!\"\n\nPractical jokes are a common practice on April Fools' Day. Sometimes, elaborate practical jokes are played on friends or relatives that last the entire day. The news media even gets involved. {{65}}\n\nApril Fools' Day is a \"for-fun-only\" observance. Nobody is expected to buy gifts or to take their \"significant other\" out to eat in a fancy restaurant. Nobody gets off work or school. It's simply a fun little holiday, but a holiday on which one must remain forever vigilant, for he may be the next April Fool!",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "April Fools' Day thus developed into an international fun fest, so to speak, with different nationalities specializing in their own brand of humor at the expense of their friends and families."
+            },
+            {
+              "label": "B",
+              "text": "The first of April is the day we remember what we are the other 364 days of the year."
+            },
+            {
+              "label": "C",
+              "text": "Prior to that year, the New Year was celebrated for eight days, beginning on March 25."
+            },
+            {
+              "label": "D",
+              "text": "For instance, a British short film once shown on April Fools' Day was a fairly detailed documentary about \"spaghetti farmers\" and how they harvest their crop from the spaghetti trees."
+            },
+            {
+              "label": "E",
+              "text": "These backward folk were labeled as “fools” by the general populace."
+            },
+            {
+              "label": "F",
+              "text": "Originally, the day was a sad remembrance of the slaughter of the innocent children by King Herod."
+            }
+          ]
+        },
+        {
+          "id": "test-3-sec-writing-A",
+          "title": "Part III Writing - Section A",
+          "instructions": "Read the following article and write a summary.",
+          "questions": [
+            {
+              "id": "test-3-q66",
+              "number": 66,
+              "text": "Summarize the provided article in no more than 150 words.",
+              "type": "writing",
+              "correctAnswer": "Some people insist that once we begin to go in for a job, we should do it until the end. They believe that it makes them gain success more easily as long as they concentrate on one job. However, these people ignore the fact that job-hopping can bring us many benefits. Job-hopping is beneficial to employees. Working in different fields can make people, especially young people, acquire rich experience, which is valuable for them to be adapted to various environments. After tasting many kinds of jobs, people can accumulate much useful experience and knowledge. In addition, all kinds of chances can be gained in the course of job-hopping. If people are not satisfied with their present job, they have the right to replace it with a more challenging one. Every change is a step toward further success. In the process of job-hopping, it is quite possible to find a position where you can fully display your ability and put your whole heart into it. Only in this way can you get the true joy of achieving your goals. Besides, job-hopping is helpful to raise employees' living standards. Every chance to change a job offers the employee an opportunity to move up to a higher position and to get better wages. Job-hopping is also beneficial to the employers. It gives the employers — the bosses, the managers — the chance to benefit from the new ideas and skills that different people bring to their firms or factories. Of course, whether stick to one job or not depends on the specific situations in different phases. What is important is try to confirm the career development direction during the phases of experiencing both success and failure.",
+              "explanation": "### 1. 参考范文 (Model Summary)\nLanguage fundamentally defines the speaker and is a tool for asserting power by defining others, though those others often resist such imposed definitions. It evolves to help people describe and control their circumstances, serving as a crucial key to personal and communal identity. Consequently, language is inherently political, as seen in regional struggles to preserve languages like Provencal, Basque, and Welsh against domination. This political dimension means that how one speaks can reveal social background and even pose dangers. The development of Black English exemplifies this, born from the brutal necessity of slavery as a means of covert communication and cultural survival. It was not a simple adoption of English but a transformative alchemy, creating a distinct language that white America often misunderstands and penalizes, as understanding it would force a confrontation with a painful history.\n\n### 2. 摘要逻辑 (Summary Logic)\n摘要首先提炼了文章的核心论点：语言是定义自我、他者和权力的工具。随后，选取了支撑此论点的几个关键层面：1) 语言作为身份和政治工具的功能（以法国和英国地区为例）；2) 语言在压迫下的演变与抵抗（以黑人为例）。逻辑链条为：语言的核心功能 -> 其政治性与身份认同作用 -> 在权力结构下的具体表现（地区语言保护、黑人英语的形成）。最后，以黑人英语的案例总结，点明语言是生存和反抗的产物，呼应开头的“抵抗被定义”的主题。这样确保了摘要既全面覆盖核心思想，又保持了逻辑连贯性。\n\n### 3. 重点表达 (Key Expressions)\n1.  **fundamentally defines** - 从根本上定义\n2.  **Consequently** - 因此，所以\n3.  **as seen in** - 正如在...中所见\n4.  **exemplifies this** - 例证了这一点\n5.  **born from** - 源于"
+            }
+          ],
+          "content": "Language, incontestably, reveals the speaker. Language, alsc, far more dubiously, is meant to define the other — and, in this case, the other is refusing to be defined by a language that has never been able to recognize him.\n\nPeople evolve a language in order to describe and thus control their circumstances or in order not to be submerged by a situation that they cannot articulate. What joins all languages, and all men, is the necessity to confront life, in order, not inconceivably, to outwit death: The price for this is the acceptance, and achievement, of one's temporal identity. So that, for example, though it is not taught in the schools the south of France still clings to its ancient and musical Provencal, which resists being described as a \"dialect\". And much of the tension in the Basque countries, and in Wales, is due to the Basque and Welsh determination not to allow their languages to be destroyed. This determination also feeds the flames in Ireland for among the many indignities the Irish have been forced to undergo at English hands is the English contempt for their language.\n\nIt goes without saying, then, that language is also a political instrument, means, and proof of power. It is the most vivid and crucial key to identity. It reveals the private identity, and connects one with, or divorces one from, the larger, public, or communal identity. There have been, and are, times and places, when to speak a certain language could be dangerous, even fatal. Or, one may speak the same language, but in such a way that one's antecedents are revealed, or hidden. This is true in France, and is absolutely true in England: The range of accents on that damp little island makes England coherent for the English and totally incomprehensible for everyone else. To open your mouth in England is to \"put your business in the street\". You have confessed your parents, your youth, your school, your salary, your self-esteem, and, alas, your future.\n\nNow, I do not know what white Americans would sound like if there had never been any black people in the US, but they would not sound the way they sound. Jazz, for example, is a very specific sexual term, as in Jazz me, baby, but white people purified it into the Jazz Age. There are so many cases like this that some people even attempt to penalize black people for having created a black language that \"pollutes\" the American English.\n\nBlack English is the creation of the black diaspora. Blacks came to the United States chained to each other, but from different tribes. Neither could speak the other's language. If two black people, at that bitter hour of the world's history, had been able to speak to each other, the institution of chattel slavery could never have lasted as long as it did. Subsequently, the slave was given, under the eye, and the gun, of his master, Congo Square, and the Bible or, in other words, and under those conditions, the slave began the formation of the black church, and it is within this unprecedented tabernacle that black English began to be formed. This was not, merely, as in the European example, the adoption of a foreign tongue, but an alchemy that transformed ancient elements into a new language: A language comes into existence by means of brutal necessity, and the rules of the language are dictated by what the language must convey.\n\nThere was a moment, in time, and in this place, when my brother, or my mother, or my father, or my sister, had to convey to me, for example, the danger in which I was standing from the white man standing just behind me, and to convey this with a speed and in a language, that the white man could not possibly understand, and that, indeed, he cannot understand until today. He cannot afford to understand it. This understanding would reveal to him too much about himself and smash that mirror before which he has been frozen for so long."
+        },
+        {
+          "id": "test-3-sec-writing-B",
+          "title": "Part III Writing - Section B",
+          "instructions": "Write an essay of no less than 250 words on the topic given below. Use the proper space on your Answer Sheet II.",
+          "questions": [
+            {
+              "id": "test-3-q67",
+              "number": 67,
+              "text": "People have different expectations for jobs. Some people prefer to do the same job for the same company, others change their jobs frequently. Please give your opinion about job-hopping.",
+              "type": "writing",
+              "correctAnswer": "Some people insist that once we begin to go in for a job, we should do it until the end. They believe that it makes them gain success more easily as long as they concentrate on one job. However, these people ignore the fact that job-hopping can bring us many benefits. Job-hopping is beneficial to employees. Working in different fields can make people, especially young people, acquire rich experience, which is valuable for them to be adapted to various environments. After tasting many kinds of jobs, people can accumulate much useful experience and knowledge. In addition, all kinds of chances can be gained in the course of job-hopping. If people are not satisfied with their present job, they have the right to replace it with a more challenging one. Every change is a step toward further success. In the process of job-hopping, it is quite possible to find a position where you can fully display your ability and put your whole heart into it. Only in this way can you get the true joy of achieving your goals. Besides, job-hopping is helpful to raise employees' living standards. Every chance to change a job offers the employee an opportunity to move up to a higher position and to get better wages. Job-hopping is also beneficial to the employers. It gives the employers — the bosses, the managers — the chance to benefit from the new ideas and skills that different people bring to their firms or factories. Of course, whether stick to one job or not depends on the specific situations in different phases. What is important is try to confirm the career development direction during the phases of experiencing both success and failure.",
+              "explanation": "### 1. 参考范文 (Model Essay)\nIn the contemporary employment landscape, the notion of lifelong tenure with a single employer has been largely supplanted by a more dynamic approach to career development. While some individuals derive satisfaction and security from long-term stability, I firmly believe that the practice of changing jobs periodically, often termed 'job-hopping,' can be a more advantageous strategy for personal and professional growth in today's world.\n\nThe primary benefit of job-hopping lies in its capacity to accelerate skill acquisition and career progression. By moving between different roles and organisations, individuals are exposed to diverse corporate cultures, management styles, and technical challenges. This variety forces them to adapt quickly, learn new systems, and broaden their professional toolkit far more rapidly than if they remained in a static position. Consequently, they can build a more versatile and impressive resume, making them more competitive in the global job market. For instance, a software engineer who works at a startup, a large tech corporation, and then a fintech firm will gain a much wider perspective than a peer who spends a decade in one company's IT department.\n\nFurthermore, frequent job changes can lead to greater financial rewards and job satisfaction. In many industries, the most significant salary increases often occur when switching companies, as external hires can command a premium based on market rates and new skills. Beyond remuneration, changing jobs allows individuals to escape stagnation, boredom, or toxic work environments. It empowers them to proactively seek roles that better align with their evolving interests, values, and desired work-life balance, thereby enhancing overall well-being and engagement.\n\nAdmittedly, critics argue that job-hopping can signal a lack of loyalty or depth of experience to potential employers. There is a valid concern that some individuals may change jobs too hastily, without fully mastering a role or contributing meaningfully. However, this potential drawback is mitigated when changes are strategic, well-justified, and demonstrate clear progression. In fact, in fast-evolving sectors like technology and digital marketing, the ability to adapt and bring fresh ideas from various contexts is often prized over prolonged tenure.\n\nIn conclusion, although a stable, long-term career path offers undeniable comforts, the merits of strategic job mobility are more compelling in the modern economy. It fosters accelerated learning, financial advancement, and personal fulfilment. Therefore, I contend that when executed thoughtfully, job-hopping is not merely a trend but a rational and effective approach to building a successful and satisfying career.\n\n### 2. 写作思路 (Writing Strategy)\n*   **文章结构 (Structure):** 采用经典的“双边讨论-给出明确立场”的议论文结构。\n    *   **引言段:** 引出话题，对比两种观点，并清晰陈述自己的立场（支持有策略的跳槽）。\n    *   **主体段1:** 阐述支持跳槽的第一个核心论点——促进技能快速获取与职业发展，并举例说明。\n    *   **主体段2:** 阐述第二个核心论点——带来更高的经济回报和工作满意度，并解释原因。\n    *   **让步段:** 承认反方观点（可能显得不忠诚或经验不深），并对其进行反驳，指出其局限性。\n    *   **结论段:** 总结全文，重申立场，强调在当代背景下，有策略的跳槽更具优势。\n*   **论证方法 (Arguments):** 论点具体，逻辑层层递进。使用“技能发展”、“经济与满意度”作为两大支柱，并用“让步反驳”来增强说服力，体现思维的全面性。\n*   **语气与用词 (Tone & Diction):** 语气客观、坚定、学术化。使用正式、准确的词汇和复杂句型（如非限定性定语从句、状语从句等），避免绝对化语言，体现辩证思考。\n\n### 3. 亮点词汇与句型 (Key Vocabulary & Expressions)\n1.  **supplant** (v.) /səˈplɑːnt/ 取代，代替\n    *   *例句: Digital media has largely supplanted traditional print in many areas.*\n2.  **dynamic approach** (n. phrase) 动态的、灵活的方法\n    *   *例句: A dynamic approach to problem-solving is essential in a startup environment.*\n3.  **versatile** (adj.) /ˈvɜːrsətl/ 多才多艺的；多功能的\n    *   *例句: Her versatile skill set made her an ideal candidate for the managerial role.*\n4.  **stagnation** (n.) /stæɡˈneɪʃn/ 停滞，不发展\n    *   *例句: Many employees fear career stagnation if they stay in one role for too long.*\n5.  **mitigate** (v.) /ˈmɪtɪɡeɪt/ 减轻，缓和\n    *   *例句: The risks associated with job-hopping can be mitigated by careful planning.*\n6.  **strategic** (adj.) /strəˈtiːdʒɪk/ 战略性的，有计划的\n    *   *例句: He made a strategic career move to a competitor to gain new experience.*\n7.  **compelling** (adj.) /kəmˈpelɪŋ/ 令人信服的，有说服力的\n    *   *例句: The evidence for the benefits of lifelong learning is compelling.*\n8.  **I contend that...** (Expression) 我认为，我主张...\n    *   *例句: I contend that a diverse workforce is a key driver of innovation.*"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

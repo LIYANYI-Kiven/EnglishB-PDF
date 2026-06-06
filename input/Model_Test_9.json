@@ -1,0 +1,1289 @@
+{
+  "exams": [
+    {
+      "id": "test-9",
+      "title": "Model Test 9",
+      "sections": [
+        {
+          "id": "test-9-listening-a",
+          "title": "Part I Listening Comprehension - Section A",
+          "audioSrc": "https://ucasphdlistening.logicmoriaty.top/009Model%20Test%209.mp3",
+          "instructions": "In this part, you will hear 10 short conversations.",
+          "questions": [
+            {
+              "id": "test-9-q1",
+              "number": 1,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Because she may not be able to finish her work before the deadline."
+                },
+                {
+                  "label": "B",
+                  "text": "Because she might be missing an appointment with Sarah."
+                },
+                {
+                  "label": "C",
+                  "text": "Because she has broken her neck and feels very painful."
+                },
+                {
+                  "label": "D",
+                  "text": "Because she doesn't like coffee at all."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q2",
+              "number": 2,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Because he has no money to buy a new car."
+                },
+                {
+                  "label": "B",
+                  "text": "Because he needs to go to work in weekend."
+                },
+                {
+                  "label": "C",
+                  "text": "Because he needs to do something to kill time in weekend."
+                },
+                {
+                  "label": "D",
+                  "text": "Because he loves his old car very much."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q3",
+              "number": 3,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The woman thinks the man should make an issue of the damage."
+                },
+                {
+                  "label": "B",
+                  "text": "The woman complained about the damage to the man."
+                },
+                {
+                  "label": "C",
+                  "text": "The man complained about his tiredness to the woman."
+                },
+                {
+                  "label": "D",
+                  "text": "The man caused the damage."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q4",
+              "number": 4,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The director agreed to their plans completely."
+                },
+                {
+                  "label": "B",
+                  "text": "The director objected to their plan."
+                },
+                {
+                  "label": "C",
+                  "text": "The director partially agreed with them."
+                },
+                {
+                  "label": "D",
+                  "text": "The director didn't say anything."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q5",
+              "number": 5,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It was kept in the refrigerator."
+                },
+                {
+                  "label": "B",
+                  "text": "It was bought yesterday."
+                },
+                {
+                  "label": "C",
+                  "text": "It was not preserved well."
+                },
+                {
+                  "label": "D",
+                  "text": "Someone has eaten it up."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q6",
+              "number": 6,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The man forgot to connect his phone yesterday."
+                },
+                {
+                  "label": "B",
+                  "text": "The woman tried to connect the man last night."
+                },
+                {
+                  "label": "C",
+                  "text": "The man's telephone has broken last night."
+                },
+                {
+                  "label": "D",
+                  "text": "Nobody called the man last night."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q7",
+              "number": 7,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Because he has failed in the exam."
+                },
+                {
+                  "label": "B",
+                  "text": "Because he is afraid of taking exams."
+                },
+                {
+                  "label": "C",
+                  "text": "Because he is not ready for the exam yet."
+                },
+                {
+                  "label": "D",
+                  "text": "Because he has no time to finish the work."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q8",
+              "number": 8,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He has cut his fingers this morning."
+                },
+                {
+                  "label": "B",
+                  "text": "He has drunk too much beer and got a red face."
+                },
+                {
+                  "label": "C",
+                  "text": "He has cut his face when shaving."
+                },
+                {
+                  "label": "D",
+                  "text": "He has grown mature and sophisticated."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q9",
+              "number": 9,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Because he is eating something delicious."
+                },
+                {
+                  "label": "B",
+                  "text": "Because he has bought two tickets for an excellent show."
+                },
+                {
+                  "label": "C",
+                  "text": "Because he is telling a joke."
+                },
+                {
+                  "label": "D",
+                  "text": "Because he has got free tickets for the trip to Hawaii."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q10",
+              "number": 10,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He wants to buy an apartment."
+                },
+                {
+                  "label": "B",
+                  "text": "He wants to rent an apartment."
+                },
+                {
+                  "label": "C",
+                  "text": "He wants to book a room in a hotel."
+                },
+                {
+                  "label": "D",
+                  "text": "He wants to find a safe place to live."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "test-9-listening-b",
+          "title": "Part I Listening Comprehension - Section B",
+          "audioSrc": "https://ucasphdlistening.logicmoriaty.top/009Model%20Test%209.mp3",
+          "instructions": "Sentence completion.",
+          "questions": [
+            {
+              "id": "test-9-q11",
+              "number": 11,
+              "text": "The first lines of the book are \"You know more than you think you do\".",
+              "type": "fill-blank",
+              "correctAnswer": "Trust yourself"
+            },
+            {
+              "id": "test-9-q12",
+              "number": 12,
+              "text": "In the past, mothers had been told to reject their __________ about their babies.",
+              "type": "fill-blank",
+              "correctAnswer": "natural feelings"
+            },
+            {
+              "id": "test-9-q13",
+              "number": 13,
+              "text": "John B. Watson's book \"Psychological Care of Infant and Child\" advocates __________ in dealing with children.",
+              "type": "fill-blank",
+              "correctAnswer": "extreme firmness"
+            },
+            {
+              "id": "test-9-q14",
+              "number": 14,
+              "text": "Doctor Spock said that his book was __________ to help parents trust their own natural abilities in caring for their children.",
+              "type": "fill-blank",
+              "correctAnswer": "an effort"
+            },
+            {
+              "id": "test-9-q15",
+              "number": 15,
+              "text": "Doctor Spock's book discusses the __________ development of children.",
+              "type": "fill-blank",
+              "correctAnswer": "mental and emotional"
+            },
+            {
+              "id": "test-9-q16",
+              "number": 16,
+              "text": "During an earthquake, energy is __________ in several forms, including movement, heat, and seismic waves.",
+              "type": "fill-blank",
+              "correctAnswer": "released"
+            },
+            {
+              "id": "test-9-q17",
+              "number": 17,
+              "text": "Earthquakes take place from the __________ of the earth's outermost layer of crust and upper mantle.",
+              "type": "fill-blank",
+              "correctAnswer": "deformation"
+            },
+            {
+              "id": "test-9-q18",
+              "number": 18,
+              "text": "The rates of plate movements range from about __________ per year.",
+              "type": "fill-blank",
+              "correctAnswer": "2 to 12 centimeters"
+            },
+            {
+              "id": "test-9-q19",
+              "number": 19,
+              "text": "The \"Ring of Fire\" circling the Pacific Ocean is one of the most __________ in the world.",
+              "type": "fill-blank",
+              "correctAnswer": "active areas"
+            },
+            {
+              "id": "test-9-q20",
+              "number": 20,
+              "text": "At present, it is not possible to predict earthquakes or to specify __________ their exact date, time and location.",
+              "type": "fill-blank",
+              "correctAnswer": "in advance"
+            }
+          ]
+        },
+        {
+          "id": "test-9-listening-c",
+          "title": "Part I Listening Comprehension - Section C",
+          "audioSrc": "https://ucasphdlistening.logicmoriaty.top/009Model%20Test%209.mp3",
+          "instructions": "Short answers.",
+          "questions": [
+            {
+              "id": "test-9-q21",
+              "number": 21,
+              "text": "Which period in history is called \"The Age of Genius\"?",
+              "type": "fill-blank",
+              "correctAnswer": "The 16th century."
+            },
+            {
+              "id": "test-9-q22",
+              "number": 22,
+              "text": "According to this mini-talk, what is Leonardo de Vinci famous for?",
+              "type": "fill-blank",
+              "correctAnswer": "His paintings and his talent in the sciences."
+            },
+            {
+              "id": "test-9-q23",
+              "number": 23,
+              "text": "What is Michelangelo's best-known work?",
+              "type": "fill-blank",
+              "correctAnswer": "The painting on the ceiling of a church in Rome."
+            },
+            {
+              "id": "test-9-q24",
+              "number": 24,
+              "text": "What is one of the most surprising things about football in England?",
+              "type": "fill-blank",
+              "correctAnswer": "Even a small boy may have great knowledge of football."
+            },
+            {
+              "id": "test-9-q25",
+              "number": 25,
+              "text": "What does education mean in England?",
+              "type": "fill-blank",
+              "correctAnswer": "To fill one's mind with knowledge and to train one's character."
+            },
+            {
+              "id": "test-9-q26",
+              "number": 26,
+              "text": "Why is football a game in every school in England?",
+              "type": "fill-blank",
+              "correctAnswer": "Because the team game is good both for the body and the mind."
+            },
+            {
+              "id": "test-9-q27",
+              "number": 27,
+              "text": "What is a mystery according to the talk?",
+              "type": "fill-blank",
+              "correctAnswer": "The origin of language."
+            },
+            {
+              "id": "test-9-q28",
+              "number": 28,
+              "text": "According to the speaker, why did men invent sounds and words?",
+              "type": "fill-blank",
+              "correctAnswer": "To communicate with each other."
+            },
+            {
+              "id": "test-9-q29",
+              "number": 29,
+              "text": "What is the power of words?",
+              "type": "fill-blank",
+              "correctAnswer": "Their association."
+            },
+            {
+              "id": "test-9-q30",
+              "number": 30,
+              "text": "What is a real poet considered as?",
+              "type": "fill-blank",
+              "correctAnswer": "A master of words."
+            }
+          ]
+        },
+        {
+          "id": "test-9-use-of-english-a",
+          "title": "Part II Use of English - Section A",
+          "instructions": "Cloze test.",
+          "questions": [
+            {
+              "id": "test-9-q31",
+              "number": 31,
+              "text": "Fill in blank 31",
+              "type": "fill-blank",
+              "correctAnswer": "roads"
+            },
+            {
+              "id": "test-9-q32",
+              "number": 32,
+              "text": "Fill in blank 32",
+              "type": "fill-blank",
+              "correctAnswer": "events"
+            },
+            {
+              "id": "test-9-q33",
+              "number": 33,
+              "text": "Fill in blank 33",
+              "type": "fill-blank",
+              "correctAnswer": "Native"
+            },
+            {
+              "id": "test-9-q34",
+              "number": 34,
+              "text": "Fill in blank 34",
+              "type": "fill-blank",
+              "correctAnswer": "looked for"
+            },
+            {
+              "id": "test-9-q35",
+              "number": 35,
+              "text": "Fill in blank 35",
+              "type": "fill-blank",
+              "correctAnswer": "gold"
+            },
+            {
+              "id": "test-9-q36",
+              "number": 36,
+              "text": "Fill in blank 36",
+              "type": "fill-blank",
+              "correctAnswer": "popular"
+            },
+            {
+              "id": "test-9-q37",
+              "number": 37,
+              "text": "Fill in blank 37",
+              "type": "fill-blank",
+              "correctAnswer": "frightening"
+            },
+            {
+              "id": "test-9-q38",
+              "number": 38,
+              "text": "Fill in blank 38",
+              "type": "fill-blank",
+              "correctAnswer": "changed"
+            },
+            {
+              "id": "test-9-q39",
+              "number": 39,
+              "text": "Fill in blank 39",
+              "type": "fill-blank",
+              "correctAnswer": "adventures"
+            },
+            {
+              "id": "test-9-q40",
+              "number": 40,
+              "text": "Fill in blank 40",
+              "type": "fill-blank",
+              "correctAnswer": "society"
+            },
+            {
+              "id": "test-9-q41",
+              "number": 41,
+              "text": "Fill in blank 41",
+              "type": "fill-blank",
+              "correctAnswer": "escape"
+            },
+            {
+              "id": "test-9-q42",
+              "number": 42,
+              "text": "Fill in blank 42",
+              "type": "fill-blank",
+              "correctAnswer": "disappointed"
+            },
+            {
+              "id": "test-9-q43",
+              "number": 43,
+              "text": "Fill in blank 43",
+              "type": "fill-blank",
+              "correctAnswer": "supported"
+            },
+            {
+              "id": "test-9-q44",
+              "number": 44,
+              "text": "Fill in blank 44",
+              "type": "fill-blank",
+              "correctAnswer": "But"
+            },
+            {
+              "id": "test-9-q45",
+              "number": 45,
+              "text": "Fill in blank 45",
+              "type": "fill-blank",
+              "correctAnswer": "with"
+            }
+          ],
+          "content": "The North American West has meant adventure since the journalist Horace Greeley said his famous words, \"Go West, young man!\" The West means long straight {{31}} or trails, open spaces and amazing views.\n\nThe story of the West is the story of American lives and the important {{32}} in history that changed them. {{33}} Americans who lost their lands in the East went west after the \"white man\" arrived. Cowboys went west for jobs on huge ranches in Texas. African-Americans left their homes in the South and {{34}} new lives in the West after the Civil War.\n\nIn the nineteenth century, people went west for {{35}} work, and good homes for their families. Tourism in the West was not {{36}} in those days. In fact, many people thought the West was ugly and {{37}}. One disgusted visitor from the East saw the Grand Canyon and said, \"It's no place for a gentleman, sir!\"\n\nThese feelings {{38}} completely in the twentieth century. Route 66, the road from Chicago to California, became the trail people followed to new and exciting {{39}} In the 1950s, the West offered an escape for young people who were not satisfied with American {{40}} In 1957, Jack Kerouac wrote On the Road, a book that described this {{41}} for the beat generation of the 1950s. In the 1960s, San Francisco became a center for the hippy generation. Many of these \"flower children\" were {{42}} in the United States government because it {{43}} the Vietnam War.\n\nThese days, many people who go west are buying expensive homes in states like Arizona and Montana. The West which we know today is not very wild anymore. {{44}} it is very beautiful, {{45}} a colorful history that holds magic for many people.",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "exhilarant"
+            },
+            {
+              "label": "B",
+              "text": "changed"
+            },
+            {
+              "label": "C",
+              "text": "looked for"
+            },
+            {
+              "label": "D",
+              "text": "discouraged"
+            },
+            {
+              "label": "E",
+              "text": "coast"
+            },
+            {
+              "label": "F",
+              "text": "but"
+            },
+            {
+              "label": "G",
+              "text": "roads"
+            },
+            {
+              "label": "H",
+              "text": "supported"
+            },
+            {
+              "label": "I",
+              "text": "welfare"
+            },
+            {
+              "label": "J",
+              "text": "occurrences"
+            },
+            {
+              "label": "K",
+              "text": "populous"
+            },
+            {
+              "label": "L",
+              "text": "with"
+            },
+            {
+              "label": "M",
+              "text": "as"
+            },
+            {
+              "label": "N",
+              "text": "escape"
+            },
+            {
+              "label": "O",
+              "text": "history"
+            },
+            {
+              "label": "P",
+              "text": "adventures"
+            },
+            {
+              "label": "Q",
+              "text": "and"
+            },
+            {
+              "label": "R",
+              "text": "disappointed"
+            },
+            {
+              "label": "S",
+              "text": "diamond"
+            },
+            {
+              "label": "T",
+              "text": "turned to"
+            },
+            {
+              "label": "U",
+              "text": "local"
+            },
+            {
+              "label": "V",
+              "text": "frightening"
+            },
+            {
+              "label": "W",
+              "text": "society"
+            },
+            {
+              "label": "X",
+              "text": "curious"
+            },
+            {
+              "label": "Y",
+              "text": "native"
+            },
+            {
+              "label": "Z",
+              "text": "gold"
+            },
+            {
+              "label": "AA",
+              "text": "avenue"
+            },
+            {
+              "label": "BB",
+              "text": "popular"
+            },
+            {
+              "label": "CC",
+              "text": "events"
+            },
+            {
+              "label": "DD",
+              "text": "accidents"
+            }
+          ],
+          "passageAnalysis": "### 1. 文章大意 (Main Idea)\n本文以“美国西部”为主题，探讨了其象征意义与历史变迁。文章首先指出西部自19世纪以来就象征着冒险与机遇，吸引了原住民、牛仔、非裔美国人等不同群体前往。随后，文章描述了19世纪时人们对西部的负面看法，以及这种看法在20世纪发生的彻底转变——西部成为追求新生活、反叛主流社会的目的地。最后，文章指出当代西部虽已不再“狂野”，但其壮丽的景色和丰富的历史依然对人们充满吸引力。\n\n### 2. 语篇结构 (Structure Analysis)\n*   **第一段：** 引入主题，点明美国西部的传统象征意义（冒险、开阔空间、壮丽景色）。\n*   **第二段：** 具体阐述19世纪不同群体（原住民、牛仔、非裔美国人）西迁的历史原因，说明西部是“改变美国人的生活”之地。\n*   **第三段：** 描述19世纪人们对西部的另一种普遍看法（丑陋、可怕），并以大峡谷为例，与第一段的正面印象形成对比。\n*   **第四段：** 阐述20世纪观念的根本转变。以66号公路、“垮掉的一代”、嬉皮士运动为例，说明西部成为追求自由、逃离社会的象征。\n*   **第五段：** 总结当代西部的现状（不再狂野但依然美丽），并强调其多彩的历史魅力。\n\n### 3. 核心词汇 (Core Vocabulary)\n1.  **adventure** - 冒险，奇遇\n2.  **trails** - 小径，路线\n3.  **events** - 事件\n4.  **Native Americans** - 美洲原住民\n5.  **ranches** - 大牧场，农场\n6.  **looked for** - 寻找，寻求\n7.  **gold** - 黄金\n8.  **popular** - 流行的，受欢迎的\n9.  **frightening** - 可怕的，令人恐惧的\n10. **changed** - 改变，转变\n11. **society** - 社会\n12. **escape** - 逃离，逃避\n13. **disappointed** - 失望的\n14. **supported** - 支持\n15. **holds magic** - 具有魔力，充满魅力"
+        },
+        {
+          "id": "test-9-reading-b-passage-1",
+          "title": "Part II Reading Comprehension - Section B - Passage 1",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-9-q46",
+              "number": 46,
+              "text": "What can be inferred about the modern media of communication?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Radio programs evoke deep thinking in audience."
+                },
+                {
+                  "label": "B",
+                  "text": "Television talk shows expose more serious social problems with deep insight."
+                },
+                {
+                  "label": "C",
+                  "text": "Newspapers tend to be more objective review of problems."
+                },
+                {
+                  "label": "D",
+                  "text": "Audience are more in favor of real competition on the political scene not represented via media."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q47",
+              "number": 47,
+              "text": "Talk shows are mentioned to illustrate that",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "the interviewees can express their own ideas as freely as possible."
+                },
+                {
+                  "label": "B",
+                  "text": "they can provide information and stimulate healthy discussion."
+                },
+                {
+                  "label": "C",
+                  "text": "the interviewer manipulates public idea to a great extent."
+                },
+                {
+                  "label": "D",
+                  "text": "television plays a greater role in promoting knowledge spread."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q48",
+              "number": 48,
+              "text": "How does the new elite influence the elected government?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They stick to an ideal and fight for it."
+                },
+                {
+                  "label": "B",
+                  "text": "They can be constructive to those political officials in their campaigns for election."
+                },
+                {
+                  "label": "C",
+                  "text": "They stealthily modify the constitution."
+                },
+                {
+                  "label": "D",
+                  "text": "They unambiguously provide information without bias."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q49",
+              "number": 49,
+              "text": "The new elite may temper the democracy in a bad way by",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "devoting to a public cause."
+                },
+                {
+                  "label": "B",
+                  "text": "forgetting public interest."
+                },
+                {
+                  "label": "C",
+                  "text": "striving for a public position."
+                },
+                {
+                  "label": "D",
+                  "text": "appealing to a public institution."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q50",
+              "number": 50,
+              "text": "What is the relationship between mediacracy and democracy according to the author?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Mediacracy may displace representative democracy."
+                },
+                {
+                  "label": "B",
+                  "text": "They facilitate each other."
+                },
+                {
+                  "label": "C",
+                  "text": "Representative democracy may be upgraded by mediacracy."
+                },
+                {
+                  "label": "D",
+                  "text": "Mediacracy may be manipulated by representative democracy."
+                }
+              ]
+            }
+          ],
+          "content": "To be sure, the times and the setting differ. While we may still have Cleons and Cleophons vying for power on the political scene, and competing for elected office, there are also other ways through which influence and power can be gained in our age, ways offered by the modern media of communication. These include newspapers, radio, and television. The first have some tradition of a detached analysis and evaluation of political issues, a tradition which is still continued in some publications. The other two, due to their very nature, are more likely to generate intellectual bubbles than serious reflection. This may be particularly true of television. Moreover, the interviewers on these media wield considerable power in setting up the discussion, in selecting the interviewees, in directing the talk with them, and between them and the public. This transpires on the proliferating \"talk-shows,\" which captivate the attention of the American public. According to one report, one half of American adults listen to such talks at least once a week, and some talk-show hosts, like Rush Limbaugh, reach an audience of 20 million people.\n\nAll this involves the political ascendancy of the assorted journalists, television personalities, talk-radio hosts and the like. The gate is open to entertainers, ex-politicians, adventurers, to enter the arena of politics-ostensibly to provide information and to stimulate healthy discussion, but all too often to manipulate and control public opinion. Some of these new elites may be genuinely committed to an ideal, while others are self-seeking individuals trying to gain fame and power for themselves with little concern for the public weal. Moreover, the more popular personalities of the media can be of great help to political officials and candidates, and thus exert an indirect influence on the composition of the elected government.\n\nThus there is a possibility that in American democracy the leadership will at least partly slip into the hands of unelected and technically extra-constitutional individuals, eager for popularity and personal success and oblivious of public responsibility. This opens the door for demagoguery and may undermine the authority and stature of elected officials. Even if it would be an exaggeration to expect that this media elite will replace the official people's representatives, and make the latter completely dependent on the former, the ascendancy of the mediacracy threatens the present institutions and may facilitate the degeneration of representative democracy. We may well follow the pattern of decline of ancient Athens in our own peculiar modern way."
+        },
+        {
+          "id": "test-9-reading-b-passage-2",
+          "title": "Part II Reading Comprehension - Section B - Passage 2",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-9-q51",
+              "number": 51,
+              "text": "Why does the cover story explore Tony Blair's alternative job prospects?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People suspect that he can not serve a third term."
+                },
+                {
+                  "label": "B",
+                  "text": "His grand election victories find him a way into other fields."
+                },
+                {
+                  "label": "C",
+                  "text": "People suspect that he cheated in the former elections."
+                },
+                {
+                  "label": "D",
+                  "text": "He did underhanded things so as not to be worthy of trust."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q52",
+              "number": 52,
+              "text": "According to the author, what did Tony Blair NOT do?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He committed a serious mistake concerning the problem of Iraq."
+                },
+                {
+                  "label": "B",
+                  "text": "He misinterpreted the situation in Iraq."
+                },
+                {
+                  "label": "C",
+                  "text": "He undermined the image of his party."
+                },
+                {
+                  "label": "D",
+                  "text": "He showed sympathy to Saddam Hussein."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q53",
+              "number": 53,
+              "text": "What is Bremer's idea of Blair's claim of “massive evidence of a huge system of clandestine laboratories”?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a new way to reinforce the American security."
+                },
+                {
+                  "label": "B",
+                  "text": "It condemns America to danger."
+                },
+                {
+                  "label": "C",
+                  "text": "It is intended to work against American policy."
+                },
+                {
+                  "label": "D",
+                  "text": "It is indeed invaluable because it is secret."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q54",
+              "number": 54,
+              "text": "What is implied about political claims?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are usually confirmed by solid evidence."
+                },
+                {
+                  "label": "B",
+                  "text": "They are often proved by adequate information."
+                },
+                {
+                  "label": "C",
+                  "text": "Statistics are often made deceptively reasonable."
+                },
+                {
+                  "label": "D",
+                  "text": "Close examination often crystalize the truth."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q55",
+              "number": 55,
+              "text": "What can be inferred about Tony Blair in the last paragraph?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He lost trust from the public."
+                },
+                {
+                  "label": "B",
+                  "text": "He is trying to compensate in other fields."
+                },
+                {
+                  "label": "C",
+                  "text": "He is preoccupied with election campaigns."
+                },
+                {
+                  "label": "D",
+                  "text": "He merits being listened to."
+                }
+              ]
+            }
+          ],
+          "content": "It may seem extraordinary that, with two spectacular election victories under his belt and a third likely, there should be so much speculation about whether Tony Blair can survive 2004 to the extent that our cover story this week explores his alternative job prospects. Yet every day, it becomes clearer that the Prime Minister's error over Iraq was so catastrophic, so patent an example of bad judgement, so contrary to the spirit of his party as to pollute the entire new Labour project. Nobody should shed tears for Saddam Hussein or doubt that most Iraqis rejoice at his downfall and subsequent capture. But what supposedly made Saddam different from dozens of other brutal dictators around the world (of whom some are treated as friends of the west) was the threat he posed to British and American security. Not a scrap of support for the existence of such a threat has been found. If, as Mr. Blair says, there is now \"massive evidence of a huge system of clandestine laboratories\", why can the laboratories themselves not be found? The claim seemed so absurd to Paul Bremer, America's equivalent of a colonial governor in Iraq, that until told that it had been made by the PM, he suggested it was part of some devious attempt to undermine US and British policy.\n\nMost political claims can be justified one way or another with sufficient massage of facts and figures; alternatively, it can be denied the claims were ever made in the form that people thought they were made. But Mr. Blair was unequivocal. Saddam had weapons of mass destruction; no ifs and buts; the PM knew more than he could tell us. Now the news from Iraq is just as unequivocal. Nobody is bothering to look for WMDs any more. Mr. Blair's insistence that he really meant “programmes\" or just \"intentions to acquire\" makes him look both comic and pathetic.\n\nThe result is that everything else his government says and does becomes suspect. Are the figures that show progress towards eradicating child poverty also sexed up? Can we believe anything we are told about improvements in health or education? Are the imminent terrorist attacks of which ministers warn as illusory as Saddam's WMDs? Mr Blair's authority is now so eroded that he does not get a hearing even when he deserves it. For top-up university fees, for example, there is a strong social democratic case to be made. But nobody would listen to Mr. Blair making it, even if he were capable of doing so. The whole issue has become so bound up with the political fallout from Iraq that there is almost no chance of a serious public debate."
+        },
+        {
+          "id": "test-9-reading-b-passage-3",
+          "title": "Part II Reading Comprehension - Section B - Passage 3",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-9-q56",
+              "number": 56,
+              "text": "It can be inferred from the first paragraph that",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "strict laws are brought into effect concerning treatment of the elderly."
+                },
+                {
+                  "label": "B",
+                  "text": "mistreatment of the elderly is dealt with effectively in the States."
+                },
+                {
+                  "label": "C",
+                  "text": "substantial abuses of the elderly are detected all over the country."
+                },
+                {
+                  "label": "D",
+                  "text": "maltreatment of the elderly is not complained about as it should be."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q57",
+              "number": 57,
+              "text": "What is one of the findings of the cited study?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Senior people are more vulnerable to mistreatment if they have many requirements."
+                },
+                {
+                  "label": "B",
+                  "text": "It is difficult to keep better records of domestic abuse."
+                },
+                {
+                  "label": "C",
+                  "text": "Compulsory reporting contributes to higher incidence of investigation."
+                },
+                {
+                  "label": "D",
+                  "text": "Abuse of adults over 60 is reported more than that of those under 55."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q58",
+              "number": 58,
+              "text": "What can be said about domestic eider abuse?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People are often abused because of bad mental condition."
+                },
+                {
+                  "label": "B",
+                  "text": "Adults are better treated at home than at care facilities."
+                },
+                {
+                  "label": "C",
+                  "text": "Those senior people who are weak physically or mentally sometimes become a victim to family abuse."
+                },
+                {
+                  "label": "D",
+                  "text": "It renders old people more dependent on others for their daily living."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q59",
+              "number": 59,
+              "text": "What is the drawback of the elder abuse reporting system?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The information collecting and laws concerning elder abuse are not consistent."
+                },
+                {
+                  "label": "B",
+                  "text": "Reports of elder abuse received by the states are often alleged to be true."
+                },
+                {
+                  "label": "C",
+                  "text": "The investigation and substantiation tend to be time-consuming."
+                },
+                {
+                  "label": "D",
+                  "text": "It only aims to deal with some mistreatment of the elder that takes place at home."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q60",
+              "number": 60,
+              "text": "It can be inferred from the last two paragraphs that the model elder abuse reporting system",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "is not shared by both adults and children."
+                },
+                {
+                  "label": "B",
+                  "text": "does not apply effectively everywhere."
+                },
+                {
+                  "label": "C",
+                  "text": "deals with children abuse more accurately."
+                },
+                {
+                  "label": "D",
+                  "text": "works better with elder abuse."
+                }
+              ]
+            }
+          ],
+          "content": "Although all states have laws and services in place to detect domestic elder abuse, only about one in five actual cases is reported and substantiated. How cases are detected and dispatched differs significantly across the nation because laws and regulations vary greatly.\n\nIn particular, a University of Iowa, Ames, study found that states that demand mandatory reporting and tracking of domestic elder abuse have much higher investigation rates than those without these requirements.\n\nDomestic elder abuse is the victimization of adults or dependent/ vulnerable adults age 60 and older — age 65 and older in California, Maryland, and Nebraska; age 55 and older in Alabama — who live in private residences, not care facilities. Dependent adults are unable to care for themselves as a result of a physical or mental condition and depend on others to help them with tasks of daily living.\n\n\"Our findings suggest that improvements and standardization are needed nationwide in how information on elder abuse is collected and how state laws are created,\" says Gerald Jogerst, associate professor and interim head of family medicine in the Roy J. and Lucille A. Carver College of Medicine and lead investigator in the study.\n\nA \"report\" is an allegation or suspicion of maltreatment received by a state's adult protective service; an \"investigation\" involves actually going to a potential victim's home to see whether abuse is taking place; and \"substantiation\" is the finding of offenses as defined by that state's law.\n\nThe researchers found that domestic elder abuse reports varied from 4.5 per 1,000 elders in New Hampshire to 14.6 in California. \"The range of reporting rates is very high, and is one of the indicators that there is high variability in how states document elder abuse.\" Investigation rates ranged from 0.5 per 1,000 in Wyoming to 12.1 in Texas. Substantiations ranged from 0.1 per 1,000 in Wyoming to 8.6 in Minnesota. Forty-five percent of cases investigated were classified as actual abuse according to state laws.\n\n\"The National Association of Adult Protective Services has a model reporting system for states to mimic. However, some states are hindered in implementing the model because their adult and child protection services share a computerized system,\" points out Jeanette Daly, geriatric nurse researcher in family medicine and the study's co-principal investigator.\n\nThe researchers also found that states where investigators handle only elder abuse cases had a nearly 50% substantiation ratio compared to 34% where investigators handle both child and elder abuse cases. \"This substantiation difference may exist because investigators devoted to one type of abuse probably acquire more expertise by doing more elder abuse investigations,\" Jogerst concludes."
+        },
+        {
+          "id": "test-9-reading-c",
+          "title": "Part II Reading Comprehension - Section C",
+          "instructions": "In the following passage, five sentences have been removed from the original text.",
+          "questions": [
+            {
+              "id": "test-9-q61",
+              "number": 61,
+              "text": "Choose the best sentence for blank 61",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Access to inadequate facilities..."
+                },
+                {
+                  "label": "B",
+                  "text": "As a result..."
+                },
+                {
+                  "label": "C",
+                  "text": "The practice has been..."
+                },
+                {
+                  "label": "D",
+                  "text": "Safer weaning can be achieved..."
+                },
+                {
+                  "label": "E",
+                  "text": "Nutrition and health promotion..."
+                },
+                {
+                  "label": "F",
+                  "text": "\"Dialogue on Diarrhoea\"..."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q62",
+              "number": 62,
+              "text": "Choose the best sentence for blank 62",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Access to inadequate facilities..."
+                },
+                {
+                  "label": "B",
+                  "text": "As a result..."
+                },
+                {
+                  "label": "C",
+                  "text": "The practice has been..."
+                },
+                {
+                  "label": "D",
+                  "text": "Safer weaning can be achieved..."
+                },
+                {
+                  "label": "E",
+                  "text": "Nutrition and health promotion..."
+                },
+                {
+                  "label": "F",
+                  "text": "\"Dialogue on Diarrhoea\"..."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q63",
+              "number": 63,
+              "text": "Choose the best sentence for blank 63",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Access to inadequate facilities..."
+                },
+                {
+                  "label": "B",
+                  "text": "As a result..."
+                },
+                {
+                  "label": "C",
+                  "text": "The practice has been..."
+                },
+                {
+                  "label": "D",
+                  "text": "Safer weaning can be achieved..."
+                },
+                {
+                  "label": "E",
+                  "text": "Nutrition and health promotion..."
+                },
+                {
+                  "label": "F",
+                  "text": "\"Dialogue on Diarrhoea\"..."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q64",
+              "number": 64,
+              "text": "Choose the best sentence for blank 64",
+              "type": "multiple-choice",
+              "correctAnswer": "F",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Access to inadequate facilities..."
+                },
+                {
+                  "label": "B",
+                  "text": "As a result..."
+                },
+                {
+                  "label": "C",
+                  "text": "The practice has been..."
+                },
+                {
+                  "label": "D",
+                  "text": "Safer weaning can be achieved..."
+                },
+                {
+                  "label": "E",
+                  "text": "Nutrition and health promotion..."
+                },
+                {
+                  "label": "F",
+                  "text": "\"Dialogue on Diarrhoea\"..."
+                }
+              ]
+            },
+            {
+              "id": "test-9-q65",
+              "number": 65,
+              "text": "Choose the best sentence for blank 65",
+              "type": "multiple-choice",
+              "correctAnswer": "E",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Access to inadequate facilities..."
+                },
+                {
+                  "label": "B",
+                  "text": "As a result..."
+                },
+                {
+                  "label": "C",
+                  "text": "The practice has been..."
+                },
+                {
+                  "label": "D",
+                  "text": "Safer weaning can be achieved..."
+                },
+                {
+                  "label": "E",
+                  "text": "Nutrition and health promotion..."
+                },
+                {
+                  "label": "F",
+                  "text": "\"Dialogue on Diarrhoea\"..."
+                }
+              ]
+            }
+          ],
+          "content": "Malnutrition during weaning age — when breast milk is being replaced by semi-solid foods — is highly prevalent in children of poor households in many developing countries. While the etiology is complex and multi-factorial, the immediate causes are recognized as feeding at less than adequate levels for child growth and development, and recurrent infections, including diarrhoea resulting mainly from ingestion of contaminated foods. Special weaning foods are seldom available at a cost affordable by the poor households. {{61}} Such traditional weaning food preparations do not satisfy the energy and other nutrient needs if they are either too liquid and, thus, have a very low energy density, or too bulky from which enough cannot be consumed by young children. On the other hand, the preparation itself is often contaminated with various germs. Highly contaminated weaning foods are reported to be associated with severity of malnutrition in young children. {{62}} Under conditions such as lack of clean water, refrigerator, fuel, adequate sewage disposal, as well as enough time to prepare fresh food for every meal it is hardly possible to provide young children with uncontaminated weaning foods. As a result of insufficient food intake and frequent diarrhoea, many young children, particularly between 6 months to two years of age, experience weight loss and impaired growth and development.\n\n{{63}} How to reach these goals in simple, practical and economical ways has been the subject of extensive studies by investigators from Ghana, India, Tanzania, Sweden and other countries in recent years. The efforts, concentrated on traditional food preparation methods, have resulted in offering cheap and practical answers to these problems from familiar, indigenous and culturally acceptable home-processing practices. {{64}}\n\nFirstly, cereal fermentation is used for reducing the risk of contamination under the existing inappropriate conditions for food preparation and storage in many households. Secondly, trials in some developing countries indicate the value of using a tiny amount of sprouted grains' flour in preparation of weaning foods as a magic way to thin down the viscosity without decreasing energy density. {{65}}",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "Access to inadequate facilities — for both preparation and storage of foods — by many poor households contribute substantially to weaning food contamination."
+            },
+            {
+              "label": "B",
+              "text": "As a result, staple foods cooked in water are normally fed to weaning age children in the form of gruels."
+            },
+            {
+              "label": "C",
+              "text": "The practice has been a traditional way of food preservation in many parts of the world."
+            },
+            {
+              "label": "D",
+              "text": "Safer weaning can be achieved through preparation of hygienic and nutritionally balanced weaning foods with high energy density per unit volume, of which enough can be eaten."
+            },
+            {
+              "label": "E",
+              "text": "Nutrition and health promotion programs can benefit greatly from such strategies in order to reduce the prevalence of food-related diarrhoeal diseases, as well as to increase energy intakes of many poor weaning-age children around the world."
+            },
+            {
+              "label": "F",
+              "text": "\"Dialogue on Diarrhoea\" has recently produced an issue in which the method of fermentation is discussed for a safe weaning."
+            }
+          ]
+        },
+        {
+          "id": "test-9-writing-a",
+          "title": "Part III Writing - Section A (Summary)",
+          "instructions": "Write a summary of no more than 150 words.",
+          "questions": [
+            {
+              "id": "test-9-q66",
+              "number": 66,
+              "text": "Write a summary of the provided article.",
+              "type": "writing",
+              "correctAnswer": "Some experts are worrying about the infections that donated tissue have brought to the recipients. They claim that there are serious holes in the system to monitor the trade in donor tissue, while the official from the donor tissue companies argues that hospitals should be responsible for the infections. Although organ procurement organizations can follow strict federal guidelines to match donors and recipients, the tissue banks get body parts from various sources. The industry of donor tissue is growing rapidly and making more money now, but experts are worrying about the lack of insight — there is not a guideline that all the tissue banks are supposed to follow to ensure that tissues are obtained in a germ-free way.",
+              "explanation": "### 1. 参考范文 (Model Summary)\nWhile organ donation is strictly regulated, the trade in human tissues—such as ligaments, tendons, and bones—operates with minimal oversight. This lack of regulation is a significant concern, as improperly handled tissue can transmit dangerous, even fatal, infections. For example, a young student died and several other patients developed severe clostridia infections after receiving donor knee tissue. Experts attribute these cases to serious flaws in the monitoring system. Unlike organs, which are procured under strict federal guidelines, tissues are sourced from various entities, including for-profit companies, in a rapidly growing, largely unregulated industry. Although voluntary guidelines exist, many tissue banks are not members of the industry group, and processing standards can be inconsistent, with some treatments ineffective against specific bacteria. Consequently, tissue may be collected by poorly trained personnel, increasing contamination risks. The industry's value has skyrocketed, driven by biomedical innovation and aggressive marketing, yet there is no central registry to track recipient outcomes, making the full extent of harm unknown.\n\n### 2. 摘要逻辑 (Summary Logic)\n摘要首先点明文章核心矛盾：器官捐献监管严格，而人体组织交易缺乏监管，并直接指出其严重后果——可能导致致命感染。接着，通过具体案例（如Brian Lykins的死亡和其他感染病例）来佐证这一风险。然后，解释了监管缺失的结构性原因：与器官不同，组织来源多样且行业以营利为导向、增长迅速但缺乏统一规范。摘要进一步说明了现有自愿性指南的局限性、处理标准的不一致以及人员培训不足的问题。最后，概括了行业规模激增的背景（生物医学创新驱动）和关键缺失（无中央登记系统），从而完整呈现了风险、原因和现状。\n\n### 3. 重点表达 (Key Expressions)\n1.  **While...** / 虽然...（用于引出对比背景）\n2.  **This lack of... is a significant concern** / 这种缺乏...是一个重大问题（用于直接陈述核心问题）\n3.  **For example** / 例如（用于引入具体例证）\n4.  **Consequently** / 因此（用于引出结果或影响）\n5.  **Yet** / 然而（用于引出转折或突出矛盾）"
+            }
+          ],
+          "content": "Donation of organs like hearts and livers are regulated zealously, but when it comes to human tissues — ligaments, tendons, bones, skin and other body parts — there is little oversight. This situation worries a growing number of experts, who fear that improperly handled tissue can transmit dangerous or even lethal infections.\n\nA 23-year old student in Minnesota, Brian Lykins, died in November, after being given donor knee tissue the Centers for Disease Control and Prevention later determined was infected with Clostridium sordellii, a close relative of the bacteria that cause gas gangrene. Since his death, the centers have turned up six more cases of clostridia infections in knee surgery patients around the country.\n\nDr. Warren King, an orthopedic surgeon in Palo Alto, Calif., said he knew of four people in California alone who developed life-threatening clostridia infections after surgery involving donor tissue. One was a patient referred to him, Alan Monvielle of Aptos, Calif., who almost died of gangrene after an earlier operation to repair an injured knee. Antibiotics saved him, but Mr. Monvielle now has a limp and cannot handle the big cement trucks he once drove for a living. His only hope for a full recovery is a knee replacement, but doctors advise against it — the bacteria that cause his gangrene may be dormant in his tissue, and more surgery might activate them and kill him.\n\nOfficials from companies that provide donor tissue generally attribute the infections to ambient bacteria in hospital operating rooms. But other experts say the cases point to serious holes in the system to monitor the trade in donor tissue.\n\nWhole organs like hearts, kidneys and livers can be taken from only a small number of donors who are brain-dead but on life support. Organ procurement organizations work closely with hospitals to match donors and recipients, following strict federal guidelines.\n\nBy contrast, tissue banks obtain bone, skin, blood vessels and valves, corneas and other body parts from many organizations, including universities, hospitals, morgues and even funeral homes. Many of the banks are highly reputable national or regional organizations, which take great care to recover tissue from donors who are free of disease. Some are small local charities working with a single hospital or university. But, increasingly, donor tissue is being collected, processed and sold by subsidiaries of for-profit companies, in a rapidly growing industry that is largely unregulated.\n\nThere is no ventral registry of people who receive this tissue, so it is not clear how many tissue transplant recipients are being harmed. Last year, tissue bands distributed more than 750,000 grafts, and there were few reports of serious complications. Donor tissue unquestionably saves lives and helps thousands of people each year with a growing list of life-enhancing products like knee ligaments and bone cement.\n\nBut the lack of oversight is worrisome, according to experts like Dr. George F. Grob, a deputy inspector general at the Department of Health and Human Services, who testified on the issue before Congress last year.\n\nThough an industry group sets voluntary guidelines, most tissue banks are not members and many set their own guidelines. As a result, Dr. King of Palo Alto said, tissue may be obtained by poorly trained technicians who may not keep it germ-free. Some of the standard treatments used to kill bacteria in processed tissues are not effective against clostridia, the major problem in knee surgery cases.\n\nIt is illegal to sell body parts. But it is legal to charge \"reasonable\" fees for collecting, shipping, processing, marketing and implanting them. Reasonable fees are nowhere defined by any federal agency, but a typical human body is now widely estimated to be worth as much as $220,000 in useful parts.\n\nAccording to Senator Susan Collins, Republican of Maine, who was chairwoman of a hearing on tissue-bank practices in May, a decade ago tissue industry revenues were $20 million a year. By 2003, she said, revenues are expected to reach $1 billion. In 1994, 6,000 people became tissue donors; in 1999 there were 20,000. Tissue from one donor, she said, can be used by 50 to 100 people.\n\nThe engine driving this growth is biomedical innovation. A handful of companies have patented techniques for turning tissues into extremely useful products, like bones that are tooled into special shapes or ground into powders and pastes. Manufacturers market these products aggressively to hospital purchasing agents."
+        },
+        {
+          "id": "test-9-writing-b",
+          "title": "Part III Writing - Section B (Essay)",
+          "instructions": "Write an essay of no less than 250 words on the topic given below.",
+          "questions": [
+            {
+              "id": "test-9-q67",
+              "number": 67,
+              "text": "Topic: Is Google a blessing or a curse?",
+              "type": "writing",
+              "correctAnswer": "We live in an information era. The Internet leads to an information flood. The explosion of information really makes it hard for us to access the exactly information we need. So, Google came out. As a search engine, its efficiency and power make it our best assistant and information collector in our daily life and research. It can help us catch a little fish from a big pond very fast. However, Google makes plagiarism much easier. In the past, plagiarism was simply stealing and using someone else's idea without giving credit. But today, in the age of Internet, with the help of Google and other search engines, plagiarism means copy and paste. At universities, many students download articles from Internet and take them as their own. They search for everything and copy everything without any sense of guilt. It is no longer surprising to see two articles handed in by different students were almost the same. Google turns into a powerful weapon for the plagiarists. Though Google provides conveniences to plagiarism, it can detect plagiarism too. The easiest way to check suspect passages in a paper for plagiarism is to submit them to Google. Google can be used as a plagiarism detection tool to track down Internet plagiarism. Its advanced search engine helps to locate key phrases that may appear in students' papers. Obviously, Google is a two-edged weapon, which can be used equally for good or evil. It is now used for both. Google certainly will not just disappear, and neither will plagiarism. Whether it is a blessing or a curse lies in the attitude of the Google users. Building new ideas from old ideas, using exiting components and combing them in new ways, might be creativity, not plagiarism. We should make full use of Google and shouldn't copy everything blindly.",
+              "explanation": "### 1. 参考范文 (Model Essay)\n\nThe advent of Google has fundamentally reshaped human interaction with information, sparking a global debate on its ultimate value. While critics highlight its potential to foster intellectual laziness and erode privacy, a balanced analysis reveals that Google is, on the whole, a profound blessing for modern society, primarily due to its democratization of knowledge and its role as an engine for innovation.\n\nUndeniably, Google presents significant challenges. The primary concern is the potential for intellectual atrophy. With answers available at the click of a button, there is a risk that individuals may forgo deep, critical thinking and memorization, leading to a superficial understanding of complex subjects. Furthermore, Google's vast data collection raises serious privacy issues. The company's business model, built on targeted advertising, involves the aggregation of personal search histories, location data, and online behaviors, creating a detailed digital profile that many find intrusive. These are valid points that frame the \"curse\" argument.\n\nHowever, these drawbacks are overwhelmingly outweighed by the monumental benefits. Firstly, Google has democratized access to information on an unprecedented scale. It has broken down geographical and socioeconomic barriers, allowing a student in a remote village to access the same academic papers, tutorials, and global news as a professor at a prestigious university. This has empowered self-education and lifelong learning. Secondly, Google is not merely a repository but a catalyst for innovation. Its core search algorithm is a marvel of computer science, and the company has pioneered advancements in artificial intelligence, translation, and mapping. Services like Google Scholar accelerate academic research, while tools like Google Translate facilitate cross-cultural communication.\n\nIn conclusion, although Google poses legitimate concerns regarding cognitive engagement and data security, its role as the great equalizer of knowledge and a powerhouse of technological progress is transformative. The responsibility lies not with the tool itself, but with its users to cultivate discernment and with regulators to enforce robust privacy protections. Therefore, when harnessed wisely, Google stands as a definitive blessing of the digital age.\n\n### 2. 写作思路 (Writing Strategy)\n\n*   **文章结构 (Structure):** 采用经典的“平衡讨论-明确立场”的四段式结构。\n    *   **引言段:** 直接切入主题，承认争议存在，并明确提出个人立场（总体上是blessing），同时概括核心论点（知识民主化与创新引擎）。\n    *   **主体段一 (让步段):** 首先客观分析Google作为“诅咒”的一面。分两个层面论述：1) 导致思维惰性与浅层学习；2) 引发严重的隐私担忧。\n    *   **主体段二 (立论段):** 反驳上文，详细阐述Google作为“祝福”的核心论据。分两个主要论点展开：1) 打破壁垒，实现知识民主化与教育平等；2) 超越搜索功能，本身是科技创新的驱动力，并举例说明。\n    *   **结论段:** 重申立场，总结核心利弊，并升华观点——关键在于用户如何明智使用以及监管如何到位，从而强化“总体是祝福”的结论。\n\n*   **论点展开 (Arguments):** 采用“承认-反驳-立论”的论证逻辑。先承认对方合理观点以示客观，再通过提出更强有力、更广泛的益处进行反驳和立论。论据从个人认知层面（思维）和社会集体层面（知识获取、科技进步）进行对比，突出后者影响更深远。\n\n*   **文章语气 (Tone):** 保持学术、客观、辩证的语气。使用“undeniably”, “however”, “on the whole”等衔接词体现平衡思考。结论部分带有一定的说服性和前瞻性。\n\n### 3. 亮点词汇与句型 (Key Vocabulary & Expressions)\n\n1.  **Democratization of knowledge (知识的民主化):** The process of making knowledge accessible to everyone, not just a privileged few.\n2.  **Intellectual atrophy (智力萎缩/退化):** The weakening or loss of intellectual ability, such as critical thinking or memory.\n3.  **A catalyst for innovation (创新的催化剂):** Something that speeds up or causes significant change and new developments.\n4.  **Socioeconomic barriers (社会经济壁垒):** Obstacles related to social and economic status, such as wealth or class.\n5.  **A superficial understanding (肤浅的理解):** A knowledge that is on the surface only, not deep or thorough.\n6.  **Aggregation of personal data (个人数据的聚合):** The collection and combination of individual pieces of personal information into a larger set.\n7.  **A powerhouse of technological progress (技术进步的动力源):** A very powerful force or entity that drives technological advancement.\n8.  **Cultivate discernment (培养辨别力):** To develop the ability to judge well and make good decisions."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+{
+  "exams": [
+    {
+      "id": "test-8",
+      "title": "Model Test 8",
+      "sections": [
+        {
+          "id": "test-8-listening-a",
+          "title": "Part I Listening Comprehension - Section A",
+          "audioSrc": "https://ucasphdlistening.logicmoriaty.top/008Model%20Test%208.mp3",
+          "instructions": "In this part, you will hear 10 short conversations.",
+          "questions": [
+            {
+              "id": "test-8-q1",
+              "number": 1,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To ask people who sells newspapers and magazines for directions."
+                },
+                {
+                  "label": "B",
+                  "text": "To ask people in the tourist guidance center for directions."
+                },
+                {
+                  "label": "C",
+                  "text": "To ask a police officer where the news stand is."
+                },
+                {
+                  "label": "D",
+                  "text": "To ask a police officer where the new store is."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q2",
+              "number": 2,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To advertise on school radio stations."
+                },
+                {
+                  "label": "B",
+                  "text": "To collect money for the concert through the school radio station."
+                },
+                {
+                  "label": "C",
+                  "text": "To ask the school radio station to broadcast their concert."
+                },
+                {
+                  "label": "D",
+                  "text": "To provide some free public services to students."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q3",
+              "number": 3,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To check the typing mistakes by herself."
+                },
+                {
+                  "label": "B",
+                  "text": "To ask someone else to check her papers."
+                },
+                {
+                  "label": "C",
+                  "text": "To type her papers by herself."
+                },
+                {
+                  "label": "D",
+                  "text": "To have her papers sent out and typed."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q4",
+              "number": 4,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Because she had worked at the school post office before."
+                },
+                {
+                  "label": "B",
+                  "text": "Because she is a student in economics department as well."
+                },
+                {
+                  "label": "C",
+                  "text": "Because she used to be a teaching assistant before."
+                },
+                {
+                  "label": "D",
+                  "text": "Because she had been interviewed by Professor Jameson."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q5",
+              "number": 5,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He has to finish one million tasks in 20 days."
+                },
+                {
+                  "label": "B",
+                  "text": "He thinks he will finish his job definitely."
+                },
+                {
+                  "label": "C",
+                  "text": "He thinks that it would be a wonder if he could finish all the things."
+                },
+                {
+                  "label": "D",
+                  "text": "He is very upset because it's really hard to finish all the things."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q6",
+              "number": 6,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "She taught the psychology course herself."
+                },
+                {
+                  "label": "B",
+                  "text": "She persuaded the man not to take the psychology course."
+                },
+                {
+                  "label": "C",
+                  "text": "She persuaded the man to take the sociology course."
+                },
+                {
+                  "label": "D",
+                  "text": "She thought the sociology course wasn't helpful."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q7",
+              "number": 7,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Don't expect too much to postpone the project."
+                },
+                {
+                  "label": "B",
+                  "text": "Don't push the professor to give them more chances."
+                },
+                {
+                  "label": "C",
+                  "text": "Don't rely on the project to be canceled."
+                },
+                {
+                  "label": "D",
+                  "text": "Don't always believe in others' words."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q8",
+              "number": 8,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He has been very abnormal recently."
+                },
+                {
+                  "label": "B",
+                  "text": "He is afraid of his parents a lot."
+                },
+                {
+                  "label": "C",
+                  "text": "He has lots of things to do before his parents come."
+                },
+                {
+                  "label": "D",
+                  "text": "He regrets that he's moved to a new apartment."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q9",
+              "number": 9,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They asked Margaret to take care of their kids."
+                },
+                {
+                  "label": "B",
+                  "text": "They found a job of baby-sitting for Margaret."
+                },
+                {
+                  "label": "C",
+                  "text": "They invited Margaret to live in their house."
+                },
+                {
+                  "label": "D",
+                  "text": "They asked Margaret to do some of the housework for them."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q10",
+              "number": 10,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To inform the woman that his bill is very high."
+                },
+                {
+                  "label": "B",
+                  "text": "To inquire about details of his electricity bill."
+                },
+                {
+                  "label": "C",
+                  "text": "To complain about the mistakes made by the woman."
+                },
+                {
+                  "label": "D",
+                  "text": "To tell the woman about his account number."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "test-8-listening-b",
+          "title": "Part I Listening Comprehension - Section B",
+          "audioSrc": "https://ucasphdlistening.logicmoriaty.top/008Model%20Test%208.mp3",
+          "instructions": "Sentence completion.",
+          "questions": [
+            {
+              "id": "test-8-q11",
+              "number": 11,
+              "text": "Snoopy regards his master as \"that __________\",",
+              "type": "fill-blank",
+              "correctAnswer": "round-headed kid"
+            },
+            {
+              "id": "test-8-q12",
+              "number": 12,
+              "text": "Snoopy manages to express everything necessary in __________ and thought balloons.",
+              "type": "fill-blank",
+              "correctAnswer": "facial expressions"
+            },
+            {
+              "id": "test-8-q13",
+              "number": 13,
+              "text": "Snoopy has created various __________ like Joe Cool and World War I Flying Ace.",
+              "type": "fill-blank",
+              "correctAnswer": "personalities"
+            },
+            {
+              "id": "test-8-q14",
+              "number": 14,
+              "text": "Woodstock can type and __________ and usually is game for anything Snoopy wants to do.",
+              "type": "fill-blank",
+              "correctAnswer": "take shorthand"
+            },
+            {
+              "id": "test-8-q15",
+              "number": 15,
+              "text": "Being a bird, Woodstock feels a little __________ around Thanksgiving.",
+              "type": "fill-blank",
+              "correctAnswer": "insecure"
+            },
+            {
+              "id": "test-8-q16",
+              "number": 16,
+              "text": "The ancient Saxons commemorated __________ Eastre with an uproarious festival.",
+              "type": "fill-blank",
+              "correctAnswer": "goddess"
+            },
+            {
+              "id": "test-8-q17",
+              "number": 17,
+              "text": "The Christian missionaries attempted to __________ the tribes of the north to Christianity when encountering with their pagan celebrations.",
+              "type": "fill-blank",
+              "correctAnswer": "convert"
+            },
+            {
+              "id": "test-8-q18",
+              "number": 18,
+              "text": "It would have been fatal for the early Christians to celebrate their __________ with observances, different from the existing pagan celebrations.",
+              "type": "fill-blank",
+              "correctAnswer": "holy days"
+            },
+            {
+              "id": "test-8-q19",
+              "number": 19,
+              "text": "As it happened, the pagan festival of Eastre and the Christian observance of the Resurrection of Christ took place at __________ of the year.",
+              "type": "fill-blank",
+              "correctAnswer": "the same time"
+            },
+            {
+              "id": "test-8-q20",
+              "number": 20,
+              "text": "Before A.D. 325, Easter was celebrated on __________ of the week, including Friday, Saturday, and Sunday.",
+              "type": "fill-blank",
+              "correctAnswer": "different days"
+            }
+          ]
+        },
+        {
+          "id": "test-8-listening-c",
+          "title": "Part I Listening Comprehension - Section C",
+          "audioSrc": "https://ucasphdlistening.logicmoriaty.top/008Model%20Test%208.mp3",
+          "instructions": "Short answers.",
+          "questions": [
+            {
+              "id": "test-8-q21",
+              "number": 21,
+              "text": "What do the yard-sale shoppers search for?",
+              "type": "fill-blank",
+              "correctAnswer": "Secondhand treasures."
+            },
+            {
+              "id": "test-8-q22",
+              "number": 22,
+              "text": "According to the speaker, what are the three reasons for people to buy used goods?",
+              "type": "fill-blank",
+              "correctAnswer": "To save money, to find a valuable antique, and to add to one's collections."
+            },
+            {
+              "id": "test-8-q23",
+              "number": 23,
+              "text": "What do antique dealers do to learn what items are worth buying?",
+              "type": "fill-blank",
+              "correctAnswer": "They take classes and read books."
+            },
+            {
+              "id": "test-8-q24",
+              "number": 24,
+              "text": "Why is saying “no” very difficult for most of us?",
+              "type": "fill-blank",
+              "correctAnswer": "Because we don't want to offend or disappoint others."
+            },
+            {
+              "id": "test-8-q25",
+              "number": 25,
+              "text": "Why should we say “no” sometimes?",
+              "type": "fill-blank",
+              "correctAnswer": "Because it allows us to do more important things."
+            },
+            {
+              "id": "test-8-q26",
+              "number": 26,
+              "text": "According to the talk, what are the two proper ways to say “no”?",
+              "type": "fill-blank",
+              "correctAnswer": "To pay a compliment and to say \"no\" in a positive way."
+            },
+            {
+              "id": "test-8-q27",
+              "number": 27,
+              "text": "According to the speaker, what is the number-one problem for the American government?",
+              "type": "fill-blank",
+              "correctAnswer": "Inflation."
+            },
+            {
+              "id": "test-8-q28",
+              "number": 28,
+              "text": "What was the wage of the average worker in 1978?",
+              "type": "fill-blank",
+              "correctAnswer": "$206."
+            },
+            {
+              "id": "test-8-q29",
+              "number": 29,
+              "text": "What are the two taxes that increase with inflation?",
+              "type": "fill-blank",
+              "correctAnswer": "The income tax and the sales tax (or, the point-of-purchase tax)."
+            },
+            {
+              "id": "test-8-q30",
+              "number": 30,
+              "text": "Which type of workers is more likely to join the tax revolt movements?",
+              "type": "fill-blank",
+              "correctAnswer": "The upper-middle-income workers."
+            }
+          ]
+        },
+        {
+          "id": "test-8-use-of-english-a",
+          "title": "Part II Use of English - Section A",
+          "instructions": "Cloze test.",
+          "questions": [
+            {
+              "id": "test-8-q31",
+              "number": 31,
+              "text": "Blank 31",
+              "type": "fill-blank",
+              "correctAnswer": "hardly"
+            },
+            {
+              "id": "test-8-q32",
+              "number": 32,
+              "text": "Blank 32",
+              "type": "fill-blank",
+              "correctAnswer": "On the contrary"
+            },
+            {
+              "id": "test-8-q33",
+              "number": 33,
+              "text": "Blank 33",
+              "type": "fill-blank",
+              "correctAnswer": "dependent"
+            },
+            {
+              "id": "test-8-q34",
+              "number": 34,
+              "text": "Blank 34",
+              "type": "fill-blank",
+              "correctAnswer": "failure"
+            },
+            {
+              "id": "test-8-q35",
+              "number": 35,
+              "text": "Blank 35",
+              "type": "fill-blank",
+              "correctAnswer": "elimination"
+            },
+            {
+              "id": "test-8-q36",
+              "number": 36,
+              "text": "Blank 36",
+              "type": "fill-blank",
+              "correctAnswer": "complied"
+            },
+            {
+              "id": "test-8-q37",
+              "number": 37,
+              "text": "Blank 37",
+              "type": "fill-blank",
+              "correctAnswer": "move"
+            },
+            {
+              "id": "test-8-q38",
+              "number": 38,
+              "text": "Blank 38",
+              "type": "fill-blank",
+              "correctAnswer": "none"
+            },
+            {
+              "id": "test-8-q39",
+              "number": 39,
+              "text": "Blank 39",
+              "type": "fill-blank",
+              "correctAnswer": "blink"
+            },
+            {
+              "id": "test-8-q40",
+              "number": 40,
+              "text": "Blank 40",
+              "type": "fill-blank",
+              "correctAnswer": "expelled"
+            },
+            {
+              "id": "test-8-q41",
+              "number": 41,
+              "text": "Blank 41",
+              "type": "fill-blank",
+              "correctAnswer": "trapped"
+            },
+            {
+              "id": "test-8-q42",
+              "number": 42,
+              "text": "Blank 42",
+              "type": "fill-blank",
+              "correctAnswer": "utter"
+            },
+            {
+              "id": "test-8-q43",
+              "number": 43,
+              "text": "Blank 43",
+              "type": "fill-blank",
+              "correctAnswer": "escape"
+            },
+            {
+              "id": "test-8-q44",
+              "number": 44,
+              "text": "Blank 44",
+              "type": "fill-blank",
+              "correctAnswer": "then"
+            },
+            {
+              "id": "test-8-q45",
+              "number": 45,
+              "text": "Blank 45",
+              "type": "fill-blank",
+              "correctAnswer": "limit"
+            }
+          ],
+          "content": "Bearing in mind, again, that the distinction between military and civilian targets is not relevant in discussing victims of US/UK aggression in Afghanistan, we can still ask whether there is any evidence to support the claim that the US/UK do their utmost to avoid civilian casualties. Of course the US/UK spokespersons say they do, but that is {{31}} evidence. Are there any facts that support the claim? Not a single one. {{32}}, there is a wealth of evidence that shows the opposite. One single terrible example will suffice.\n\nWell before the bombing started, all foreign aid agencies in Afghanistan said that seven million Afghanis were completely {{33}} on external food aid, due to crop {{34}} and war. Most of the aid coming into the country was coming from Pakistan. On 16th Sept. 2001 the New York Times reported that \"Washington has also demanded [from Pakistan] a cutoff of fuel supplies...and the {{35}} of truck numbers that provide much of the food and other supplies to Afghanistan's civilian population.\" The Pakistan government {{36}} On 27th Sept., the same NYT correspondent reported that officials in Pakistan said today that \"they would not relent in their decision to seal off the country's 1,400-mile border with Afghanistan, a(n) {{37}} requested by the Bush Administration because they wanted to be sure that {{38}} of Mr. Bin Laden's men was hiding among the huge tide of refugees\". So Washington demanded that Pakistan consign massive numbers of Afghans, millions of men, women and children, already on the {{39}} of starvation, to a cruel death by famine. Foreign aid missions withdrew or were {{40}} under the threat of bombing. Huge numbers of people fled in terror after Washington's threat to bomb, and even more when bombing started. If they even managed to reach the sealed borders, the refugees were {{41}} to die in silence. The few reports from aid workers of the suffering in camps across the borders have been harrowing in their descriptions of bereaved parents mourning their dead children and the {{42}} deprivation. But we know that these are the lucky people who were able to {{43}} before the borders were closed.\n\nSo, there is no evidence that the US government tries to avoid civilian casualties and on the other hand we know for sure that they have ordered the death by starvation of huge numbers of people. We can ask ourselves, {{44}} why do people believe Tony Blair when he claims that \" We do all we can to {{45}} civilian casualties.\"",
+          "sharedOptions": [
+            {
+              "label": "word-1",
+              "text": "specify"
+            },
+            {
+              "label": "word-2",
+              "text": "on the contrary"
+            },
+            {
+              "label": "word-3",
+              "text": "dependent"
+            },
+            {
+              "label": "word-4",
+              "text": "failure"
+            },
+            {
+              "label": "word-5",
+              "text": "smuggling"
+            },
+            {
+              "label": "word-6",
+              "text": "harvest"
+            },
+            {
+              "label": "word-7",
+              "text": "move"
+            },
+            {
+              "label": "word-8",
+              "text": "elimination"
+            },
+            {
+              "label": "word-9",
+              "text": "center"
+            },
+            {
+              "label": "word-10",
+              "text": "none"
+            },
+            {
+              "label": "word-11",
+              "text": "some"
+            },
+            {
+              "label": "word-12",
+              "text": "blink"
+            },
+            {
+              "label": "word-13",
+              "text": "moreover"
+            },
+            {
+              "label": "word-14",
+              "text": "trapped"
+            },
+            {
+              "label": "word-15",
+              "text": "expelled"
+            },
+            {
+              "label": "word-16",
+              "text": "complied"
+            },
+            {
+              "label": "word-17",
+              "text": "insisted"
+            },
+            {
+              "label": "word-18",
+              "text": "utter"
+            },
+            {
+              "label": "word-19",
+              "text": "illumination"
+            },
+            {
+              "label": "word-20",
+              "text": "strong"
+            },
+            {
+              "label": "word-21",
+              "text": "hardly"
+            },
+            {
+              "label": "word-22",
+              "text": "escape"
+            },
+            {
+              "label": "word-23",
+              "text": "excelled"
+            },
+            {
+              "label": "word-24",
+              "text": "evade"
+            },
+            {
+              "label": "word-25",
+              "text": "on the other hand"
+            },
+            {
+              "label": "word-26",
+              "text": "savaged"
+            },
+            {
+              "label": "word-27",
+              "text": "then"
+            },
+            {
+              "label": "word-28",
+              "text": "merely"
+            },
+            {
+              "label": "word-29",
+              "text": "limit"
+            },
+            {
+              "label": "word-30",
+              "text": "enough"
+            }
+          ],
+          "passageAnalysis": "### 1. 文章大意 (Main Idea)\n本文旨在驳斥“美国与英国在阿富汗军事行动中尽力避免平民伤亡”的说法。作者首先指出，官方声明本身不足为据，并随即提出相反的事实证据。文章的核心例证是，美国在轰炸开始前，通过施压巴基斯坦封锁边境、切断援助，蓄意导致数百万依赖粮食援助的阿富汗平民陷入饥荒。最终，作者得出结论：不仅没有证据表明美英避免平民伤亡，反而有确凿证据表明其政策直接造成了大规模平民苦难，并以此质疑相关政治声明的可信度。\n\n### 2. 语篇结构 (Structure Analysis)\n*   **第一段（引言与论点提出）：** 开篇点明讨论前提（军民目标区分在此不相关），随即提出核心质疑——美英“尽力避免平民伤亡”的说法是否有事实依据。作者直接给出否定答案，并表明将提供反面证据。\n*   **第二段（核心证据展开）：** 通过具体时间、媒体（《纽约时报》）报道和事件细节，详细陈述美国如何要求巴基斯坦切断对阿富汗的粮食与燃料供应、封锁边境，导致本已濒临饥荒的平民陷入绝境。描述了援助中断、难民逃亡无门、边境营地惨状等一系列后果。\n*   **第三段（结论与反问）：** 总结前述证据，明确得出“无证据表明避免伤亡，却有证据表明蓄意导致饥荒”的结论。最后以反问收尾，强化对美英官方说辞的质疑与批判。\n\n### 3. 核心词汇 (Core Vocabulary)\n1.  **civilian casualties** - 平民伤亡\n2.  **do their utmost** - 竭尽全力\n3.  **hardly** - 几乎不（表示否定）\n4.  **on the contrary** - 相反地\n5.  **dependent on** - 依赖于\n6.  **crop failure** - 农作物歉收\n7.  **elimination** - 消除，切断\n8.  **complied** - 遵从，服从（要求）\n9.  **seal off** - 封锁\n10. **on the brink of** - 濒临，处于…的边缘\n11. **starvation** - 饥饿，饥荒\n12. **expelled** - 被驱逐\n13. **trapped** - 受困，被困住\n14. **utter deprivation** - 极度的匮乏\n15. **limit** - 限制，减少"
+        },
+        {
+          "id": "test-8-reading-b-passage-1",
+          "title": "Part II Reading Comprehension - Section B - Passage 1",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-8-q46",
+              "number": 46,
+              "text": "According to the author, what is probably true on gun control?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Justice Minister is wrong in scaring people."
+                },
+                {
+                  "label": "B",
+                  "text": "Assaults with guns are not so serious because they have become fewer."
+                },
+                {
+                  "label": "C",
+                  "text": "Gun control laws mess up the situation."
+                },
+                {
+                  "label": "D",
+                  "text": "Private guns should be exterminated."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q47",
+              "number": 47,
+              "text": "Many people who insist on gun control probably have",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "acquisition certificates to buy a gun."
+                },
+                {
+                  "label": "B",
+                  "text": "partial knowledge of the gun control laws."
+                },
+                {
+                  "label": "C",
+                  "text": "more restrictions on their personal freedom."
+                },
+                {
+                  "label": "D",
+                  "text": "conflict with the police over gun acquisition."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q48",
+              "number": 48,
+              "text": "The purpose of mentioning \"doctor/patient confidentiality\" is to",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "contend that guns should be replaced by knives for sake of safety."
+                },
+                {
+                  "label": "B",
+                  "text": "suggest that doctors be more dexterous in dealing with wounds by knives."
+                },
+                {
+                  "label": "C",
+                  "text": "explain why offensive acts should be severely punished."
+                },
+                {
+                  "label": "D",
+                  "text": "illustrate that the new laws are detrimental to personal freedom."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q49",
+              "number": 49,
+              "text": "The author thinks Justice Minister Alan Rock's proposed law is",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "soundly based."
+                },
+                {
+                  "label": "B",
+                  "text": "not justified."
+                },
+                {
+                  "label": "C",
+                  "text": "intrinsically frightening."
+                },
+                {
+                  "label": "D",
+                  "text": "statistically proved."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q50",
+              "number": 50,
+              "text": "According to the author, in \"gun control is a two-sided issue\", two sides may refer to the following EXCEPT",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "those gun lobbyists and anti-gun lobbyists."
+                },
+                {
+                  "label": "B",
+                  "text": "those who are in favor of gun ownership and those who are not."
+                },
+                {
+                  "label": "C",
+                  "text": "those who use guns to hurt and those who are hurt by guns."
+                },
+                {
+                  "label": "D",
+                  "text": "those who hide guns and those who execute laws."
+                }
+              ]
+            }
+          ],
+          "content": "Abortion, euthanasia, and capital punishment are all controversial issues in today's society. Just as important of an issue to many people is gun control. Gun control lobbyists believe that there should be more control over firearms while anti-lobbyists believe there is already enough. Although many people are killed or seriously injured by firearms which are improperly stored, statistics show that assaults with firearms have been progressively lowered since 1975. Therefore, Justice Minister Alan Rock, the person imposing more restriction, is running on scare tactics. I thoroughly believe that if more gun control laws are imposed upon Canadians, there will be more havoc than necessary.\n\nOne of the problems that many people have concerning their opinion on gun control is that they are not fully informed. Therefore, the people who are not fully informed are making decisions on only the information they know. Many people do not understand what exactly is being changed in Charter 85. The existing law states that in order to purchase a firearm, the buyer must possess a FAC (Firearm Acquisition Certificate). The buyer also must go through a home schooling course and pass a test. If anybody owns a firearm, it has to be stored properly, by means of a cabinet or trigger lock. Under the proposed law, police officials can enter premises without consent if they suspect an illegal gun is being hidden there. These new laws conflict with the existing laws and most people make a decision on only what they are told.\n\nThe proposed law that Alan Rock has created has many people upset. Anti-gun lobbyists believe that more restrictions breach personal freedom. In 1993, statistics were taken in Edmonton concerning assaults. The statistics showed that firearms were used in six percent of all assaults while knives were used in eight. Therefore, knives were the weapon of choice? Most people are upset over the laws because doctor/patient confidentiality privilege will be revoked. These new laws are improper and offend many people.\n\nOn the other hand, gun lobbyists believe that the social welfare of an area is more important than the freedom of the individual. Therefore, they believe that more laws should be made. These gun lobbyists are usually people who have lost loved ones due to firearms. Justice Minister Alan Rock has no proof that more restrictions are needed and is running from his personal opinion.\n\nGun lobbyists and anti-gun lobbyists have opposite opinions on gun control. Even though gun control is a touchy situation, many people believe there should be more restrictions while others oppose the idea. Many people do not understand why they have to suffer for the actions of others. Gun control is a two sided issue and the outcome will show one winner and one loser."
+        },
+        {
+          "id": "test-8-reading-b-passage-2",
+          "title": "Part II Reading Comprehension - Section B - Passage 2",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-8-q51",
+              "number": 51,
+              "text": "According to the author, affirmative action is wrong because",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "it brings about more harm than it provides benefit."
+                },
+                {
+                  "label": "B",
+                  "text": "people don't resent the existence of affirmative action."
+                },
+                {
+                  "label": "C",
+                  "text": "it may not do harm to people's health."
+                },
+                {
+                  "label": "D",
+                  "text": "it can eradicate the problem of discrimination."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q52",
+              "number": 52,
+              "text": "What does \"reverse discrimination\" probably refer to in the context?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Revenge on minorities."
+                },
+                {
+                  "label": "B",
+                  "text": "Privilege enjoyed by minorities."
+                },
+                {
+                  "label": "C",
+                  "text": "Racism against blacks."
+                },
+                {
+                  "label": "D",
+                  "text": "Protection of white people."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q53",
+              "number": 53,
+              "text": "It can be inferred that Jim Crow laws",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "put those who make and execute laws in an advantageous position."
+                },
+                {
+                  "label": "B",
+                  "text": "come back to life periodically."
+                },
+                {
+                  "label": "C",
+                  "text": "will never stage a comeback for good."
+                },
+                {
+                  "label": "D",
+                  "text": "are extremely discriminative."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q54",
+              "number": 54,
+              "text": "\"Get the short end of the stick\" in the second paragraph is closest in meaning to",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "repeat the mistake."
+                },
+                {
+                  "label": "B",
+                  "text": "be treated unfairly."
+                },
+                {
+                  "label": "C",
+                  "text": "last for only a short time."
+                },
+                {
+                  "label": "D",
+                  "text": "take the risk."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q55",
+              "number": 55,
+              "text": "What role does affirmative action play in colleges nowadays?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It puts more stress on GPA than SAT of the applicants."
+                },
+                {
+                  "label": "B",
+                  "text": "It insists that two negative things put together means positive."
+                },
+                {
+                  "label": "C",
+                  "text": "It discriminates against blacks and minorities."
+                },
+                {
+                  "label": "D",
+                  "text": "It would probably lower the quality of the education."
+                }
+              ]
+            }
+          ],
+          "content": "Affirmative action is wrong and will not help solve the problems minorities face. The reason it is wrong is it's discrimination. It has no place in today's society because it does more bad than good. In addition to that most people don't enjoy the presence of affirmative action. Also, it appears that affirmative action can actually be detrimental to employees' health.\n\nFirst of all, affirmative action is discrimination, and there is no hiding for it. When an employer hires anyone because he or she is a minority, even if someone else is more qualified to do the job, it is discrimination. Just because it is reverse discrimination, when whites are discriminated against and minorities are being discriminated for, doesn't make it right. Affirmative action legalizes discrimination. \"I thought discrimination was illegal in this country.\" Also, if this discrimination continues racism in the United States may become worse. Imagine what you would feel like if you couldn't get a job just because you are a white man and not a Hispanic man. The racism will become worse because of it, and that is the very thing it is trying to prevent. It is possible that because of affirmative action, racism will grow and continue to grow until our history repeats itself and we end up living under Jim Crow laws again. That is an extreme possibility to end up under Jim Crow laws again, but it is a definite possibility to end up somewhere close to Jim Crow laws again.\n\nIn addition to that, people say affirmative action is OK because it cures past discrimination. Discrimination wasn't OK when blacks were the ones getting the short end of the stick. Therefore it's not OK when whites are discriminated against. Two wrongs don't make a right. Therefore, affirmative action doesn't make discrimination OK just because it's against blacks instead of whites.\n\nAffirmative action in college is the most discriminating thing this country has ever seen since the Jim Crow laws many years ago. At Ivy League colleges the median GPA of applicants is close to 4.0 and SAT's are close to 1,300, minorities are let in with GPA's less than 3.0 and SAT's less than 1,000.\n\nThe only way for colleges to achieve ethnic proportionalism is to downplay or abandon merit criteria and to accept students from typically under represented groups, such as blacks. Hispanics, and American Indians, over better qualified students from among whites and Asian Americans."
+        },
+        {
+          "id": "test-8-reading-b-passage-3",
+          "title": "Part II Reading Comprehension - Section B - Passage 3",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-8-q56",
+              "number": 56,
+              "text": "What is implied in the first paragraph?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Scientists do not always tell the truth."
+                },
+                {
+                  "label": "B",
+                  "text": "Scientists are richer than journalists."
+                },
+                {
+                  "label": "C",
+                  "text": "Media always get the latest news about the scientific development."
+                },
+                {
+                  "label": "D",
+                  "text": "Press pays greatest attention to the healthfulness of food."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q57",
+              "number": 57,
+              "text": "What is the US administration's position about the global warming?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It accentuates the seriousness of the problem."
+                },
+                {
+                  "label": "B",
+                  "text": "It plays down the whole complexion."
+                },
+                {
+                  "label": "C",
+                  "text": "It focuses on its solution at the expense of profit."
+                },
+                {
+                  "label": "D",
+                  "text": "It goes to great lengths to face it."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q58",
+              "number": 58,
+              "text": "The purpose of mentioning “how some scientists in the 1970s worried about a new Ice Age\" is to",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "illustrate the US Administration's mitigation of the serious problem."
+                },
+                {
+                  "label": "B",
+                  "text": "exemplify the consequences of advanced technological development."
+                },
+                {
+                  "label": "C",
+                  "text": "compare the differences between the 1970s and 1980s."
+                },
+                {
+                  "label": "D",
+                  "text": "stress the detailed effects of global warming."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q59",
+              "number": 59,
+              "text": "An analogy is made between dioxide emissions and smoking in order to",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "support that global warming should be neglected."
+                },
+                {
+                  "label": "B",
+                  "text": "substantiate that scientists are wielding great power."
+                },
+                {
+                  "label": "C",
+                  "text": "illustrate that scientists are taking an environmentalist idea."
+                },
+                {
+                  "label": "D",
+                  "text": "show that scientists are on the side of the government."
+                }
+              ]
+            },
+            {
+              "id": "test-8-q60",
+              "number": 60,
+              "text": "The word \"maverick\" in the last paragraph is closest in meaning to",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "grandiose."
+                },
+                {
+                  "label": "B",
+                  "text": "presumptuous."
+                },
+                {
+                  "label": "C",
+                  "text": "puzzled."
+                },
+                {
+                  "label": "D",
+                  "text": "unusual."
+                }
+              ]
+            }
+          ],
+          "content": "One of the curiosities of our arguments over the environment is how often those who deny the damage manage to portray themselves as victims: big corporations inhibited from making an honest profit, caring politicians prevented from helping the hungry, lonely academics who suffer character assassination when they express scepticism about global warming. The green lobby is all-powerful, and even acts as a conspiracy, we are led to believe. Public opinion is in thrall to it; scientists can get research funding only if they subscribe to what Professor Lomborg calls the Litany of environmentalism; the media lap up scare stories.\n\nAll this is more or less the opposite of the truth. Green issues increasingly struggle for political or media attention (in this month's UK cabinet reshuffle, the end of the antiquated position of Lord Chancellor commanded far more attention than the sacking of an expert environment minister who had served for six years), while a moment's reflection will tell you that, if they need funds, scientists are better off getting money from big business and telling the corporate suits what they want to hear. Only GM crops get serious attention in the tabloid press, and then only because they arouse the traditional British suspicion of \"mucked-about” food. Governments still expect to win elections on their success in delivering economic growth and individual prosperity, not on their contribution to planetary health.\n\nThere are, to be sure, many uncertainties in the forecasts made by environmental scientists, whether of species extinction, the health effects of pesticides or global warming. The US administration deliberately exploits these, implying that, since scientists are divided over the environment, it is wrong to take any steps that might reduce corporate profits or curtail consumer freedom. Republican Party strategists forbid the use of the term \"global warming\", preferring the more neutral \"climate change\". Much is made of how some scientists in the 1970s worried about a new Ice Age (a worry that never amounted to more than brief minority speculation), and about oil and other natural resources running out (an argument made by the Club of Rome in 1972, only to be modified two years later and abandoned by the early 1980s). The scientific consensus on the broad facts, if not the detailed effects, of global warming is now overwhelming, however. In sharp contrast to the 1970s, scientists have strengthened their warnings, not weakened them, and the reputable dissenters have become fewer. It is as hard now to deny that carbon dioxide emissions and other results of human activity cause global warming as it is to deny that smoking causes lung cancer or that HIV leads to Aids — both denied, for some years, by a few, highly publicised maverick scientists."
+        },
+        {
+          "id": "test-8-reading-c",
+          "title": "Part II Reading Comprehension - Section C",
+          "instructions": "In the following passage, five sentences have been removed from the original text.",
+          "questions": [
+            {
+              "id": "test-8-q61",
+              "number": 61,
+              "text": "Blank 61",
+              "type": "fill-blank",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "test-8-q62",
+              "number": 62,
+              "text": "Blank 62",
+              "type": "fill-blank",
+              "correctAnswer": "E"
+            },
+            {
+              "id": "test-8-q63",
+              "number": 63,
+              "text": "Blank 63",
+              "type": "fill-blank",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "test-8-q64",
+              "number": 64,
+              "text": "Blank 64",
+              "type": "fill-blank",
+              "correctAnswer": "F"
+            },
+            {
+              "id": "test-8-q65",
+              "number": 65,
+              "text": "Blank 65",
+              "type": "fill-blank",
+              "correctAnswer": "B"
+            }
+          ],
+          "content": "To resolve a dispute means to turn opposing positions into a single outcome. The two parties may choose to focus their attention on one or more of three basic factors. They may seek to reconcile their interests, determine who is right, and/or determine who is more powerful.\n\nInterests are needs, desires, concerns, and fears - the things one cares about or wants. They provide the foundation for a person's or an organization's position in a dispute. {{61}} For example, the director of sales for an electronics company gets into a dispute with the director of manufacturing over the number of TV models because her interest is in selling TV sets; more models mean more choices for consumers and hence increased sales. The director of manufacturing, however, wants to produce fewer models. His interest is in decreasing manufacturing costs and more models mean higher costs.\n\nReconciling such interests is not easy. It involves probing for deeply rooted concerns, devising creative solutions, and making trade-offs and compromises where interests are opposed. {{62}} Another interests-based procedure is mediation, in which a third party assists the disputes, the two sides in the dispute, in reaching agreement.\n\nBy no means do all negotiations (or mediations) focus on reconciling interests. {{63}} Other negotiations focus on determining who is more powerful, such as when quarrelling neighbors or nations exchange threats and counter threats. Often negotiations involve a mix of all three – some attempts to satisfy interests, some discussion of rights, and some references to relative power. It is often complicated to attempt to determine who is right in a dispute. Although it is usually straightforward where rights are formalized in law, other rights take the form of unwritten but socially accepted standards of behavior, such as reciprocity, precedent, equality, and seniority.\n\nThere are often different and sometimes contradictory standards that apply to rights. Passage agreement on rights, where the outcome will determine who gets what, can often be so difficult that the parties frequently turn to a third party to determine who is right. The most typical rights procedure is adjudication, in which disputants present evidence and arguments to a neutral third party who has the power to make a decision that must be followed by both disputants. (In mediation, by contrast, the third party does not have the power to decide the dispute.) {{64}} Private adjudication is provided by arbitrators.\n\nA third way to resolve a dispute is on the basis of power. We define power, somewhat narrowly, as the ability to pressure someone to do something he would not otherwise do. {{65}} The exercise of power takes two common forms: acts of aggression, such as physical attack, and withholding the benefits that derives from a relationship, as when employees stop working in a strike.",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "Determine who is the more powerful party without a decisive and potentially destructive power contest is difficult because power is ultimately a matter of perceptions."
+            },
+            {
+              "label": "B",
+              "text": "Exercising power typically means imposing costs on the other side or threatening to do so."
+            },
+            {
+              "label": "C",
+              "text": "Some negotiations focus on determining who is right, such as when two lawyers argue about whose case has the greater merit."
+            },
+            {
+              "label": "D",
+              "text": "In a dispute, not only do the interests of one party not coincide with those of the other party, but they are in conflict."
+            },
+            {
+              "label": "E",
+              "text": "The most common procedure for doing this is negotiation; the act of communication intended to reach agreement."
+            },
+            {
+              "label": "F",
+              "text": "Public adjudication is provided by courts and administrative agencies."
+            }
+          ]
+        },
+        {
+          "id": "test-8-writing-a",
+          "title": "Part III Writing - Section A (Summary)",
+          "instructions": "Read the following article and write a summary of no more than 150 words.",
+          "questions": [
+            {
+              "id": "test-8-q66",
+              "number": 66,
+              "text": "Write a summary of the provided article.",
+              "type": "writing",
+              "correctAnswer": "This essay examines the principal causes and effects of the increase in fast-food consumption over the past 30 years in UK. There are two main reasons: one is the change in commercial practice and the loss of local shops; the other is the change in lifestyle: a busy working week and the loss of the cooking and shopping time for women. The effects are discussed in three aspects: nutrient deficiencies, obesity and the loss of a \"food culture\". Children suffered most from nutrient deficiency when they cannot have enough energy in schools with salty and sweet food; obesity among people may bring some problems both for a country's economy and the individual's health; people's increasing dependence on fast food will result in the loss of the cooking skills and once it happens, it will be difficult to recover.",
+              "explanation": "### 1. 参考范文 (Model Summary)\nTraditional British home cooking, while not subtle, historically provided sufficient energy and nutrition for the industrial workforce. However, since the post-war era, there has been a steady decline in the use of fresh ingredients, replaced first by canned and frozen foods, and more recently by ready-made meals and takeaways. This shift towards a fast-food culture stems from two primary causes: changes in commercial practices and lifestyle.\n\nCommercially, powerful transnational advertising promotes branded products over traditional foods, while the closure of local shops like butchers and greengrocers has made fresh ingredients less accessible, especially for those without cars. Regarding lifestyle, longer working hours, including for over 50% of mothers, leave little time for cooking or sourcing fresh produce.\n\nConsequently, three main effects have emerged. First, nutrient deficiencies are increasing, particularly among children who consume more salty and sugary snacks instead of balanced meals. Second, obesity rates are rising globally, leading to a less productive workforce and higher healthcare costs. Finally, there is a loss of \"food culture,\" as cooking skills are no longer passed down through generations, a cultural break that may be irreversible.\n\n### 2. 摘要逻辑 (Summary Logic)\n摘要严格遵循原文的论证结构，直接浓缩其核心事实与观点。首先，开篇点明传统饮食向快餐文化转变的趋势。主体部分分为两大原因（商业实践与生活方式变化）和三大影响（营养缺乏、肥胖问题、饮食文化流失）。在原因部分，分别提炼了广告力量与本地商店关闭、以及工时增长与母亲角色变化的关键点。在影响部分，依次总结了营养、健康和经济、以及文化传承三个层面的后果。逻辑上使用“However,” “stem from,” “Consequently”等连接词，确保行文连贯，直接呈现文章内容，避免任何元评论。\n\n### 3. 重点表达 (Key Expressions)\n1.  **stem from** - 源于，由...造成\n2.  **Consequently** - 因此，结果\n3.  **lead to** - 导致\n4.  **instead of** - 而不是"
+            }
+          ],
+          "content": "Although British food has never been known for its subtlety, what has traditionally been produced in the home has without doubt provided the energy needed for a largely industrial workforce and, at the same time, ensured an adequate mix of nutrients and fiber. There is a fear that this, however, is now changing. The post-war period has seen a gradual decrease in the quantity of fresh ingredients used in the home, with a growing use of canned food in the 1950's, then frozen food from the 1960's onwards. This trend has continued to the present day, with the growing popularity of TV-dinners, and of take-away restaurants. This essay will attempt an overview of the reasons for the growth of this \"fast-food culture\", and to outline some of the effects.\n\nGreenwood and Leslie (1999) argue that there are perhaps two main causes for the increase in fast-food consumption, particularly over the past thirty years; changes in commercial practice, and changes in lifestyle.\n\nOne change regarding commercial practice in this period which Greenwood and Leslie (ibid.) stress, has been the increased power of the advertiser. Advertising has been with us for over a century, but the growth of transnational companies, with great spending power and access to increasingly pervasive and persuasive media, has taken place only recently. Assailed from all sides by expensively-produced images in magazines, on television, and via sport sponsorship, it is little wonder that the consumer often chooses a \"brand\", rather than a more traditional source of food or drink.\n\nAnother change in commercial practice highlighted by Greenwood and Leslie has been the loss of local shops. In the recent past, most communities had access to fresh food via a butcher, baker, greengrocer or fishmonger. From the 1970's onwards many of these local food outlets have had to close, unable to compete with the large, out-of-town shopping centers; fresh food still exists, of course, and there is wider choice, but these foods are often accessible only to those with use of a car. The loss of this local resource has contributed considerably to the increased use of canned, frozen and ready-to-eat food.\n\nLet us now turn to the second principal reason for the growth of fast-food consumption, i.e. changes in lifestyle. A typical working week has been growing steadily over the past two decades, with a significant minority of employees working a fifty-hour week. It is hardly surprising in such circumstances that people lack the time either for serious cooking, or for a search for fresh ingredients. Alongside this general erosion of free time has been the more specific loss of time on the part of the mother, the member of the family traditionally associated with shopping and cooking. Greenwood and Leslie (ibid: 66) cite figures to show that over 50% of mothers in Britain now work, and not all are able to combine their traditional role as food-preparer with their new role as food-provider.\n\nHaving looked at the causes for the increase in fast-food consumption in the UK, let us now look at its three main effects: nutrient deficiencies, obesity, and the loss of what Geoffrey (2000) has termed a \"food culture\".\n\nThere has been growing evidence of nutrient deficiency in recent years, particularly among children, whose need for a balanced diet is of course greatest (HMSO, 1996, cited by Ridge 1997). Consumption of crisps and soft drinks, high in salt and sugar content, is growing, to the detriment of consumption of foods higher in nutrient value. As Ridge (ibid) points out, such foods may allow quick peaks of energy, but are unsuitable for the gradual energy release needed to sustain the body through the long school day.\n\nLinked to this change in eating habits has been the increase in obesity, among children as well as adults: according to Banff (1998) this negative development has not been restricted to the United Kingdom. In the United States, over 30% of the population is now officially classed as obese, and more recently developed countries such as China are reporting similar problems. The results of this, Banff warns, are twofold. Firstly, an overweight workforce is less productive. Secondly, people with a weight problem will require increased healthcare, and will die younger, than the non-obese. The economic implications of this for a nation are clear.\n\nA final effect of the increase in fast-food consumption is the gradual loss of a \"food culture\". The skills of cooking have been handed down from one generation to another (most traditionally from mother to daughter). If people become dependent upon ready-made meals from the freezer, or upon take-away meals, there is a danger that these skills will be lost. This is the \"cultural\" aspect to the increase in fast-food consumption, and its importance should not be underestimated; as Geoffrey (ibid: 88) points out, \"once this chain from generation to generation is broken, it may be very difficult to repair.\""
+        },
+        {
+          "id": "test-8-writing-b",
+          "title": "Part 3 Writing - Section B (Essay)",
+          "instructions": "Write an essay of no less than 250 words on the topic given below.",
+          "questions": [
+            {
+              "id": "test-8-q67",
+              "number": 67,
+              "text": "What if school sports were dropped?",
+              "type": "writing",
+              "correctAnswer": "Everyone knows that sports are absolutely necessary to education and school life. If our school sports were dropped, there would be a strong negative influence on school life of students. Firstly, school sports are part of school education. If they were dropped, school students would never get enough physical exercises. School sports can contribute to students' health, which leads to successful career. Middle school or college students are growing up; hence they need exercises as well as nutrients. When they spend lots of time in school, if school sports were dropped, they couldn't have enough exercises. Their interest of sports would be reduced and their agility and response would decline without sports. With a good grade and a poor body, how can a student make a living after graduation? Nobody wants to be a burden of society. Secondly, dropping school sports also affects students' mental health. The technique of cooperation cannot be experienced in classroom. People learn to face everything in sports, be it victory, failure or physical pain. Building up strong characters is what students need when they step into competitive society. Thirdly, dropping school sports would not enhance the academic studies; on the contrary, students would become less energetic and efficient on study. Without enough physical exercises, students would be apt to sleep and fail to concentrate on academic work. Some cven go to Internet bars for relaxation and become lost. In a word, school sports provide an effective way for students to communicate, cooperate among thernselves and care for each other. Those who advocate dropping school sports should be criticized.",
+              "explanation": "### 1. 参考范文 (Model Essay)\n\nThe proposition of eliminating school sports programmes is a contentious one, often met with immediate resistance. While such a move might superficially appear to free up resources and academic time, a deeper analysis reveals that the holistic benefits of physical education and competitive sports far outweigh their perceived costs. Dropping school sports would be a profound mistake, detrimental to students' physical health, social development, and even academic performance.\n\nPrimarily, school sports are a fundamental pillar of public health. In an era dominated by sedentary lifestyles and digital entertainment, mandatory physical education classes provide a crucial, structured opportunity for exercise. These programmes instil lifelong habits of fitness, combatting the rising tide of childhood obesity and related diseases. Without this institutional framework, many students, particularly those from less privileged backgrounds, might have no access to regular, coached physical activity, exacerbating health inequalities.\n\nFurthermore, the social and character-building aspects of team sports are irreplaceable. The sports field is a microcosm of society where students learn invaluable lessons in teamwork, leadership, perseverance, and grace in both victory and defeat. These \"soft skills\"—collaboration, discipline, time management—are highly transferable to the classroom and future workplaces. Extracurricular sports also foster a sense of school community and belonging, which is vital for student morale and engagement. Removing this avenue could lead to increased social fragmentation and a rise in disciplinary issues as students lose a positive outlet for their energy and emotions.\n\nCritics argue that sports divert excessive time and funding from core academic subjects. However, this view is shortsighted. Numerous studies indicate a positive correlation between regular physical activity and cognitive function, including improved concentration, memory, and mood. The discipline required to balance sports and academics often cultivates more efficient students. Rather than being dropped, sports should be integrated as a complementary component of a well-rounded education, teaching resilience and strategic thinking that textbooks alone cannot provide.\n\nIn conclusion, while budgetary pressures and academic rigour are valid concerns, jettisoning school sports is a myopic solution. The benefits—a healthier populace, more cohesive communities, and the development of resilient, well-rounded individuals—constitute a sound investment in society's future. Schools should seek to reform and fund these programmes adequately, not abolish them, recognising that education is about nurturing the whole person, not merely the intellect.\n\n### 2. 写作思路 (Writing Strategy)\n*   **结构 (Structure):** 采用经典的议论文“总-分-总”结构。\n    *   **引言段:** 直接切入主题，表明立场（反对取消），并概述三个核心分论点（身体健康、社交与品格、学业表现）。\n    *   **主体段1:** 论证体育对**身体健康**的基石作用，强调其在对抗现代久坐生活方式和健康不平等问题上的必要性。\n    *   **主体段2:** 论证体育在**社交与品格塑造**上的不可替代性，阐述其培养软技能和学校社区感的功能。\n    *   **主体段3: (让步与反驳)** 先承认反对观点（占用资源），然后进行反驳，指出体育对认知功能和学业效率的积极影响，并提出“整合而非取消”的解决方案。\n    *   **结论段:** 重申核心立场，总结主要益处，并升华主题，强调全人教育的重要性。\n*   **论点与论据 (Arguments & Evidence):** 论点清晰递进，从个人健康到社会技能再到智力发展。论据结合社会现实（如久坐生活、健康不平等）、普遍认知（软技能的重要性）和科学研究（运动与认知关联），避免个人轶事，保持客观说服力。\n*   **语气与用词 (Tone & Diction):** 语气正式、客观、坚定，采用学术议论文的语域。使用强有力的否定性词汇（如`detrimental`, `myopic solution`）表明立场，同时使用建设性词汇（如`integrated`, `well-rounded`）提出替代方案。\n\n### 3. 亮点词汇与句型 (Key Vocabulary & Expressions)\n1.  **Holistic benefits:** 整体益处\n2.  **A fundamental pillar:** 一个根本支柱\n3.  **Instil lifelong habits:** 灌输终身习惯\n4.  **A microcosm of society:** 社会的缩影\n5.  **Transferable skills:** 可转移的技能\n6.  **A positive correlation:** 正相关\n7.  **A myopic solution:** 一个短视的解决方案\n8.  **Nurturing the whole person:** 培养全面发展的人"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

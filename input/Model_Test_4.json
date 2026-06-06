@@ -1,0 +1,1159 @@
+{
+  "exams": [
+    {
+      "id": "test-4",
+      "title": "Model Test 4",
+      "sections": [
+        {
+          "id": "test-4-part1-listening-secA",
+          "title": "Part I Listening Comprehension Section A",
+          "instructions": "In this part, you will hear 10 short conversations. At the end of each conversation, a question will be asked about what is said. Each conversation and the question will be spoken only once.",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%204.mp3",
+          "questions": [
+            {
+              "id": "test-4-q1",
+              "number": 1,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Someone who was looking for work."
+                },
+                {
+                  "label": "B",
+                  "text": "Someone who was asking for money."
+                },
+                {
+                  "label": "C",
+                  "text": "Someone who was looking for the hospital."
+                },
+                {
+                  "label": "D",
+                  "text": "Someone who was visiting his friends."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q2",
+              "number": 2,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is as animate as Earth."
+                },
+                {
+                  "label": "B",
+                  "text": "It may have water."
+                },
+                {
+                  "label": "C",
+                  "text": "People might live on Mars one day."
+                },
+                {
+                  "label": "D",
+                  "text": "A lot of work needs to be done about it."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q3",
+              "number": 3,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "How to use a bicycle pump."
+                },
+                {
+                  "label": "B",
+                  "text": "How to advertise for each part of a bicycle pump."
+                },
+                {
+                  "label": "C",
+                  "text": "How to make the handle easy to hold."
+                },
+                {
+                  "label": "D",
+                  "text": "How to enable people to use a bicycle pump."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q4",
+              "number": 4,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Biology."
+                },
+                {
+                  "label": "B",
+                  "text": "Biochemistry."
+                },
+                {
+                  "label": "C",
+                  "text": "Life sciences."
+                },
+                {
+                  "label": "D",
+                  "text": "Sociology."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q5",
+              "number": 5,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Started at university."
+                },
+                {
+                  "label": "B",
+                  "text": "Begun a new job."
+                },
+                {
+                  "label": "C",
+                  "text": "Finished university study."
+                },
+                {
+                  "label": "D",
+                  "text": "Finished work."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q6",
+              "number": 6,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "10:30."
+                },
+                {
+                  "label": "B",
+                  "text": "11:30."
+                },
+                {
+                  "label": "C",
+                  "text": "12:30."
+                },
+                {
+                  "label": "D",
+                  "text": "2:00."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q7",
+              "number": 7,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "There are strict limits on food."
+                },
+                {
+                  "label": "B",
+                  "text": "Foods can be brought into Australia without any check."
+                },
+                {
+                  "label": "C",
+                  "text": "People arriving into Australia don't have to declare foodstuffs at all."
+                },
+                {
+                  "label": "D",
+                  "text": "Anything will be checked if you are in Australia for the first time."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q8",
+              "number": 8,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is decent."
+                },
+                {
+                  "label": "B",
+                  "text": "It is profitable."
+                },
+                {
+                  "label": "C",
+                  "text": "It is honorable."
+                },
+                {
+                  "label": "D",
+                  "text": "It is promising."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q9",
+              "number": 9,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The tie is old so it cannot be changed."
+                },
+                {
+                  "label": "B",
+                  "text": "The woman cannot show the receipt."
+                },
+                {
+                  "label": "C",
+                  "text": "The tie has been worn."
+                },
+                {
+                  "label": "D",
+                  "text": "The warranty has run out."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q10",
+              "number": 10,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The man is not very sick."
+                },
+                {
+                  "label": "B",
+                  "text": "The man needs a good rest."
+                },
+                {
+                  "label": "C",
+                  "text": "The man is too sick for work but OK for football."
+                },
+                {
+                  "label": "D",
+                  "text": "It takes him at least 3 days to cover."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "test-4-part1-listening-secB",
+          "title": "Part I Listening Comprehension Section B",
+          "instructions": "Complete the sentences.",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%204.mp3",
+          "questions": [
+            {
+              "id": "test-4-q11",
+              "number": 11,
+              "text": "According to the text, the pyramids were probably built by ________",
+              "type": "fill-blank",
+              "correctAnswer": "normal inhabitants"
+            },
+            {
+              "id": "test-4-q12",
+              "number": 12,
+              "text": "The best time for building pyramids was when the Nile was ________ and the fields were covered with water.",
+              "type": "fill-blank",
+              "correctAnswer": "flooded"
+            },
+            {
+              "id": "test-4-q13",
+              "number": 13,
+              "text": "Having not understood how the stones could be lifted with ________ at the time, the exact technique of erecting the pyramids has not yet been established.",
+              "type": "fill-blank",
+              "correctAnswer": "the instruments available"
+            },
+            {
+              "id": "test-4-q14",
+              "number": 14,
+              "text": "In order to misguide thieves, the interior of the pyramids is complicated, with ________ leading nowhere.",
+              "type": "fill-blank",
+              "correctAnswer": "numerous passageways"
+            },
+            {
+              "id": "test-4-q15",
+              "number": 15,
+              "text": "The summit of the pyramids' exterior was covered with ________",
+              "type": "fill-blank",
+              "correctAnswer": "dark stones"
+            },
+            {
+              "id": "test-4-q16",
+              "number": 16,
+              "text": "Ireland remained insulated ________ in the outside world for a long time.",
+              "type": "fill-blank",
+              "correctAnswer": "from many developments"
+            },
+            {
+              "id": "test-4-q17",
+              "number": 17,
+              "text": "Globalization is one of the characteristics of the present Ireland, whereas ________ was the one in the past.",
+              "type": "fill-blank",
+              "correctAnswer": "emigration"
+            },
+            {
+              "id": "test-4-q18",
+              "number": 18,
+              "text": "Ireland is now ________ for immigrants.",
+              "type": "fill-blank",
+              "correctAnswer": "a destination"
+            },
+            {
+              "id": "test-4-q19",
+              "number": 19,
+              "text": "Thanks to the access to the ________ Ireland leapt to the top of the European table in income and GDP levels.",
+              "type": "fill-blank",
+              "correctAnswer": "European common market"
+            },
+            {
+              "id": "test-4-q20",
+              "number": 20,
+              "text": "Major multinationals ________ Ireland's proximity to important countries on the Continent.",
+              "type": "fill-blank",
+              "correctAnswer": "appreciate"
+            }
+          ]
+        },
+        {
+          "id": "test-4-part1-listening-secC",
+          "title": "Part I Listening Comprehension Section C",
+          "instructions": "Answer the questions.",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%204.mp3",
+          "questions": [
+            {
+              "id": "test-4-q21",
+              "number": 21,
+              "text": "How does a flock of birds know when to change direction?",
+              "type": "fill-blank",
+              "correctAnswer": "They turn in sequence: often the beginning of the flock has turned again before the end has completed the earlier turn."
+            },
+            {
+              "id": "test-4-q22",
+              "number": 22,
+              "text": "According to the recording, what are scientists not sure about birds?",
+              "type": "fill-blank",
+              "correctAnswer": "They are not sure how the flock decides when to take off and when to swoop one way or another."
+            },
+            {
+              "id": "test-4-q23",
+              "number": 23,
+              "text": "Which bird in the flock steers the course of flying?",
+              "type": "fill-blank",
+              "correctAnswer": "Any bird can steer the course of flying."
+            },
+            {
+              "id": "test-4-q24",
+              "number": 24,
+              "text": "What does it mean by genius in its real sense?",
+              "type": "fill-blank",
+              "correctAnswer": "To give birth to the joy."
+            },
+            {
+              "id": "test-4-q25",
+              "number": 25,
+              "text": "Who can help preserve children's inborn capacities?",
+              "type": "fill-blank",
+              "correctAnswer": "Educators and parents."
+            },
+            {
+              "id": "test-4-q26",
+              "number": 26,
+              "text": "What should be responsible for the repression of children's genius qualities?",
+              "type": "fill-blank",
+              "correctAnswer": "Schools, homes and the broader culture, such as mass media."
+            },
+            {
+              "id": "test-4-q27",
+              "number": 27,
+              "text": "According to the talk, what seems to be able to persuade a consumer to buy the product?",
+              "type": "fill-blank",
+              "correctAnswer": "The look of the package."
+            },
+            {
+              "id": "test-4-q28",
+              "number": 28,
+              "text": "Apart from the product, what else is involved in buying a product?",
+              "type": "fill-blank",
+              "correctAnswer": "The consumer's belief in life."
+            },
+            {
+              "id": "test-4-q29",
+              "number": 29,
+              "text": "Which word today can keep food prices going up?",
+              "type": "fill-blank",
+              "correctAnswer": "The word \"green\"."
+            },
+            {
+              "id": "test-4-q30",
+              "number": 30,
+              "text": "What feelings do circle-shaped products bring the consumers?",
+              "type": "fill-blank",
+              "correctAnswer": "Happiness and peacefulness."
+            }
+          ]
+        },
+        {
+          "id": "test-4-part2-useofenglish-reading-secA",
+          "title": "Part II Use of English - Section A",
+          "instructions": "Cloze test.",
+          "questions": [
+            {
+              "id": "test-4-q31",
+              "number": 31,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "central"
+            },
+            {
+              "id": "test-4-q32",
+              "number": 32,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "simply"
+            },
+            {
+              "id": "test-4-q33",
+              "number": 33,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "attached"
+            },
+            {
+              "id": "test-4-q34",
+              "number": 34,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "command"
+            },
+            {
+              "id": "test-4-q35",
+              "number": 35,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "post"
+            },
+            {
+              "id": "test-4-q36",
+              "number": 36,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "holds"
+            },
+            {
+              "id": "test-4-q37",
+              "number": 37,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "consulted"
+            },
+            {
+              "id": "test-4-q38",
+              "number": 38,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "move up"
+            },
+            {
+              "id": "test-4-q39",
+              "number": 39,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "contrast"
+            },
+            {
+              "id": "test-4-q40",
+              "number": 40,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "usually"
+            },
+            {
+              "id": "test-4-q41",
+              "number": 41,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "vast"
+            },
+            {
+              "id": "test-4-q42",
+              "number": 42,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "either"
+            },
+            {
+              "id": "test-4-q43",
+              "number": 43,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "concentrated"
+            },
+            {
+              "id": "test-4-q44",
+              "number": 44,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "arrive"
+            },
+            {
+              "id": "test-4-q45",
+              "number": 45,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "generates"
+            }
+          ],
+          "content": "If sustainable competitive advantage depends on work-force skills, American firms have a problem. Human-resource management is not traditionally seen as {{31}} to the competitive survival of the firms in the United States. Skill acquisition is considered an individual responsibility. Labour is {{32}} another factor of production to be hired – rented at the lowest possible cost -much as one buys raw materials or equipment.\n\nThe lack of importance {{33}} to human-resource management can be seen in the corporate hierarchy. In an American firm the chief financial officer is almost always second in {{34}}. The {{35}} of head of human-resource management is usually a specialized job, off at the edge of the corporate hierarchy. The executive who {{36}} it is never {{37}} on major strategic decisions and has no chance to {{38}} to Chief Executive Officer. By way of {{39}}, in Japan, the head of human-resource management is central {{40}} the second most important executive, after the CEO, in the firm's hierarchy.\n\nWhile American firms often talk about the {{41}} amounts spent on training their work forces, in fact they invest less in the skills of their employees than do {{42}} Japanese or German firms. The money they do invest is also more highly {{43}} on professional and managerial employees.\n\nAs a result, problems emerge when new breakthrough technologies {{44}}. If American workers, for example, take much longer to learn how to operate new flexible manufacturing stations than workers in Germany (as they do), the effective cost of those stations is lower in Germany than it is in the United States. More time is required before equipment is up and running at capacity, and the need for extensive retraining {{45}} costs and creates bottlenecks that limit the speed with which new equipment can be employed.",
+          "sharedOptions": [
+            {
+              "label": "1",
+              "text": "central"
+            },
+            {
+              "label": "2",
+              "text": "arises"
+            },
+            {
+              "label": "3",
+              "text": "demand"
+            },
+            {
+              "label": "4",
+              "text": "involved"
+            },
+            {
+              "label": "5",
+              "text": "command"
+            },
+            {
+              "label": "6",
+              "text": "post"
+            },
+            {
+              "label": "7",
+              "text": "rarely"
+            },
+            {
+              "label": "8",
+              "text": "duty"
+            },
+            {
+              "label": "9",
+              "text": "holds"
+            },
+            {
+              "label": "10",
+              "text": "consulted"
+            },
+            {
+              "label": "11",
+              "text": "concurred"
+            },
+            {
+              "label": "12",
+              "text": "grand"
+            },
+            {
+              "label": "13",
+              "text": "consumed"
+            },
+            {
+              "label": "14",
+              "text": "take up"
+            },
+            {
+              "label": "15",
+              "text": "contrast"
+            },
+            {
+              "label": "16",
+              "text": "largely"
+            },
+            {
+              "label": "17",
+              "text": "comparison"
+            },
+            {
+              "label": "18",
+              "text": "simply"
+            },
+            {
+              "label": "19",
+              "text": "asserts"
+            },
+            {
+              "label": "20",
+              "text": "usually"
+            },
+            {
+              "label": "21",
+              "text": "appear"
+            },
+            {
+              "label": "22",
+              "text": "either"
+            },
+            {
+              "label": "23",
+              "text": "attached"
+            },
+            {
+              "label": "24",
+              "text": "neither"
+            },
+            {
+              "label": "25",
+              "text": "concentrated"
+            },
+            {
+              "label": "26",
+              "text": "arrive"
+            },
+            {
+              "label": "27",
+              "text": "generates"
+            },
+            {
+              "label": "28",
+              "text": "marginal"
+            },
+            {
+              "label": "29",
+              "text": "move up"
+            },
+            {
+              "label": "30",
+              "text": "vast"
+            }
+          ],
+          "passageAnalysis": "### 1. 文章大意 (Main Idea)\n本文主要探讨了美国企业在人力资源管理方面存在的问题及其对可持续竞争优势的影响。文章指出，美国企业传统上不重视人力资源管理，将其视为次要职能，这与日本等国的做法形成鲜明对比。这种不重视导致美国企业在员工技能培训上投入不足，进而影响了新技术的应用效率，削弱了其竞争力。\n\n### 2. 语篇结构 (Structure Analysis)\n- **第一段**：提出核心论点，即美国企业因不重视员工技能和人力资源管理而面临竞争优势问题，并解释其将劳动力视为普通生产要素的传统观念。\n- **第二段**：通过公司层级结构的对比，具体说明人力资源管理在美国企业中的地位低下，并以日本为例进行反衬。\n- **第三段**：进一步用数据对比指出，美国企业在员工培训上的实际投入少于日、德企业，且投资对象集中。\n- **第四段**：分析上述问题带来的后果，即当新技术出现时，美国工人适应速度慢，导致成本增加和生产效率受限，从而论证了开篇提出的竞争力问题。\n\n### 3. 核心词汇 (Core Vocabulary)\n1. **sustainable competitive advantage** - 可持续竞争优势\n2. **human-resource management** - 人力资源管理\n3. **central** - 核心的，至关重要的\n4. **skill acquisition** - 技能获取\n5. **factor of production** - 生产要素\n6. **corporate hierarchy** - 公司层级结构\n7. **second in command** - 第二负责人，二把手\n8. **strategic decisions** - 战略决策\n9. **Chief Executive Officer (CEO)** - 首席执行官\n10. **by way of contrast** - 相比之下\n11. **invest in** - 投资于\n12. **concentrated on** - 集中于\n13. **breakthrough technologies** - 突破性技术\n14. **at capacity** - 以最大产能\n15. **generates costs** - 产生成本"
+        },
+        {
+          "id": "test-4-part2-useofenglish-reading-secB-passage1",
+          "title": "Part II Reading Comprehension - Section B - Passage 1",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-4-q46",
+              "number": 46,
+              "text": "According to the author, companies can make a living by publishing books on how to use computers because",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "few companies are publishing such books"
+                },
+                {
+                  "label": "B",
+                  "text": "computers manipulate invisible information"
+                },
+                {
+                  "label": "C",
+                  "text": "it is not easy to learn how to use computers and computer programs"
+                },
+                {
+                  "label": "D",
+                  "text": "books on how to use computers are cheaper"
+                }
+              ]
+            },
+            {
+              "id": "test-4-q47",
+              "number": 47,
+              "text": "The author hopes that",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "the elderly can learn new technologies if they need"
+                },
+                {
+                  "label": "B",
+                  "text": "future generations can use something better than computers"
+                },
+                {
+                  "label": "C",
+                  "text": "he himself can get rid of computers as quickly as possible"
+                },
+                {
+                  "label": "D",
+                  "text": "radios will be made as complicated as computers"
+                }
+              ]
+            },
+            {
+              "id": "test-4-q48",
+              "number": 48,
+              "text": "According to the passage, today's computers should be ________",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "improved to conform to international conventions"
+                },
+                {
+                  "label": "B",
+                  "text": "designed with more buttons"
+                },
+                {
+                  "label": "C",
+                  "text": "based on people-centered philosophy"
+                },
+                {
+                  "label": "D",
+                  "text": "made with more information shown on the screen"
+                }
+              ]
+            },
+            {
+              "id": "test-4-q49",
+              "number": 49,
+              "text": "The word “retooling” in Para. 3 can best be replaced by ________",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "recovering"
+                },
+                {
+                  "label": "B",
+                  "text": "replacing"
+                },
+                {
+                  "label": "C",
+                  "text": "rearranging"
+                },
+                {
+                  "label": "D",
+                  "text": "reproaching"
+                }
+              ]
+            },
+            {
+              "id": "test-4-q50",
+              "number": 50,
+              "text": "Which seems to be the author's conclusion?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is burdensome to learn the arbitrary ways of the computer."
+                },
+                {
+                  "label": "B",
+                  "text": "It is a mistake to invent computer technology."
+                },
+                {
+                  "label": "C",
+                  "text": "Primitive machines are easier to manipulate."
+                },
+                {
+                  "label": "D",
+                  "text": "Products of today's technology are on the right track."
+                }
+              ]
+            }
+          ],
+          "content": "Here's my simple test for a product of today's technology: I go to the bookstores and check the shelves for remedial books. The more books, the more my suspicions are raised. If computers and computer programs supposedly are getting easier to use, why are so many companies still making a nice living publishing books on how to use them?\n\nComputers manipulate information, but information is invisible. There's nothing to see or touch. The programmer decides what you see on the screen. Computers don't have knobs like old radios. They don't have buttons, not real buttons. Instead, more and more programs display pictures of buttons, moving even further into abstraction and arbitrariness. I like computers, but I hope they will disappear, that they will seem as strange to our descendents as the technologies of our grandparents appear to us. Today's computers are indeed getting easier to use, but look where they started: so difficult that almost any improvement was welcome.\n\nComputers have the power to allow people within a company, across a nation or even around the world to work together. But this power will be wasted if tomorrow's computers aren't designed around the needs and capabilities of the human beings who must use them a people-centered philosophy, in other words. That means retooling computers to mesh with human strengths observing, communicating and innovating instead of asking people to conform to unnatural behavior computer demands. That just leads to error.\n\nMany of today's machines try to do too much. When a complicated word processor attempts to double as a desktop publishing program or a kitchen appliance comes with half a dozen attachments, the products are bound to be unwisely and burdensome. My favorite example of a technological product on just the right scale is an electronic dictionary. It can be made smaller, lighter and far easier to use than a print version, not only giving meanings but even pronouncing the words. Today's electronic dictionaries, with their tiny keys and barely legible displays, are primitive but they're on the right track."
+        },
+        {
+          "id": "test-4-part2-useofenglish-reading-secB-passage2",
+          "title": "Part II Reading Comprehension - Section B - Passage 2",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-4-q51",
+              "number": 51,
+              "text": "When the manufacturing community sees opportunities to solve major problems with new scientific development, it will",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "be alert and willing to invest in the future."
+                },
+                {
+                  "label": "B",
+                  "text": "stop drawing existing or emerging technologies on to the shop floor."
+                },
+                {
+                  "label": "C",
+                  "text": "quickly undertake new projects to capture the competitive edge."
+                },
+                {
+                  "label": "D",
+                  "text": "wait and see if it has \"science push\" and \"market pull\"."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q52",
+              "number": 52,
+              "text": "Which of the following is probably a controversial issue on strategic technologies?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Influence over the manufacturing community."
+                },
+                {
+                  "label": "B",
+                  "text": "Difficulty in teaching strategic technologies to workers."
+                },
+                {
+                  "label": "C",
+                  "text": "Functions and lasting periods of the strategic technologies."
+                },
+                {
+                  "label": "D",
+                  "text": "Acceptable explanations given for capital investments."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q53",
+              "number": 53,
+              "text": "The implementation of new strategic technologies will most probably not succeed if we",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "treat the strategic technologies in an evolutionary way."
+                },
+                {
+                  "label": "B",
+                  "text": "attempt to resolve the issue of strategic technologies too soon in a revolutionary way."
+                },
+                {
+                  "label": "C",
+                  "text": "do not realize the impact of new strategic technologies."
+                },
+                {
+                  "label": "D",
+                  "text": "can not make the computer more productive, reliable and powerful."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q54",
+              "number": 54,
+              "text": "The word \"deterrent\" (Para. 4) most probably refers to",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "advantage."
+                },
+                {
+                  "label": "B",
+                  "text": "shortcoming."
+                },
+                {
+                  "label": "C",
+                  "text": "disadvantage."
+                },
+                {
+                  "label": "D",
+                  "text": "handicap."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q55",
+              "number": 55,
+              "text": "The most suitable title of the passage would be",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The Factory of the Future: Technological Aspects."
+                },
+                {
+                  "label": "B",
+                  "text": "Science Push and Market Pull."
+                },
+                {
+                  "label": "C",
+                  "text": "The Impact of Strategic Technologies."
+                },
+                {
+                  "label": "D",
+                  "text": "The Future of the Manufacturing Environment."
+                }
+              ]
+            }
+          ],
+          "content": "Technological characteristics of the factory of the future will be influenced by both \"science push\" and \"market pull\". Science push relates to the many scientific developments that are being announced from laboratories around the world.\n\nThe manufacturing community is alert to these developments and when creative people visualize opportunities to solve major problems with new scientific developments, they are responsive to initiate major projects to attempt to capture a competitive edge. Market pull is the other dimension. The manufacturing community sees opportunities to gain a competitive edge by drawing existing or emerging technologies on to the shop floor, and they are willing to invest in the future. The driving force in both cases is the desire to increase productivity and quality. History has demonstrated that both phenomena are at work in the manufacturing environment.\n\nUnderlying the future of the manufacturing environment of tomorrow are the strategic technologies that we recognize today as playing an important role in our planning in industrial and university research laboratories. Let me elaborate on what I consider the strategic technologies in the laboratory with both medium and long-range perspectives on the future. My strategic technologies include: new materials (including polymers, alloys, ceramics and composites, and superconductors), computer engineering, microelectronics, micro fabrication, photonics, and manufacturing system (automation for machines and processes, new processes, engineering management).\n\nThe reality of the impact of the strategic technologies which I have mentioned is not an issue. What are the issues include: how rapidly will their impact be left, how will the capital investments required be justified, and how will we educate the workforce to implement and manage them. I believe these issues will be resolved in an evolutionary way rather than as a new industrial revolution. There are already unfortunate examples of failure in attempts to implement individual views of factories of the future. The underlying problems will surface when we attempt too much, too soon, and without a through knowledge of all of the important features of strategic technologies and of whether they are fit for an effective manufacturing facility. The lack of standards has been recognized as a major deterrent to integration, and major steps have been taken on a national and worldwide basis to correct the situation. We cannot overestimate the power of the human being to adapt and to succeed. We have not yet duplicated this power with the computer. However, we have achieved the ability to use the computer to make the human more productive, more reliable and more powerful. This is perhaps the beginning for developing a more focused view of what we mean by the factory of the future. The issue of strategic technologies is of great importance to the development of the factory of the future. It is a matter of survival."
+        },
+        {
+          "id": "test-4-part2-useofenglish-reading-secB-passage3",
+          "title": "Part II Reading Comprehension - Section B - Passage 3",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-4-q56",
+              "number": 56,
+              "text": "What kind of role did the computer play in the case mentioned?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Superior Court had to hold a hearing with the computer."
+                },
+                {
+                  "label": "B",
+                  "text": "The computer documented important files that may help Blake."
+                },
+                {
+                  "label": "C",
+                  "text": "DNA tests by the computer might point out a murdering case."
+                },
+                {
+                  "label": "D",
+                  "text": "One of the jury had to use the computer to get information."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q57",
+              "number": 57,
+              "text": "What's the probable meaning of \"oversee\" in the 3rd paragraph?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Overlook."
+                },
+                {
+                  "label": "B",
+                  "text": "Help."
+                },
+                {
+                  "label": "C",
+                  "text": "Supervise."
+                },
+                {
+                  "label": "D",
+                  "text": "Foresee."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q58",
+              "number": 58,
+              "text": "According to the passage, when will the trial be held?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It's not decided until Monday."
+                },
+                {
+                  "label": "B",
+                  "text": "It's about to be delayed."
+                },
+                {
+                  "label": "C",
+                  "text": "It will be held on schedule."
+                },
+                {
+                  "label": "D",
+                  "text": "It will be suspended till police find out the burglar."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q59",
+              "number": 59,
+              "text": "What does it imply by \"but golf clubs were also stolen\"?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The only purpose of the burglary was to get the computer."
+                },
+                {
+                  "label": "B",
+                  "text": "The burglar probably had nothing to do with the murdering case."
+                },
+                {
+                  "label": "C",
+                  "text": "The one who wanted the computer only did not have to break in."
+                },
+                {
+                  "label": "D",
+                  "text": "Golf clubs were deceptive in the murdering case."
+                }
+              ]
+            },
+            {
+              "id": "test-4-q60",
+              "number": 60,
+              "text": "According to the author, what is probably a standard to choose a jury?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The possible jurors are confronted with difficult questions."
+                },
+                {
+                  "label": "B",
+                  "text": "A jury must be composed of people from different social layers."
+                },
+                {
+                  "label": "C",
+                  "text": "Twelve jurors and two alternates are chosen."
+                },
+                {
+                  "label": "D",
+                  "text": "The jurors have to be in different age groups."
+                }
+              ]
+            }
+          ],
+          "content": "The computer was taken Wednesday — the same day the jury was seated — from the apartment of M. Gerald Schwartzbach, who is defending the actor against charges that he murdered his wife, Bonny Lee Barkley, in 2001.\n\nSuperior Court Judge Darlene Schempp held a quick hearing on the issue. Noting that all parties had not gotten much sleep, she postponed a motions hearing until Monday, when opening statements had been scheduled. She did not say whether those statements would proceed.\n\nJames E. Blatt, appointed by the judge to oversee the police investigation of the burglary, said after the hearing, \"Certain items were taken that could have a very negative effect if they get in the wrong people's hands.\"\n\nSchwartzbach declined to comment on whether he had copies of the material on the computer missing from his Sherman Oaks apartment, which was serving as his office.\n\nAppearing shaken as he spoke outside the courthouse, the defense attorney said that no matter what results from the investigation, “We intend to try this case as soon as we possibly can.\"\n\n\"We are satisfied that we have a fair jury and we want this trial,\" Schwartzbach said.\n\nHe declined to speculate on who might have committed the burglary, as did district attorney spokeswoman Sandi Gibbons.\n\nThe judge appointed Blatt, an attorney, to oversee any searches by officers investigating ine burglary, to make sure attorney-client privilege was not threatened.\n\n\"I believe there will be a very intense and thorough investigation,\" Blatt said. \"In that computer was the heart and soul of the defense case.\" The judge will decide Monday whether to postpone the case or go forward, he said.\n\nBlatt said the main thing taken was a computer, but golf clubs were also stolen, and an apartment adjacent to Schwartzbach's was entered. He said it appeared that the doors were forced with a crowbar or screwdriver.\n\nBlake, the 71-year-old star of the old \"Baretta\" TV series, married Barkley after DNA tests showed he was the father of her baby. Barkley was shot May 4, 2001, in a car parked near a restaurant where she and Blake had just dined. He is charged with murder and solicitation of murder.\n\nThe jurors were sworn in Wednesday after a prosecutor and defense attorney used numerous challenges to remove panelists from the jury box. They did not have to state a reason for the peremptory challenges.\n\nThe seven men and five women range in age from 24 to 78. Six alternates also were selected Wednesday."
+        },
+        {
+          "id": "test-4-part2-useofenglish-reading-secC",
+          "title": "Part II Reading Comprehension - Section C",
+          "instructions": "In the following passage, five sentences have been removed from the original text.",
+          "questions": [
+            {
+              "id": "test-4-q61",
+              "number": 61,
+              "text": "Fill blank {{61}}",
+              "type": "fill-blank",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "test-4-q62",
+              "number": 62,
+              "text": "Fill blank {{62}}",
+              "type": "fill-blank",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "test-4-q63",
+              "number": 63,
+              "text": "Fill blank {{63}}",
+              "type": "fill-blank",
+              "correctAnswer": "E"
+            },
+            {
+              "id": "test-4-q64",
+              "number": 64,
+              "text": "Fill blank {{64}}",
+              "type": "fill-blank",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "test-4-q65",
+              "number": 65,
+              "text": "Fill blank {{65}}",
+              "type": "fill-blank",
+              "correctAnswer": "D"
+            }
+          ],
+          "content": "Deep Blue and Garry Kasparov are taking chess to new levels of excellence. Both have shown what can be done with hard work and talent and imagination. Fortunate to have been born a genius, no one works harder to be champion than Garry Kasparov; the Deep Blue team is composed of the cream of scientific talent, and they too work with a passion and dedication to their mission.\n\nIn the last year, Garry Kasparov has played some of his finest chess and is coming to New York at the top of his career. {{61}} The match promises to be an outstanding contest. We are going to witness dramatic history at the chess table.\n\n{{62}} Science is filled with surprises and developing a chess program has had its share. Researchers in the 1950s and 1960s felt that if computers were to play chess at the level of the best humans a task many said required intelligence they should be programmed to play like grandmasters. Many maintained that computers should be programmed in sophisticated programming languages that would make it easy for programmers to incorporate the thought process of grandmasters into their programs.\n\nIn addition, computers should be programmed to carry out some sort of selective search as we envision grandmasters do. But Deep Blue has followed a different path. {{63}}\n\nThis is not to say that we haven't learned a lot about human intelligence and solving complex problems. First, we realize that the sheer power of computers, combined with our creative mind, will permit us to solve many problems that have seemed beyond our reach.\n\nSecond, we have learned that the definition of intelligence is elusive. {{64}} When computers of the future prove mathematical theorems that have stymied the greatest human minds thus far, will they then display intelligence?\n\nThird, we have learned something about learning itself. While there have been many attempts to program machine learning, there have been no great successes to date. {{65}}\n\nAs computers will remain our partners for the foreseeable future, it is important that we design them in ways that improve our own lives. This partnership has just begun, but if the last half-century is any indication of what is to come, as reflected in achievements such as those of Deep Blue, we may be in for many more pleasant surprises.",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "Although computers are playing grandmaster-level chess, does it follow that they have any intelligence?"
+            },
+            {
+              "label": "B",
+              "text": "Deep Blue will be significantly stronger too, searching twice as many positions per second and searching them with enhanced chess knowledge."
+            },
+            {
+              "label": "C",
+              "text": "But more than an exciting battle, this match will be remembered as a landmark in the evolution of mankind's powerful new tool."
+            },
+            {
+              "label": "D",
+              "text": "Computers have been taught to play chess, but learning how to improve their own play as we do is centuries away."
+            },
+            {
+              "label": "E",
+              "text": "It is programmed in C, a language that looks more like assembly language than anything fit for chess, and the brute force approach taken by Deep Blue's alpha-beta search is apparently in vivid contrast with the search done by grandmasters."
+            },
+            {
+              "label": "F",
+              "text": "We have witnessed a million-fold increase in computer power over the last 40 years, and we are beginning to understand the implications of another million-fold increase."
+            }
+          ]
+        },
+        {
+          "id": "test-4-part3-writing-secA",
+          "title": "Part III Writing - Section A",
+          "instructions": "Read the following article and write a summary.",
+          "questions": [
+            {
+              "id": "test-4-q66",
+              "number": 66,
+              "text": "Write a summary of the provided article.",
+              "type": "writing",
+              "correctAnswer": "Football is a sport in which body injury is one of the leading convention. Indeed, it is arguable that body shattering is the very point of football, as killing and maining are of war. To grasp some of the more conspicuous similarities between football and war, it is instructive to listen to the imperatives most frequently issued to the players by their coaches, teammates and fans. \"Hurt 'em!\" \"Level 'em!” “Take 'em apart!\" \"Kill 'em!\" Just as in Hockey, where a fight will bring fans to their feet more often than a skillful play, so in football the mouth waters most of all for the really crippling block or tackle.\n\nThe family resemblance between football and war is striking. Their language is similar: \"field general\", \"front line\", \"good hit\" and so on. Their principles and practices are alike: absolute command and total obedience, territorial aggression, blackboard maneuvers and strategies, drills, uniforms, formations, marching bands and training camps. And the virtues they celebrate are almost identical: hyper-aggressiveness, coolness under fire and suicidal bravery. All this has been implicitly recognized by such jock-loving Americans as media stars General Patton and President Nixon, who have talked about war as a football game. Patton wanted to make his Second World War tank men look like football players. And Nixon was fond of comparing attacks on Vietnam to football plays and drawing coachly diagrams on a blackboard TV war fans.\n\nOf course, it would be a mistake to suppose that there is more blind acceptance of brutal practices in organized football than elsewhere. On the contrary, a recent Harvard Study has approvingly argued that football's characteristics of “impersonal acceptance of inflicted injury\", an overriding \"organization goal\", the “ability to turn oneself on and off and being, above all, “out to win\" are of \"inestimable value\" to big corporations. Clearly, our sort of football is no sicker than the rest of our society. Even its organized destruction of physical well-being is not anomalous. A very large part of our wealth, work and time is, after all, spent in systematically destroying and harming human life. Competitive, organized injuring is integral to our way of life, and football is simply one of the more intelligible mirrors of the whole process.\n\nNow it is fashionable to rationalize our collaboration in all this by arguing that, well, man likes to fight and injure his fellows and such games as football should be encouraged to discharge this original-sin urge into less harmful channels than, say, war.\n\nAs an ex-player in the seasonal coast-to-coast drama, I see little to recommend such a view. What organized football did to me was make me suppress my natural urges and re-express them in an alienating, vicious form. Spontaneous desires for free bodily exuberance and fraternization with competitors were shamed and forced under and in their place were demanded armored mechanical moves and cool hatred of all opposition. The players never speak of these things because everybody is so anxious to appear tough.\n\nThe claim that men like seriously to battle one another to some sort of finish is a myth. It only endures because it wears one of the oldest and most propagandized of mask the romantic combatant. I sometimes wonder whether the violence all around us doesn't depend for its survival ' on the existence and preservation of this tough-guy disguise.\n\nAs for the effect of organized football on the spectator, the fan is not released from supposed feelings of violent aggression by watching his athletic heroes perform it so much as encouraged in the view that people-smashing is an admirable mode of self-expression. Indeed, it seems likely that the whole show just further develops and stimulates the North American addiction for violent seif-assertion. Perhaps, as well, it helps explain why the greater the zeal of U.S. political leaders as football fans, the more enthusiastic the commitment to hard-line politics.\n\nWatching well-advertised strong men knock other people round, make them hurt, is in the end like other tastes. It does not weaken with feeding and variation in form. It grows.",
+              "explanation": "### 1. 参考范文 (Model Summary)\nFootball shares profound similarities with warfare, evident in its violent language, strategic principles, and celebration of aggressive virtues like coolness under fire. Prominent figures have explicitly linked the two, comparing military campaigns to football plays. However, this violence is not an anomaly within the sport. Instead, it reflects broader societal values, as studies suggest its emphasis on inflicting injury, unwavering organizational goals, and a win-at-all-costs mentality are highly valued by corporate structures. Consequently, football acts as a clear mirror of a competitive culture where systematic injury is integral.\n\nThe common rationalization that football harmlessly channels innate aggressive urges is flawed. From a player's perspective, the sport suppresses natural spontaneity, replacing it with forced, mechanical aggression and manufactured hatred for opponents. For spectators, far from providing a cathartic release, the spectacle normalizes and even encourages violence as a valid form of self-expression. This cultural reinforcement may, in turn, fuel a societal addiction to violent assertion and correlate with political hard-line attitudes. Ultimately, the appetite for watching sanctioned violence, much like other tastes, does not diminish but grows with continued exposure.\n\n### 2. 摘要逻辑 (Summary Logic)\n摘要首先聚焦文章核心论点：足球与战争在语言、策略和崇尚的“美德”上具有惊人的相似性，且这种联系被知名人物所认可。随后，摘要转向更关键的论述：足球的暴力并非孤立现象，而是反映了将竞争性伤害制度化的社会价值观，尤其受到企业文化的推崇。接着，摘要驳斥了“安全阀”理论，分别从球员（压制天性、制造仇恨）和观众（鼓励暴力、刺激瘾癖）的角度，论证足球实则助长而非疏导暴力。最后，以对这种暴力观赏欲只会增强的观察作结。逻辑链条为：揭示相似性 -> 定位其社会根源 -> 批驳常见辩解 -> 分析对参与者与社会的实际影响。\n\n### 3. 重点表达 (Key Expressions)\n1.  **However, ... is not an anomaly.** / 然而，……并非异常现象。（用于转折并引入更深层原因）\n2.  **Instead, it reflects...** / 相反，它反映了……。（用于提出替代性解释或根本原因）\n3.  **Consequently, ... acts as a clear mirror of...** / 因此，……成为……的一面清晰镜子。（用于总结因果关系和象征意义）\n4.  **From a ... perspective, ...** / 从……的角度来看，……。（用于切换论述视角，引入具体例证）\n5.  **Ultimately, ... does not diminish but grows.** / 最终，……不会减弱反而会增强。（用于给出结论性判断，强调趋势）"
+            }
+          ],
+          "content": "Football is a sport in which body injury is one of the leading convention. Indeed, it is arguable that body shattering is the very point of football, as killing and maining are of war. To grasp some of the more conspicuous similarities between football and war, it is instructive to listen to the imperatives most frequently issued to the players by their coaches, teammates and fans. \"Hurt 'em!\" \"Level 'em!” “Take 'em apart!\" \"Kill 'em!\" Just as in Hockey, where a fight will bring fans to their feet more often than a skillful play, so in football the mouth waters most of all for the really crippling block or tackle.\n\nThe family resemblance between football and war is striking. Their language is similar: \"field general\", \"front line\", \"good hit\" and so on. Their principles and practices are alike: absolute command and total obedience, territorial aggression, blackboard maneuvers and strategies, drills, uniforms, formations, marching bands and training camps. And the virtues they celebrate are almost identical: hyper-aggressiveness, coolness under fire and suicidal bravery. All this has been implicitly recognized by such jock-loving Americans as media stars General Patton and President Nixon, who have talked about war as a football game. Patton wanted to make his Second World War tank men look like football players. And Nixon was fond of comparing attacks on Vietnam to football plays and drawing coachly diagrams on a blackboard TV war fans.\n\nOf course, it would be a mistake to suppose that there is more blind acceptance of brutal practices in organized football than elsewhere. On the contrary, a recent Harvard Study has approvingly argued that football's characteristics of “impersonal acceptance of inflicted injury\", an overriding \"organization goal\", the “ability to turn oneself on and off and being, above all, “out to win\" are of \"inestimable value\" to big corporations. Clearly, our sort of football is no sicker than the rest of our society. Even its organized destruction of physical well-being is not anomalous. A very large part of our wealth, work and time is, after all, spent in systematically destroying and harming human life. Competitive, organized injuring is integral to our way of life, and football is simply one of the more intelligible mirrors of the whole process.\n\nNow it is fashionable to rationalize our collaboration in all this by arguing that, well, man likes to fight and injure his fellows and such games as football should be encouraged to discharge this original-sin urge into less harmful channels than, say, war.\n\nAs an ex-player in the seasonal coast-to-coast drama, I see little to recommend such a view. What organized football did to me was make me suppress my natural urges and re-express them in an alienating, vicious form. Spontaneous desires for free bodily exuberance and fraternization with competitors were shamed and forced under and in their place were demanded armored mechanical moves and cool hatred of all opposition. The players never speak of these things because everybody is so anxious to appear tough.\n\nThe claim that men like seriously to battle one another to some sort of finish is a myth. It only endures because it wears one of the oldest and most propagandized of mask the romantic combatant. I sometimes wonder whether the violence all around us doesn't depend for its survival ' on the existence and preservation of this tough-guy disguise.\n\nAs for the effect of organized football on the spectator, the fan is not released from supposed feelings of violent aggression by watching his athletic heroes perform it so much as encouraged in the view that people-smashing is an admirable mode of self-expression. Indeed, it seems likely that the whole show just further develops and stimulates the North American addiction for violent seif-assertion. Perhaps, as well, it helps explain why the greater the zeal of U.S. political leaders as football fans, the more enthusiastic the commitment to hard-line politics.\n\nWatching well-advertised strong men knock other people round, make them hurt, is in the end like other tastes. It does not weaken with feeding and variation in form. It grows."
+        },
+        {
+          "id": "test-4-part3-writing-secB",
+          "title": "Part III Writing - Section B",
+          "instructions": "Write an essay.",
+          "questions": [
+            {
+              "id": "test-4-q67",
+              "number": 67,
+              "text": "Some people say that books are the most important source of knowledge. Do you agree with this opinion? What is your idea of the knowledge gained through experience?",
+              "type": "writing",
+              "correctAnswer": "Books are one of the human treasures. We have no difficulty finding that books contain many human experiences and lessons, including love and hatred, failure and success, darkness and brilliance. Books provide us with a shortcut in life if we can follow the path books indicate. Although the importance of books is really widely recognized, it does not mean that knowledge from experience is not important. No book can replace real experience. As the saying goes, \"Wit once bought is worth twice taught.\" For example, on people's first trial of driving a car, even though they are very familiar with the car's equipment, they still find it difficult to drive it skillfully. Therefore, practical training is vital in our life. There is so much knowledge in books that we have to make our own choices through our personal experiences. Learning through experience is reasonable, because you are the best one to know yourself. Knowledge from books can bring you some enlightenment, but only you yourself know your own merits and demerits. One example is the courses offered in colleges. Many students consider some compulsory courses not useful at all, and they might even play truant. Many times, the knowledge we acquire through other people's experience can be more precious than that provided by books. We all have the experience of asking for advice from families, friends or colleagues instead of trusting books. In this age of information, many people like to surf on the Internet to exchange valuable experiences. In fact, knowledge from books and knowledge from experience complement each other. Only if we depend on both of them can we really become more knowledgeable.",
+              "explanation": "### 1. 参考范文 (Model Essay)\n\nWhile the assertion that books are the most important source of knowledge holds significant merit, particularly for structured and theoretical learning, I believe this view is somewhat reductive. Knowledge is a multifaceted construct, and its most profound forms often arise from the synthesis of book-based learning and direct, lived experience.\n\nUndoubtedly, books are an indispensable repository of human understanding. They offer unparalleled access to accumulated wisdom, complex theories, and diverse perspectives across time and space. A student of history, for instance, cannot personally witness the fall of empires, but through scholarly texts, they gain a systematic and analytical understanding of past events. Similarly, scientific principles, mathematical formulas, and philosophical doctrines are most efficiently and accurately codified in written form. Books provide a foundational framework upon which further understanding can be built, making them a primary, though not exclusive, source of knowledge.\n\nHowever, to claim they are the *most* important source overlooks the irreplaceable value of experiential knowledge. Knowledge gained through experience—often termed tacit or practical knowledge—is contextual, nuanced, and deeply personal. For example, one can read extensively about leadership theories, but the true understanding of team dynamics, motivation, and crisis management is forged in the crucible of real-world practice. A surgeon studies anatomy from textbooks for years, but the dexterity and judgment required in the operating theatre are honed through countless hours of hands-on experience. This type of knowledge involves intuition, emotional intelligence, and adaptive skills that are difficult, if not impossible, to fully capture in prose.\n\nMy conception of experiential knowledge is that it is the process of transforming abstract information into applied wisdom. It is the bridge between knowing *that* something is true and understanding *how* and *when* to apply that truth effectively. It encompasses learning from failure, developing interpersonal skills, and cultivating resilience. While books provide the map, experience is the journey itself, complete with unforeseen obstacles and unique landscapes that reshape the traveler's understanding.\n\nIn conclusion, books and experience are not rivals but complementary pillars of knowledge. Books offer the essential theory, history, and facts, while experience provides the practical mastery, contextual judgment, and personal insight necessary to wield that information meaningfully. Therefore, I disagree with the absolute statement that books are paramount; the most complete and powerful knowledge emerges from their symbiotic relationship.\n\n### 2. 写作思路 (Writing Strategy)\n*   **结构 (Structure):** 采用平衡论证结构。首段明确立场，不完全同意题目观点，并提出核心论点：知识是书本与经验的结合。主体段落两段分别论证书本和经验的价值。第二段肯定书本作为系统知识库的重要性，并举例说明。第三段重点阐述经验性知识的独特性和不可替代性，通过对比论证强化观点。第四段进一步阐释个人对经验性知识的理解，深化论述。末段总结，强调二者的互补关系。\n*   **论点 (Arguments):**\n    *   支持书本：是人类智慧的系统化仓库，提供跨越时空的视角，是学习理论、历史、科学的高效准确方式。\n    *   支持经验：是隐性、情境化的实践知识，能培养书本无法传授的直觉、判断力和软技能（如领导力、外科手术技巧）。\n    *   核心立场：二者相辅相成，书本提供“地图”（理论），经验提供“旅程”（实践），最完整的知识源于二者的结合。\n*   **语气与用词 (Tone & Diction):** 语气客观、学术、辩证。使用严谨的学术词汇（如`repository`, `codified`, `tacit knowledge`, `symbiotic`）和复杂的句型结构，体现批判性思维。避免绝对化语言，通过`somewhat reductive`, `overlooks`, `complementary`等词展现 nuanced 的立场。\n\n### 3. 亮点词汇与句型 (Key Vocabulary & Expressions)\n1.  **Indispensable repository (不可或缺的宝库):** 高度评价书本作为知识储存地的关键作用。\n2.  **Tacit / practical knowledge (隐性/实践知识):** 指通过实践获得、难以言传的知识，与书本的显性知识形成对比。\n3.  **Forged in the crucible of (在...的熔炉中锤炼而成):** 生动比喻，强调经验性知识是在真实挑战中获得的。\n4.  **Symbiotic relationship (共生关系):** 准确描述书本知识与经验知识相互依存、彼此促进的紧密联系。\n5.  **Transform abstract information into applied wisdom (将抽象信息转化为应用智慧):** 精炼概括了经验性知识的本质和功能。\n6.  **A multifaceted construct (一个多方面的构建体):** 用于开篇定义“知识”，表明其复杂性。\n7.  **Overlooks the irreplaceable value of (忽视了...的不可替代的价值):** 用于转折，指出对方观点的盲点。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

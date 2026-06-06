@@ -1,0 +1,1159 @@
+{
+  "exams": [
+    {
+      "id": "test-7",
+      "title": "Model Test 7",
+      "sections": [
+        {
+          "id": "test-7-listening-a",
+          "title": "Part I Listening Comprehension - Section A",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%207.mp3",
+          "instructions": "In this part, you will hear 10 short conversations. At the end of each conversation, a question will be asked about what is said. Each conversation and the question will be spoken only once. When you hear the question, read the four choices of the answer given and choose the best one by marking the corresponding letter A, B, C, or D on your Answer Sheet I.",
+          "questions": [
+            {
+              "id": "test-7-q1",
+              "number": 1,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A formal suit for her graduation ceremony."
+                },
+                {
+                  "label": "B",
+                  "text": "A casual dress for a small gathering."
+                },
+                {
+                  "label": "C",
+                  "text": "A fantastic dress for her performance."
+                },
+                {
+                  "label": "D",
+                  "text": "A warm coat for cold days."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q2",
+              "number": 2,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To help their friend do something voluntarily."
+                },
+                {
+                  "label": "B",
+                  "text": "To travel in a group for sightseeing."
+                },
+                {
+                  "label": "C",
+                  "text": "To list some places and get information for them."
+                },
+                {
+                  "label": "D",
+                  "text": "To write some travel articles."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q3",
+              "number": 3,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "In the hall of a hotel."
+                },
+                {
+                  "label": "B",
+                  "text": "In their room of a hotel."
+                },
+                {
+                  "label": "C",
+                  "text": "In their relative's house."
+                },
+                {
+                  "label": "D",
+                  "text": "In a restaurant."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q4",
+              "number": 4,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The woman has lost a cat recently when he carried it in a bag."
+                },
+                {
+                  "label": "B",
+                  "text": "The woman doesn't want the other people to celebrate his birthday."
+                },
+                {
+                  "label": "C",
+                  "text": "The woman almost told Josh the secret in advance."
+                },
+                {
+                  "label": "D",
+                  "text": "The woman was sorry for the lost cat."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q5",
+              "number": 5,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "An insurance agent."
+                },
+                {
+                  "label": "B",
+                  "text": "A saleswoman of furniture."
+                },
+                {
+                  "label": "C",
+                  "text": "A bank teller."
+                },
+                {
+                  "label": "D",
+                  "text": "An architect."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q6",
+              "number": 6,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He's bought a stereo with a lower price."
+                },
+                {
+                  "label": "B",
+                  "text": "His new stereo has a good sounding system."
+                },
+                {
+                  "label": "C",
+                  "text": "He's happy because he's just got an expensive stereo."
+                },
+                {
+                  "label": "D",
+                  "text": "The woman doesn't know why he's so glad."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q7",
+              "number": 7,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The man is lucky and he's passed his exam."
+                },
+                {
+                  "label": "B",
+                  "text": "The man has cleaned his sweater."
+                },
+                {
+                  "label": "C",
+                  "text": "The man finally finished his test on time."
+                },
+                {
+                  "label": "D",
+                  "text": "The man put on his sweater in a hurry."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q8",
+              "number": 8,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To give a present to the dean."
+                },
+                {
+                  "label": "B",
+                  "text": "To give a party for the dean's retirement."
+                },
+                {
+                  "label": "C",
+                  "text": "To give a birthday party for John."
+                },
+                {
+                  "label": "D",
+                  "text": "To give a party for John's retirement."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q9",
+              "number": 9,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The expenses of their tour."
+                },
+                {
+                  "label": "B",
+                  "text": "The professor's plan of the concert."
+                },
+                {
+                  "label": "C",
+                  "text": "The way of their traveling."
+                },
+                {
+                  "label": "D",
+                  "text": "The places they're going to travel to."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q10",
+              "number": 10,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He is asking for an absence for his math class."
+                },
+                {
+                  "label": "B",
+                  "text": "He has a sore throat and cannot call the professor himself."
+                },
+                {
+                  "label": "C",
+                  "text": "He lives two doors down from the professor."
+                },
+                {
+                  "label": "D",
+                  "text": "He feels ashamed for talking to the professor about his problem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "test-7-listening-b",
+          "title": "Part I Listening Comprehension - Section B",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%207.mp3",
+          "instructions": "In this part, you will hear two mini-talks. While you listen, complete the sentences in your Answer Sheet II for Questions 11 to 20 by writing NO MORE THAN THREE WORDS in each sentence. You will hear each talk or conversation TWICE.",
+          "questions": [
+            {
+              "id": "test-7-q11",
+              "number": 11,
+              "text": "Even if your manners are __________ in your own culture, you may sometimes upset people in Britain.",
+              "type": "fill-blank",
+              "correctAnswer": "perfectly normal"
+            },
+            {
+              "id": "test-7-q12",
+              "number": 12,
+              "text": "British people probably don't know much about your country or culture, and fear they might __________ you by speaking inappropriately.",
+              "type": "fill-blank",
+              "correctAnswer": "offend"
+            },
+            {
+              "id": "test-7-q13",
+              "number": 13,
+              "text": "The easiest way for British people to avoid embarrassment is not to __________ and start speaking to you.",
+              "type": "fill-blank",
+              "correctAnswer": "go up"
+            },
+            {
+              "id": "test-7-q14",
+              "number": 14,
+              "text": "British people may worry about __________ your own personal space.",
+              "type": "fill-blank",
+              "correctAnswer": "interfering with"
+            },
+            {
+              "id": "test-7-q15",
+              "number": 15,
+              "text": "If you are a woman, a British man may worry that if he starts speaking to you, you will feel __________",
+              "type": "fill-blank",
+              "correctAnswer": "threatened"
+            },
+            {
+              "id": "test-7-q16",
+              "number": 16,
+              "text": "The Nobel Prizes are awarded to those who shall have conferred __________ on mankind during the preceding year.",
+              "type": "fill-blank",
+              "correctAnswer": "the greatest benefit"
+            },
+            {
+              "id": "test-7-q17",
+              "number": 17,
+              "text": "Nobel was a conscientious __________",
+              "type": "fill-blank",
+              "correctAnswer": "industrialist"
+            },
+            {
+              "id": "test-7-q18",
+              "number": 18,
+              "text": "Nobel contributed to the inventions of synthetic rubber, __________ and synthetic leather.",
+              "type": "fill-blank",
+              "correctAnswer": "artificial silk"
+            },
+            {
+              "id": "test-7-q19",
+              "number": 19,
+              "text": "Winning a Nobel Prize is a __________",
+              "type": "fill-blank",
+              "correctAnswer": "life-changing honor"
+            },
+            {
+              "id": "test-7-q20",
+              "number": 20,
+              "text": "The award leads to worldwide recognition highlighting one's life work and __________ to continue and further the mission.",
+              "type": "fill-blank",
+              "correctAnswer": "providing the funds"
+            }
+          ]
+        },
+        {
+          "id": "test-7-listening-c",
+          "title": "Part I Listening Comprehension - Section C",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%207.mp3",
+          "instructions": "Short answers.",
+          "questions": [
+            {
+              "id": "test-7-q21",
+              "number": 21,
+              "text": "According to parapsychologists, what natural ability do humans have?",
+              "type": "fill-blank",
+              "correctAnswer": "They can sense when someone is looking at them."
+            },
+            {
+              "id": "test-7-q22",
+              "number": 22,
+              "text": "In the first experiment, how long did Baker stare at the unknowing people in public?",
+              "type": "fill-blank",
+              "correctAnswer": "For 5 to 15 minutes."
+            },
+            {
+              "id": "test-7-q23",
+              "number": 23,
+              "text": "What did Baker ask the subjects to do in the second experiment?",
+              "type": "fill-blank",
+              "correctAnswer": "To write down when they felt they were being stared at and when they weren't."
+            },
+            {
+              "id": "test-7-q24",
+              "number": 24,
+              "text": "What makes up the 70 percent of communication?",
+              "type": "fill-blank",
+              "correctAnswer": "Gestures and nonverbal actions."
+            },
+            {
+              "id": "test-7-q25",
+              "number": 25,
+              "text": "What should men do before they are introduced to someone important?",
+              "type": "fill-blank",
+              "correctAnswer": "Stand up to show politeness and respect."
+            },
+            {
+              "id": "test-7-q26",
+              "number": 26,
+              "text": "What is common in introduction in the East?",
+              "type": "fill-blank",
+              "correctAnswer": "Bowing."
+            },
+            {
+              "id": "test-7-q27",
+              "number": 27,
+              "text": "What is harmful to both nature and human life?",
+              "type": "fill-blank",
+              "correctAnswer": "The waste produced by major industries and people."
+            },
+            {
+              "id": "test-7-q28",
+              "number": 28,
+              "text": "What is one of the main causes of the large amount of dangerous waste?",
+              "type": "fill-blank",
+              "correctAnswer": "People don't realize how serious the dangerous waste problem is."
+            },
+            {
+              "id": "test-7-q29",
+              "number": 29,
+              "text": "Why are industries unwilling to deal with the dangerous waste problem?",
+              "type": "fill-blank",
+              "correctAnswer": "Because of the related expenses."
+            },
+            {
+              "id": "test-7-q30",
+              "number": 30,
+              "text": "How much of the waste can be reduced by using existing technologies and methods?",
+              "type": "fill-blank",
+              "correctAnswer": "One third."
+            }
+          ]
+        },
+        {
+          "id": "test-7-use-of-english-a",
+          "title": "Part II Use of English - Section A",
+          "instructions": "Cloze test.",
+          "questions": [
+            {
+              "id": "test-7-q31",
+              "number": 31,
+              "text": "Fill in blank 31.",
+              "type": "fill-blank",
+              "correctAnswer": "achieve"
+            },
+            {
+              "id": "test-7-q32",
+              "number": 32,
+              "text": "Fill in blank 32.",
+              "type": "fill-blank",
+              "correctAnswer": "ethic"
+            },
+            {
+              "id": "test-7-q33",
+              "number": 33,
+              "text": "Fill in blank 33.",
+              "type": "fill-blank",
+              "correctAnswer": "verbal"
+            },
+            {
+              "id": "test-7-q34",
+              "number": 34,
+              "text": "Fill in blank 34.",
+              "type": "fill-blank",
+              "correctAnswer": "above all"
+            },
+            {
+              "id": "test-7-q35",
+              "number": 35,
+              "text": "Fill in blank 35.",
+              "type": "fill-blank",
+              "correctAnswer": "meant"
+            },
+            {
+              "id": "test-7-q36",
+              "number": 36,
+              "text": "Fill in blank 36.",
+              "type": "fill-blank",
+              "correctAnswer": "status"
+            },
+            {
+              "id": "test-7-q37",
+              "number": 37,
+              "text": "Fill in blank 37.",
+              "type": "fill-blank",
+              "correctAnswer": "while"
+            },
+            {
+              "id": "test-7-q38",
+              "number": 38,
+              "text": "Fill in blank 38.",
+              "type": "fill-blank",
+              "correctAnswer": "effort"
+            },
+            {
+              "id": "test-7-q39",
+              "number": 39,
+              "text": "Fill in blank 39.",
+              "type": "fill-blank",
+              "correctAnswer": "propelled"
+            },
+            {
+              "id": "test-7-q40",
+              "number": 40,
+              "text": "Fill in blank 40.",
+              "type": "fill-blank",
+              "correctAnswer": "set up"
+            },
+            {
+              "id": "test-7-q41",
+              "number": 41,
+              "text": "Fill in blank 41.",
+              "type": "fill-blank",
+              "correctAnswer": "although"
+            },
+            {
+              "id": "test-7-q42",
+              "number": 42,
+              "text": "Fill in blank 42.",
+              "type": "fill-blank",
+              "correctAnswer": "accounts for"
+            },
+            {
+              "id": "test-7-q43",
+              "number": 43,
+              "text": "Fill in blank 43.",
+              "type": "fill-blank",
+              "correctAnswer": "strive to"
+            },
+            {
+              "id": "test-7-q44",
+              "number": 44,
+              "text": "Fill in blank 44.",
+              "type": "fill-blank",
+              "correctAnswer": "distinguished"
+            },
+            {
+              "id": "test-7-q45",
+              "number": 45,
+              "text": "Fill in blank 45.",
+              "type": "fill-blank",
+              "correctAnswer": "sight"
+            }
+          ],
+          "content": "I don't view my important characteristics as different from those my family has imparted on me throughout the years. The pride, care, dedication, effort, and hard-working attitude that I view as critical to any success I may {{31}} have all descended upon me courtesy of my close-knit, Italian family.\n\nWhen I was born as the child of two immigrants who came here with nothing, only one possessing a college degree, the importance of a good work {{32}} was stressed by my parents from day one. Through their actions in their jobs and through the {{33}} lessons on life I began to get from the moment I could communicate, they set an example for me to follow, one of being proud of what I do, no matter what it was, and {{34}} to care about everything I do as if everything had a big impact. This {{35}} that everything had to be done right and be done well. Undoubtedly, following their own advice carried my parents from their {{36}} as blue-collar immigrants who labored as factory workers to white-collar citizens, one of whom owns his own business {{37}} the other works as a bank officer. Those ascensions from nothing only served as other examples for me to follow, examples that delineated the ability for a person to improve through {{38}}\n\nAnother quotation from my father {{39}} me from the time I started school to today, \"No matter what you do, you have to be the best.\" This {{40}} the inner drive that motivates all my actions. It was what forced me to try hard in school {{41}} I didn't know English well enough to always understand the teacher. It's the reason why I have developed my skills. It {{42}} my dedication to all activities, and to the hard work. I put into all of them as I {{43}} lead both in class and out. Essentially, my parentage was the first quality that {{44}} me as a leader. Despite all the talk of being a leader, I have never lost {{45}} of the importance of my family. I know I owe my family everything, and, as a result I'll always be close with it.",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "approach"
+            },
+            {
+              "label": "B",
+              "text": "ethic"
+            },
+            {
+              "label": "C",
+              "text": "verbal"
+            },
+            {
+              "label": "D",
+              "text": "above all"
+            },
+            {
+              "label": "E",
+              "text": "convinced"
+            },
+            {
+              "label": "F",
+              "text": "while"
+            },
+            {
+              "label": "G",
+              "text": "effort"
+            },
+            {
+              "label": "H",
+              "text": "strength"
+            },
+            {
+              "label": "I",
+              "text": "meant"
+            },
+            {
+              "label": "J",
+              "text": "better"
+            },
+            {
+              "label": "K",
+              "text": "achieve"
+            },
+            {
+              "label": "L",
+              "text": "propelled"
+            },
+            {
+              "label": "M",
+              "text": "struck"
+            },
+            {
+              "label": "N",
+              "text": "set up"
+            },
+            {
+              "label": "O",
+              "text": "although"
+            },
+            {
+              "label": "P",
+              "text": "accounts for"
+            },
+            {
+              "label": "Q",
+              "text": "figures out"
+            },
+            {
+              "label": "R",
+              "text": "strive to"
+            },
+            {
+              "label": "S",
+              "text": "go in for"
+            },
+            {
+              "label": "T",
+              "text": "distinguished"
+            },
+            {
+              "label": "U",
+              "text": "set apart"
+            },
+            {
+              "label": "V",
+              "text": "estranged"
+            },
+            {
+              "label": "W",
+              "text": "sight"
+            },
+            {
+              "label": "X",
+              "text": "perspective"
+            },
+            {
+              "label": "Y",
+              "text": "ethnic"
+            },
+            {
+              "label": "Z",
+              "text": "since"
+            },
+            {
+              "label": "AA",
+              "text": "spoken"
+            },
+            {
+              "label": "BB",
+              "text": "by contrast"
+            },
+            {
+              "label": "CC",
+              "text": "status"
+            },
+            {
+              "label": "DD",
+              "text": "expectations"
+            }
+          ],
+          "passageAnalysis": "### 1. 文章大意 (Main Idea)\n本文作者是一位移民后代，他阐述了自己的核心品格与成功动力均源自其紧密的意大利移民家庭。文章首先指出，他所珍视的骄傲、关怀、奉献等特质皆由家庭赋予。接着，他通过描述父母从蓝领工人奋斗成为白领专业人士的亲身经历，以及父亲“无论做什么，都要做到最好”的格言，具体说明了家庭如何通过言传身教塑造了他的职业道德与内在驱动力。最后，作者强调，正是这种家庭背景使他具备了领导者的品质，而他永远不会忘记家庭的重要性。\n\n### 2. 语篇结构 (Structure Analysis)\n*   **第一段（引言与核心论点）**：开篇点明主题——作者的重要品格直接继承自其家庭，并列举了这些品格的具体内容。\n*   **第二段（例证一：父母的榜样）**：详细描述父母作为移民，如何通过自身行动和言语教导，向作者灌输职业道德与认真态度，并以父母从蓝领晋升至白领的成功经历作为激励作者的鲜活榜样。\n*   **第三段（例证二：父亲的格言与个人实践）**：引用父亲的格言作为个人内在驱动力的源泉，并具体说明这句格言如何激励他在学业、技能发展和各类活动中追求卓越、展现领导力。结尾再次呼应主题，强调家庭是其领导力的根源与永远的归属。\n\n### 3. 核心词汇 (Core Vocabulary)\n1.  **imparted (on)** 传授，给予\n2.  **dedication** 奉献，投入\n3.  **achieve** 取得，实现\n4.  **close-knit** 关系紧密的\n5.  **work ethic** 职业道德\n6.  **verbal** 口头的，言语的\n7.  **status** 地位，身份\n8.  **blue-collar / white-collar** 蓝领的 / 白领的\n9.  **delineated** 描绘，阐明\n10. **propelled** 推动，激励\n11. **set up** 建立，激发\n12. **accounts for** 解释，是…的原因\n13. **strive to** 努力，力求\n14. **distinguished** 使突出，使有别于\n15. **lost sight of** 忘记，忽视"
+        },
+        {
+          "id": "test-7-reading-b-passage-1",
+          "title": "Part II Reading Comprehension - Section B - Passage 1",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-7-q46",
+              "number": 46,
+              "text": "According to the passage, memory is a prerequisite for us to",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "identify suspicious behavior."
+                },
+                {
+                  "label": "B",
+                  "text": "test adaptive ability in an evolutionary process."
+                },
+                {
+                  "label": "C",
+                  "text": "learn and understand new knowledge."
+                },
+                {
+                  "label": "D",
+                  "text": "forget the previous experiences."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q47",
+              "number": 47,
+              "text": "From the evolutionary point of view,",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "forgetting for lack of practice tends to be obviously inadaptive."
+                },
+                {
+                  "label": "B",
+                  "text": "if a person gets very forgetful of a sudden he must be very adaptive."
+                },
+                {
+                  "label": "C",
+                  "text": "the gradual process of forgetting is an indication of an individual's adaptability."
+                },
+                {
+                  "label": "D",
+                  "text": "sudden forgetting may bring about adaptive consequences."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q48",
+              "number": 48,
+              "text": "Which is the proper explanation of the word \"fade\" (L.2, para.3)?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Disappear."
+                },
+                {
+                  "label": "B",
+                  "text": "Decrease."
+                },
+                {
+                  "label": "C",
+                  "text": "Demonstrate."
+                },
+                {
+                  "label": "D",
+                  "text": "Declare."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q49",
+              "number": 49,
+              "text": "According to the passage, if a person never forgot,",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "he would survive best."
+                },
+                {
+                  "label": "B",
+                  "text": "he would have a lot of trouble."
+                },
+                {
+                  "label": "C",
+                  "text": "his ability to learn would be enhanced."
+                },
+                {
+                  "label": "D",
+                  "text": "the evolution of memory would stop."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q50",
+              "number": 50,
+              "text": "From the last paragraph we know that",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "forgetfulness is a response to learning."
+                },
+                {
+                  "label": "B",
+                  "text": "the memory storage system is an exactly balanced input-output system."
+                },
+                {
+                  "label": "C",
+                  "text": "memory is a compensation for forgetting."
+                },
+                {
+                  "label": "D",
+                  "text": "the capacity of a memory storage system is limited because forgetting occurs."
+                }
+              ]
+            }
+          ],
+          "content": "That experiences influence subsequent behavior is evidence of an obvious but remarkable activity called remembering. Learning could not occur without the function popularly named memory. Constant practice has such an effect on memory as to lead to skillful performance on the piano, to recitation of a poem, and even to reading and understanding these words. So-called intelligent behavior demands memory, remembering being a primary requirement for reasoning. The ability to solve any problem or even to recognize that a problem exists depends on memory. Typically, the decision to cross a street is based on remembering many earlier experiences.\n\nPractice (or review) tends to build and maintain memory for a task or for any learned material. Over a period of no practice what has been learned tends to be forgotten; and the adaptive consequences may not seem obvious. Yet, dramatic instances of sudden forgetting can be seen to be adaptive. In this sense, the ability to forget can be interpreted to have survived through a process of natural selection in animals. Indeed, when one's memory of an emotionally painful experience leads to serious anxiety, fo.getting may produce relief. Nevertheless, an evolutionary interpretation might make it difficult to understand how the commonly gradual process of forgetting survived natural selection.\n\nIn thinking about the evolution of memory together with all its possible aspects, it is helpful to consider what would happen if memories failed to fade. Forgetting clearly aids orientation in time, since old memories weaken and the new tend to stand out, providing clues for inferring duration. Without forgetting, adaptive ability would suffer; for example, learned behavior that might have been correct a decade ago may no longer be. Cases are recorded of people who (by ordinary standards) forgot so little that their everyday activities were full of confusion. Thus forgetting seems to serve the survival of the individual and the species.\n\nAnother line of thought assumes a memory storage system of limited capacity that provides adaptive flexibility specifically through forgetting. In this view, continual adjustments are made between learning or memory storage (input) and forgetting (output). Indeed, there is evidence that the rate at which individuals forget is directly related to how much they have learned. Such data offer gross support of contemporary models of memory that assume an input-output balance."
+        },
+        {
+          "id": "test-7-reading-b-passage-2",
+          "title": "Part II Reading Comprehension - Section B - Passage 2",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-7-q51",
+              "number": 51,
+              "text": "According to the traditional view of the origin of the ocean basins, which of the following is sufficient to move the continental plates?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Spreading of ocean trenches."
+                },
+                {
+                  "label": "B",
+                  "text": "Movements of mid-ocean ridges."
+                },
+                {
+                  "label": "C",
+                  "text": "Sinking of ocean basins."
+                },
+                {
+                  "label": "D",
+                  "text": "Differences in temperature under oceans and continents."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q52",
+              "number": 52,
+              "text": "The author refers to a \"conveyor belt\" in the first paragraph in order to",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "illustrate the effects of movements in the upper layer of the earth."
+                },
+                {
+                  "label": "B",
+                  "text": "show how temperature differences depend on the positions of the continents."
+                },
+                {
+                  "label": "C",
+                  "text": "describe the complicated motions made possible by the ocean currents."
+                },
+                {
+                  "label": "D",
+                  "text": "account for the rising currents under mid-ocean ridges."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q53",
+              "number": 53,
+              "text": "Which of the following, if it could be demonstrated, would most support the traditional view of ocean basin formation?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The upper mantle of the earth behaves as a dense solid."
+                },
+                {
+                  "label": "B",
+                  "text": "Movements usually occur along lines."
+                },
+                {
+                  "label": "C",
+                  "text": "Sinking plates cool the surface of the earth."
+                },
+                {
+                  "label": "D",
+                  "text": "The rising motion currents keep exact pace with them."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q54",
+              "number": 54,
+              "text": "Which of the following does the author seem to prefer?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The traditional view of the origin of the ocean basin is totally wrong."
+                },
+                {
+                  "label": "B",
+                  "text": "The temperature of the sinking plate is lower than its surrounding."
+                },
+                {
+                  "label": "C",
+                  "text": "That the earth behaves as a liquid results in the division of the waters."
+                },
+                {
+                  "label": "D",
+                  "text": "Neither the African nor the American plate moves according to the alternative theory."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q55",
+              "number": 55,
+              "text": "Which of the following would be the best title?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Several Theories of Ocean Basin Formation."
+                },
+                {
+                  "label": "B",
+                  "text": "The Traditional View of the Oceans."
+                },
+                {
+                  "label": "C",
+                  "text": "Motions and Ocean Currents."
+                },
+                {
+                  "label": "D",
+                  "text": "Temperature Differences Among the Oceans."
+                }
+              ]
+            }
+          ],
+          "content": "No very satisfactory account of the mechanism that caused the formation of the ocean basins has yet been given. The traditional view supposes that the upper layer of the earth behaves as a liquid when it is subjected to small focus for long periods and that differences in temperature under oceans and continents are sufficient to produce movements in the upper layer of the earth with rising currents under the mid-ocean ridges and sinking currents under the continents. Theoretically, these movements would carry the continental plates along as though they were on a conveyor belt and would provide the forces needed to produce the split that occur along the ridge. This view may be correct; it has the advantage that the currents arc driven by temperature differences that themselves depend on the position of the continents.\n\nOn the other hand, the theory is unconvincing because the movements do not normally occur along lines, and it certainly does not occur along lines broken by frequent changes in direction, as the ridge is. Also, it is difficult to see how the theory applies to the plate between the Mid-Atlantic Ridge and the ridge in the Indian Ocean. This plate is growing on both sides, and since there is no intermediate trench, the two ridges must be moving apart. An alternative theory is that the sinking part of the plate, which is denser than the hotter surroundings, pulls the rest of plate after it. Again it is difficult to see how this applies to the ridge in the South Atlantic, where neither the African nor the American plate has a sinking part.\n\nAnother possibility is that the sinking plate cools the neighboring mantle and produces motion currents that move the plates. This last theory is attractive because it gives some hope of explaining the neighboring mantle and produces motion currents that move the plates. This last theory is attractive because it gives some hope of explaining the enclosed seas. These seas have a typical oceanic floor, except that the floor is overlaid by several kilometers of sediment. Their floors have probably been sinking for long periods. It seems possible that a sinking current of cooled material on the upper side might be the cause of such deep basins. The enclosed seas are an important feature of the earth's surface and seriously require explanation."
+        },
+        {
+          "id": "test-7-reading-b-passage-3",
+          "title": "Part II Reading Comprehension - Section B - Passage 3",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-7-q56",
+              "number": 56,
+              "text": "Which of the following describes the importance of diversity concepts in clinical education?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Teaching about diversity is a separate part of quality teaching."
+                },
+                {
+                  "label": "B",
+                  "text": "Diversity concepts help improve clinical reasoning skills."
+                },
+                {
+                  "label": "C",
+                  "text": "Diversity concepts provide relief for vulnerable populations."
+                },
+                {
+                  "label": "D",
+                  "text": "Diversity concepts are very difficult to master than clinical skills."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q57",
+              "number": 57,
+              "text": "What can we infer from Guhde's article?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The minority population is larger than the white population."
+                },
+                {
+                  "label": "B",
+                  "text": "Many Asian students need better chances to learn English."
+                },
+                {
+                  "label": "C",
+                  "text": "Less than 30 percent of heath professionals are bilingual."
+                },
+                {
+                  "label": "D",
+                  "text": "Minorities need improvement in health care."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q58",
+              "number": 58,
+              "text": "How do Hispanics compare with the white population in terms of health indicators?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Minorities are much financially poorer than the whites."
+                },
+                {
+                  "label": "B",
+                  "text": "They have to pay much more than the whites for every treatment."
+                },
+                {
+                  "label": "C",
+                  "text": "More Hispanics die of cancer than the whites."
+                },
+                {
+                  "label": "D",
+                  "text": "Hispanics are becoming less proficient in English."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q59",
+              "number": 59,
+              "text": "What does the phrase “make a difference”in the second paragraph probably mean?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Discriminate against."
+                },
+                {
+                  "label": "B",
+                  "text": "Widen the gap."
+                },
+                {
+                  "label": "C",
+                  "text": "Distinguish oneself."
+                },
+                {
+                  "label": "D",
+                  "text": "Exert influence."
+                }
+              ]
+            },
+            {
+              "id": "test-7-q60",
+              "number": 60,
+              "text": "Vulnerable populations would probably get better treatment if",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "a number of culturally diverse care providers would be available."
+                },
+                {
+                  "label": "B",
+                  "text": "medical workforce would not discriminate for minorities."
+                },
+                {
+                  "label": "C",
+                  "text": "disparities between minorities and whites would be ignored."
+                },
+                {
+                  "label": "D",
+                  "text": "more minorities would go to the whites' hospitals for treatment."
+                }
+              ]
+            }
+          ],
+          "content": "Teaching about diversity is synonymous with a quality education in health care. The focus on diversity is not a separate aspect of quality teaching in and of itself. Rather, it is a key attribute for the development of clinical reasoning skills. However, incorporating diversity concepts into the curricula of the health professions may be more difficult for many faculty members than delivering pathophysiology content. Moreover, ethnically diverse minority and underserved vulnerable populations require health care professionals that are knowledgeable of components inherent in the delivery of their health care. To achieve the goal of integrating diversity concepts into existing courses requires institutional support and faculty commitment.\n\nOver the past decades, there have been three emerging population trends in the United States. First, the minority population is increasing at higher rates than the white population. Guhde's article highlights the growth of the Hispanic and Asian populations and the need to facilitate the progression and graduation of the English as a Second Language student. This article is significant because of the tremendous need for health professionals who are bilingual. In many urban hospitals and other health care delivery agencies, thirty to fifty percent of the patients may not speak English. Moreover, when demographic data are linked to health indicators, minorities are worse off than whites. For example, Hispanics have a disproportionate burden for cancer deaths compared to the white population. According to the Institute of Medicine, a key component that affects health disparities is cultural competency. Being culturally competent potentially improves care and may aid in reducing the burden of health disparities. Implementing fundamental change requires that health care professionals understand these disparities and make a personal commitment to make a difference.\n\nA second trend in the United States is an increasing rate of poverty among its children. Access to care is a significant problem for low-income populations and contributes to disparities in health for this population. Providing health care to the nation's vulnerable populations is hampered by both a limited number of culturally competent providers as well as a significant shortage of health care providers\n\nThe third trend is the under representation of minorities in schools of nursing and medicine. The lack of representation of minorities in these professional schools leads to a lack of diversity in the nursing and medical workforce. Studies indicate that minority nurses are more likely to work with minority populations and participate in community-based health promotion programs with vulnerable populations."
+        },
+        {
+          "id": "test-7-reading-c",
+          "title": "Part II Reading Comprehension - Section C",
+          "instructions": "In the following passage, five sentences have been removed from the original text.",
+          "questions": [
+            {
+              "id": "test-7-q61",
+              "number": 61,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "test-7-q62",
+              "number": 62,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "E"
+            },
+            {
+              "id": "test-7-q63",
+              "number": 63,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "F"
+            },
+            {
+              "id": "test-7-q64",
+              "number": 64,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "test-7-q65",
+              "number": 65,
+              "text": "",
+              "type": "fill-blank",
+              "correctAnswer": "B"
+            }
+          ],
+          "content": "Since the early work of Halberg (1960), the existence of human “circadian rhythms” has been well-known to biologists and psychologists. Circadian rhythms dictate that there are certain times of the day when we are at our best both physically and psychologically. At its simplest, the majority of us feel more alive and creative in the mornings, while come the evenings we are fit only for collapsing with a good book or in front of the television. {{61}}\n\nIrrespective of our personal rhythms, most of us have a productive period between 10 a. m. and noon, when the stomach, pancreas, spleen and heart all appear to be in their most active phases. {{62}} The simple rules here are: don't waste too much prime time having a coffee break around 11a. m. when you should be doing some of your best work, and don't make the after-lunch period even less productive by overloading your digestion. A short coffee or tea break is, in fact, best taken on arrival at the office, when it helps us start the day in a positive mood, rather than mid-morning when it interrupts the flow of our activities. Lunch is best taken early, when we are just beginning to feel hungry, and we are likely to eat less than if we leave it until later. {{63}}\n\nChanges in one's attitude can also enhance personal time management. For example, the notion of pro-action is eminently preferable to reaction. {{64}} To react, on the other hand, means to have little anticipation and do something only when events force you to do so. Pro-actors tend to be the people who are always one step ahead of other people, who always seem to be in the right place at the right time, and who are always better informed than anyone else. Many of us like an easy life, and so we tend to be reactors. {{65}} We can train ourselves in pro-action by regularly taking the time to sit down and appraise the likely immediate future, just as we sit down and review the immediate past.",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "To pro-act means to anticipate events and be in a position to take appropriate action as soon as the right moment arrives."
+            },
+            {
+              "label": "B",
+              "text": "This means that we aren't alert to the challenges and opportunities coming our way, with the consequence that challenges bother us or opportunities pass us by before we're even properly aware they're upon us."
+            },
+            {
+              "label": "C",
+              "text": "Others of us note that in the morning we take a great deal of time to get going physically and mentally, but by the evening are full of energy and bright ideas, while a very few of us feel most alert and vigorous in the late afternoon."
+            },
+            {
+              "label": "D",
+              "text": "Certainly, there are occasions when other people are more responsible for our time loss than we are, but for most of us, and for most of the time, the blame must fall fairly and squarely upon ourselves."
+            },
+            {
+              "label": "E",
+              "text": "Conversely, the majority of us experience a low period in the hour or two after lunch (a time when people in some societies sensibly take a rest), as most of our energy is devoted to the process of digestion."
+            },
+            {
+              "label": "F",
+              "text": "An early lunch also means that we can get back into our productive stride earlier in the afternoon."
+            }
+          ]
+        },
+        {
+          "id": "test-7-writing-a",
+          "title": "Part III Writing - Section A",
+          "instructions": "Read the following article and write a summary.",
+          "questions": [
+            {
+              "id": "test-7-q66",
+              "number": 66,
+              "text": "Write a summary of no more than 150 words on the article.",
+              "type": "writing",
+              "correctAnswer": "The term corporal punishment means the intentional infliction of pain on the body for purposes of punishment. The general acceptance, and sometimes support, of corporal punishment as a method of discipline is an aspect of many cultures. The corporal punishment was justifiable in the old days because parents or teachers thought children as their own property. Children are abused, in part, because they are unable to follow parents' directions or to defend themselves against stronger and more powerful adults. Nowadays kids no longer are expected to act to be very quiet for their complete childhood. If corporal punishment were used today, it would fail. Children are better to be educated than to be disciplined. They would listen to those who respect them and share similar experiences with them. On the other hand, they would keep distance from those who presume as authorities. Moreover, children have more and more legal consciousness. Some of them would use lawsuits to protect themselves when facing corporal punishment. It seems that using corporal punishment can be effective shortly afterwards, but children may suffer both physically and mentally in the long run. Unfortunately, some other kids may become self-centered, and even turn to violent actions against society. Since corporal punishment has more drawbacks than benefits, it should no longer be regarded as reasonable. There are many other way; to guide children and cultivate their potentials, for example, reading books, going hiking or playing tennis. Educators will step down and listen to the kids, but they never use whip.",
+              "explanation": "### 1. 参考范文 (Model Summary)\nThe BlackBerry, nicknamed \"CrackBerry,\" is an addictive wireless device popular among executives for real-time email access. However, its high cost and wide, 3-inch keyboard hindered mainstream adoption. To address this, RIM introduced the BlackBerry 7,100t, a narrower and more affordable model priced at $200 with a $60 monthly plan. Its innovative 20-key keyboard, featuring two letters per key, uses predictive software with a 35,000-word database to accurately interpret typed words. Additional user-friendly features include automatic punctuation, a bright color screen with adjustable fonts, and intuitive thumb-dial navigation. While corporate users enjoy real-time email syncing, other users receive auto-forwarded emails every 15 minutes. The device also supports viewing Word, Excel, and PDF files directly.\n\n### 2. 摘要逻辑 (Summary Logic)\n摘要首先点明黑莓设备（昵称“CrackBerry”）在商务人士中的流行及其核心功能。接着，转折指出其最初未能普及的两个主要原因：价格过高和键盘过宽。然后，重点介绍了新型号7100t如何通过降低价格、缩小尺寸和创新性20键键盘设计来解决这些问题。随后，概括了其预测文本输入、用户界面和屏幕显示等关键易用性功能。最后，简要对比了企业用户与普通用户的邮件同步方式，并提及了文件支持功能，从而全面覆盖了文章关于设备演变、问题解决和核心特性的主要内容。\n\n### 3. 重点表达 (Key Expressions)\n1.  **However, ...** - 然而，...\n2.  **To address this, ...** - 为了解决这个问题，...\n3.  **Additional ... features include** - 额外的...功能包括\n4.  **While ... , other ...** - 虽然...，但其他..."
+            }
+          ],
+          "content": "Among the white-collar crowd, though, one particular gizmo has earned a street nickname all its own: CrackBerry. That's a reference to the RIM BlackBerry, an addictive wireless palmtop that displays your e-mail in real time, as it arrives.\n\nThe airports and commuter trains on both coasts are filled with BlackBerry fanatics, hunched over, eyes glazed, flailing at its microscopic alphabet keyboard with their thumbs callused in funny places.\n\nBut for all its popularity among executives and financial-industry types, the BlackBerry is virtually unknown to everyone else. RIM hopes to change all that with the BlackBerry 7,100t, which it unveiled on Sept. 8. The device, with phone service from T-Mobile, will go on sale next month.\n\nRIM believed that everyday consumers avoided the original BlackBerry for two reasons. First, the price was way too high: $500 for the BlackBerry, plus about $30 a month for Internet service on top of a voice plan. That one was easy to fix; the 7,100t costs $200, plus $60 a month for both unlimited Internet and 1,000 anytime phone minutes.\n\nThe second reason is that the BlackBerry's Thumbelina keyboard is nearly 3 inches, or 76 centimeters wide. Recent BlackBerry models are also cellphones, and 3 inches is awfully wide for a phone. As you walk down the street, you feel as if you're talking into a frozen waffle.\n\nThe new 7,100t is a narrower 2.3 inches. In fact, it's nearly the same size and shape as a standard non-folding cell phone.\n\nBut what about the keyboard? A full set of alphabet keys wouldn't fit; for proof, RIM's designers had to look no farther than the popular Treo 600, the BlackBerry's main rival. The Treo has a full alphabet keyboard but even though the phone itself is wider, its keys are the size of hydrogen atoms.\n\nA standard 10-key phone keypad was out of the question, too; trying to compose e-mail on number-dialing keys is like trying to mow the grass in a sports stadium with fingernail scissors.\n\nSo once again, RIM devised something nobody had ever tried before: a keyboard with 20 keys. The payoff is obvious; compared with standard cell phone keys, these are positively gargantuan. There are only five keys on each row, so even the beefy of thumb will have no trouble hitting the right keys. Of course, now the screaming question is: How do you produce 26 letters and all the numbers when you have only 20 keys?\n\nRIM's solution was to double up. Most of the keys have two letters painted on them; for example, the top four keys are labeled QW, ER, TY and OP. You just hammer away at the keys you want, ignoring the gibberish that may appear at first.\n\nBy the time you complete each word, the phone's software has consulted its database of 35,000 words and deduced your intentions. It's a crazy, way-out plan, but it actually works.\n\nThree factors conspire to make the typing process tolerable and once you're rolling along even enjoyable. First, the BlackBerry learns new words once you've corrected them, and preferred interpretations after you've corrected the phone twice.\n\nSecond, the BlackBerry's software saves you time in myriad little ways. You can omit periods, apostrophes and capitalizing the first words of sentences. Just hit the space bar twice after a sentence to supply both the period and the initial capital.\n\nFinally, all of this typing takes place on one of the brightest, highest-contrast color screens you've ever seen on a cell phone. You even have a choice of font and size for all the text displays, which, together with the unusually broad, brightly lit keys, makes this gadget especially friendly to the over-40 set.\n\nAs on existing BlackBerry models, the screen isn't touch-sensitive; instead, you roll the thumb dial to select a menu or icon, and push inward to select it. Navigation is foolproof, thanks to the dedicated Back button on the side.\n\nCorporate e-mail users really have it made; their BlackBerries, backed at the office by something called enterprise server software, are real-time mirrors of their PC in-boxes. Reply on the BlackBerry, find the reply in your Sent Mail box back at the office.\n\nEveryone else will have to settle for a system in which your e-mail is wirelessly auto-forwarded, every 15 minutes, to your phone.\n\nWhen you return to your Mac or PC, you'll have no indication that you replied, composed, filed or deleted messages on your BlackBerry.\n\nOn the other hand, you can open up Word, Excel and PDF files right on the phone."
+        },
+        {
+          "id": "test-7-writing-b",
+          "title": "Part III Writing - Section B",
+          "instructions": "Write an essay.",
+          "questions": [
+            {
+              "id": "test-7-q67",
+              "number": 67,
+              "text": "Do you think corporal punishment is justifiable in disciplining children? Give your reasons.",
+              "type": "writing",
+              "correctAnswer": "The term corporal punishment means the intentional infliction of pain on the body for purposes of punishment. The general acceptance, and sometimes support, of corporal punishment as a method of discipline is an aspect of many cultures. The corporal punishment was justifiable in the old days because parents or teachers thought children as their own property. Children are abused, in part, because they are unable to follow parents' directions or to defend themselves against stronger and more powerful adults. Nowadays kids no longer are expected to act to be very quiet for their complete childhood. If corporal punishment were used today, it would fail. Children are better to be educated than to be disciplined. They would listen to those who respect them and share similar experiences with them. On the other hand, they would keep distance from those who presume as authorities. Moreover, children have more and more legal consciousness. Some of them would use lawsuits to protect themselves when facing corporal punishment. It seems that using corporal punishment can be effective shortly afterwards, but children may suffer both physically and mentally in the long run. Unfortunately, some other kids may become self-centered, and even turn to violent actions against society. Since corporal punishment has more drawbacks than benefits, it should no longer be regarded as reasonable. There are many other way; to guide children and cultivate their potentials, for example, reading books, going hiking or playing tennis. Educators will step down and listen to the kids, but they never use whip.",
+              "explanation": "### 1. 参考范文 (Model Essay)\n\nThe question of whether corporal punishment is a justifiable method of disciplining children remains a contentious issue in modern society. While some argue it is a necessary tool for instilling immediate obedience, I firmly believe it is an unjustifiable and counterproductive practice that can cause significant long-term harm to a child's development.\n\nProponents of corporal punishment often claim it is an effective deterrent that swiftly corrects undesirable behaviour. They argue that a quick, physical consequence creates a clear and memorable link between action and punishment, thereby teaching discipline. However, this perspective is fundamentally flawed. Discipline rooted in fear does not foster genuine understanding or internal moral reasoning. Instead, it teaches children that power and aggression are acceptable means to resolve conflicts and enforce one's will, a lesson that can perpetuate cycles of violence.\n\nThe detrimental psychological and emotional impacts of corporal punishment are well-documented. Rather than building respect, it can erode the essential trust between parent and child, creating an environment of anxiety and resentment. Studies consistently show a correlation between physical punishment and increased levels of aggression, antisocial behaviour, and mental health issues such as depression and anxiety in later life. The child learns to avoid punishment rather than comprehend why their behaviour was wrong, stunting the development of empathy and self-regulation.\n\nFurthermore, numerous effective and constructive alternatives exist. Positive reinforcement for good behaviour, logical consequences related to the misdeed, and calm, consistent communication are far superior methods. These approaches require more patience and effort but ultimately guide children towards becoming responsible, empathetic, and well-adjusted individuals. They focus on teaching rather than merely punishing.\n\nIn conclusion, while the intention behind corporal punishment may sometimes be to discipline, its effects are overwhelmingly negative. It is an archaic practice that undermines healthy child development and violates the principle of respecting a child's dignity. Therefore, it cannot be justified as a legitimate form of discipline in contemporary child-rearing.\n\n### 2. 写作思路 (Writing Strategy)\n*   **文章结构 (Essay Structure):** 采用经典的“辩论型”四段式结构。\n    *   **引言段:** 直接切入主题，陈述争议性，并清晰亮明个人立场（反对体罚）。\n    *   **主体段一 (让步段):** 首先承认并简要反驳支持体罚的主要论点（快速有效、建立服从），指出其根本缺陷在于基于恐惧而非理解。\n    *   **主体段二 (核心论证段):** 深入阐述体罚的危害，聚焦于心理和情感上的长期负面影响（破坏信任、导致攻击性、阻碍同理心发展），并引用普遍的研究发现增强说服力。\n    *   **主体段三 (解决方案段):** 提出建设性替代方案（积极强化、逻辑后果、沟通），强调这些方法更能培养孩子的内在品格。\n    *   **结论段:** 重申立场，总结核心危害，并最终强调体罚在现代社会的不正当性。\n*   **论证方法 (Argumentation):** 结合了说理分析（对比恐惧与理解）和事实支撑（提及研究共识）。采用了“承认反驳法”来处理对立观点，使论证更全面、有力。\n*   **语气与用词 (Tone & Diction):** 语气坚定、客观、正式。使用“firmly believe”、“fundamentally flawed”、“well-documented”、“overwhelmingly negative”等词语表达明确的批判立场，同时通过“may sometimes be”等措辞保持一定的论述严谨性。\n\n### 3. 亮点词汇与句型 (Key Vocabulary & Expressions)\n1.  **Contentious issue:** 有争议的问题\n2.  **A deterrent:** 威慑；制止因素\n3.  **Perpetuate cycles of violence:** 助长暴力的循环\n4.  **Detrimental psychological impacts:** 有害的心理影响\n5.  **Erode trust:** 侵蚀信任\n6.  **Stunt the development of:** 阻碍...的发展\n7.  **Positive reinforcement:** 积极强化\n8.  **An archaic practice:** 一种过时的做法"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

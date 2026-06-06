@@ -1,0 +1,7 @@
+output/
+.idea/
+__pycache__/
+*.pyc
+*.pdf
+*.ttf
+*.ttc

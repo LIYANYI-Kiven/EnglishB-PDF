@@ -1,0 +1,1289 @@
+{
+  "exams": [
+    {
+      "id": "test-6",
+      "title": "Model Test 6",
+      "sections": [
+        {
+          "id": "test-6-listening-a",
+          "title": "Part I Listening Comprehension - Section A",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%206.mp3",
+          "instructions": "Conversations.",
+          "questions": [
+            {
+              "id": "test-6-q1",
+              "number": 1,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The woman managed to give the police a wrong dog."
+                },
+                {
+                  "label": "B",
+                  "text": "The woman was caught by the police because she didn't have a driving license."
+                },
+                {
+                  "label": "C",
+                  "text": "The woman was very sad because she could not find her lovely dog."
+                },
+                {
+                  "label": "D",
+                  "text": "The woman tried very hard to find a new dog to make her parents happy."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q2",
+              "number": 2,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "9:45."
+                },
+                {
+                  "label": "B",
+                  "text": "9:15."
+                },
+                {
+                  "label": "C",
+                  "text": "8:45."
+                },
+                {
+                  "label": "D",
+                  "text": "8:15."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q3",
+              "number": 3,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The woman is sad because her eyes get hurt."
+                },
+                {
+                  "label": "B",
+                  "text": "The woman is sad because her boyfriend abandoned her."
+                },
+                {
+                  "label": "C",
+                  "text": "The woman is happy because she dumped a guy she didn't like."
+                },
+                {
+                  "label": "D",
+                  "text": "The woman feels much better after this conversation."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q4",
+              "number": 4,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "$ 60."
+                },
+                {
+                  "label": "B",
+                  "text": "$ 75."
+                },
+                {
+                  "label": "C",
+                  "text": "$ 90."
+                },
+                {
+                  "label": "D",
+                  "text": "$ 50."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q5",
+              "number": 5,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Very accidental."
+                },
+                {
+                  "label": "B",
+                  "text": "Very easy."
+                },
+                {
+                  "label": "C",
+                  "text": "Without any reason."
+                },
+                {
+                  "label": "D",
+                  "text": "Very lucky."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q6",
+              "number": 6,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "In a bank."
+                },
+                {
+                  "label": "B",
+                  "text": "In a stock exchange company."
+                },
+                {
+                  "label": "C",
+                  "text": "In a business negotiation."
+                },
+                {
+                  "label": "D",
+                  "text": "In an import-export company."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q7",
+              "number": 7,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "998."
+                },
+                {
+                  "label": "B",
+                  "text": "899."
+                },
+                {
+                  "label": "C",
+                  "text": "989."
+                },
+                {
+                  "label": "D",
+                  "text": "988."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q8",
+              "number": 8,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The woman is a college student in a medical school."
+                },
+                {
+                  "label": "B",
+                  "text": "The woman works very hard to find a job."
+                },
+                {
+                  "label": "C",
+                  "text": "The woman looks nice because she has just passed the examination."
+                },
+                {
+                  "label": "D",
+                  "text": "The woman works very hard to enter the medical school."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q9",
+              "number": 9,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "John has already found a well-paid job on newspaper."
+                },
+                {
+                  "label": "B",
+                  "text": "John didn't want to help her find a job on the web."
+                },
+                {
+                  "label": "C",
+                  "text": "John didn't get the job by himself."
+                },
+                {
+                  "label": "D",
+                  "text": "John has not found any job because he does not have to."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q10",
+              "number": 10,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He is a soldier in Afghanistan."
+                },
+                {
+                  "label": "B",
+                  "text": "He always likes to tell others of his own life plan."
+                },
+                {
+                  "label": "C",
+                  "text": "He has made a big and shocking decision recently."
+                },
+                {
+                  "label": "D",
+                  "text": "He has a stable personality."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "test-6-listening-b",
+          "title": "Part I Listening Comprehension - Section B",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%206.mp3",
+          "instructions": "Sentence completion.",
+          "questions": [
+            {
+              "id": "test-6-q11",
+              "number": 11,
+              "text": "A cell contains all the __________ and molecules that help support an organism's life.",
+              "type": "fill-blank",
+              "correctAnswer": "chemicals"
+            },
+            {
+              "id": "test-6-q12",
+              "number": 12,
+              "text": "Cells are thought of as __________ of organisms.",
+              "type": "fill-blank",
+              "correctAnswer": "building blocks"
+            },
+            {
+              "id": "test-6-q13",
+              "number": 13,
+              "text": "It is commonly believed in the scientific world that humans are __________ of a single cell.",
+              "type": "fill-blank",
+              "correctAnswer": "descendants"
+            },
+            {
+              "id": "test-6-q14",
+              "number": 14,
+              "text": "Single cells are able to carry out certain biological functions on their own to __________.",
+              "type": "fill-blank",
+              "correctAnswer": "sustain life"
+            },
+            {
+              "id": "test-6-q15",
+              "number": 15,
+              "text": "Cell membranes function as a partition between the __________ of the cell and the outside environment.",
+              "type": "fill-blank",
+              "correctAnswer": "components"
+            },
+            {
+              "id": "test-6-q16",
+              "number": 16,
+              "text": "Pollution __________ into the air by power stations, factories, houses and cars contains sulphur dioxide and nitrogen oxides.",
+              "type": "fill-blank",
+              "correctAnswer": "emitted"
+            },
+            {
+              "id": "test-6-q17",
+              "number": 17,
+              "text": "Before they fall to the earth in rain, snow or hail, acids can be __________ by the wind.",
+              "type": "fill-blank",
+              "correctAnswer": "transported long distances"
+            },
+            {
+              "id": "test-6-q18",
+              "number": 18,
+              "text": "Acid rain can have __________ on freshwater lakes and the wildlife that depend upon them.",
+              "type": "fill-blank",
+              "correctAnswer": "harmful impacts"
+            },
+            {
+              "id": "test-6-q19",
+              "number": 19,
+              "text": "Governments have brought in international laws to __________ pollution from power stations and plants.",
+              "type": "fill-blank",
+              "correctAnswer": "clean up"
+            },
+            {
+              "id": "test-6-q20",
+              "number": 20,
+              "text": "To help reduce air pollution, we can __________ instead of using our car for short journeys.",
+              "type": "fill-blank",
+              "correctAnswer": "walk or cycle"
+            }
+          ]
+        },
+        {
+          "id": "test-6-listening-c",
+          "title": "Part I Listening Comprehension - Section C",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%206.mp3",
+          "instructions": "Short answers.",
+          "questions": [
+            {
+              "id": "test-6-q21",
+              "number": 21,
+              "text": "In what way can one benefit if he/she can forgive?",
+              "type": "fill-blank",
+              "correctAnswer": "It will be helpful to his/her physical and mental health. They will have more energy, better appetite and better sleep patterns."
+            },
+            {
+              "id": "test-6-q22",
+              "number": 22,
+              "text": "Why one can expect to wait a long time for apologizing?",
+              "type": "fill-blank",
+              "correctAnswer": "They may have wanted to hurt you or they just don't see things the same way."
+            },
+            {
+              "id": "test-6-q23",
+              "number": 23,
+              "text": "What is the last suggestion offered by the speaker?",
+              "type": "fill-blank",
+              "correctAnswer": "Try to see things from the other person's perspective."
+            },
+            {
+              "id": "test-6-q24",
+              "number": 24,
+              "text": "What are the advantages for the social science major?",
+              "type": "fill-blank",
+              "correctAnswer": "This high-tech \"Information Age\" demands people who are flexible and who have good communication skills."
+            },
+            {
+              "id": "test-6-q25",
+              "number": 25,
+              "text": "What are social science graduates good at?",
+              "type": "fill-blank",
+              "correctAnswer": "They are ready to change when situations change."
+            },
+            {
+              "id": "test-6-q26",
+              "number": 26,
+              "text": "According to the text, what has made it easy for social science graduates to find jobs?",
+              "type": "fill-blank",
+              "correctAnswer": "Skills in expressing themselves."
+            },
+            {
+              "id": "test-6-q27",
+              "number": 27,
+              "text": "How long will a student spend in attending lectures?",
+              "type": "fill-blank",
+              "correctAnswer": "Four to six hours a week for each class."
+            },
+            {
+              "id": "test-6-q28",
+              "number": 28,
+              "text": "What is important in attending lectures?",
+              "type": "fill-blank",
+              "correctAnswer": "Taking notes."
+            },
+            {
+              "id": "test-6-q29",
+              "number": 29,
+              "text": "What do students do in the discussion section?",
+              "type": "fill-blank",
+              "correctAnswer": "Ask questions about the lectures, the reading, and the homework."
+            },
+            {
+              "id": "test-6-q30",
+              "number": 30,
+              "text": "Who read and write more, students of chemistry or students of literature?",
+              "type": "fill-blank",
+              "correctAnswer": "Students of literature."
+            }
+          ]
+        },
+        {
+          "id": "test-6-use-of-english-a",
+          "title": "Part II Use of English - Section A",
+          "instructions": "Cloze test.",
+          "questions": [
+            {
+              "id": "test-6-q31",
+              "number": 31,
+              "text": "Fill in blank 31",
+              "type": "fill-blank",
+              "correctAnswer": "roads"
+            },
+            {
+              "id": "test-6-q32",
+              "number": 32,
+              "text": "Fill in blank 32",
+              "type": "fill-blank",
+              "correctAnswer": "events"
+            },
+            {
+              "id": "test-6-q33",
+              "number": 33,
+              "text": "Fill in blank 33",
+              "type": "fill-blank",
+              "correctAnswer": "Native"
+            },
+            {
+              "id": "test-6-q34",
+              "number": 34,
+              "text": "Fill in blank 34",
+              "type": "fill-blank",
+              "correctAnswer": "looked for"
+            },
+            {
+              "id": "test-6-q35",
+              "number": 35,
+              "text": "Fill in blank 35",
+              "type": "fill-blank",
+              "correctAnswer": "gold"
+            },
+            {
+              "id": "test-6-q36",
+              "number": 36,
+              "text": "Fill in blank 36",
+              "type": "fill-blank",
+              "correctAnswer": "popular"
+            },
+            {
+              "id": "test-6-q37",
+              "number": 37,
+              "text": "Fill in blank 37",
+              "type": "fill-blank",
+              "correctAnswer": "frightening"
+            },
+            {
+              "id": "test-6-q38",
+              "number": 38,
+              "text": "Fill in blank 38",
+              "type": "fill-blank",
+              "correctAnswer": "changed"
+            },
+            {
+              "id": "test-6-q39",
+              "number": 39,
+              "text": "Fill in blank 39",
+              "type": "fill-blank",
+              "correctAnswer": "adventures"
+            },
+            {
+              "id": "test-6-q40",
+              "number": 40,
+              "text": "Fill in blank 40",
+              "type": "fill-blank",
+              "correctAnswer": "society"
+            },
+            {
+              "id": "test-6-q41",
+              "number": 41,
+              "text": "Fill in blank 41",
+              "type": "fill-blank",
+              "correctAnswer": "escape"
+            },
+            {
+              "id": "test-6-q42",
+              "number": 42,
+              "text": "Fill in blank 42",
+              "type": "fill-blank",
+              "correctAnswer": "disappointed"
+            },
+            {
+              "id": "test-6-q43",
+              "number": 43,
+              "text": "Fill in blank 43",
+              "type": "fill-blank",
+              "correctAnswer": "supported"
+            },
+            {
+              "id": "test-6-q44",
+              "number": 44,
+              "text": "Fill in blank 44",
+              "type": "fill-blank",
+              "correctAnswer": "But"
+            },
+            {
+              "id": "test-6-q45",
+              "number": 45,
+              "text": "Fill in blank 45",
+              "type": "fill-blank",
+              "correctAnswer": "with"
+            }
+          ],
+          "content": "The North American West has meant adventure since the journalist Horace Greeley said his famous words, \"Go West, young man!\" The West means long straight {{31}} or trails, open spaces and amazing views.\n\nThe story of the West is the story of American lives and the important {{32}} in history that changed them. {{33}} Americans who lost their lands in the East went west after the \"white man\" arrived. Cowboys went west for jobs on huge ranches in Texas. African-Americans left their homes in the South and {{34}} new lives in the West after the Civil War.\n\nIn the nineteenth century, people went west for {{35}} work, and good homes for their families. Tourism in the West was not {{36}} in those days. In fact, many people thought the West was ugly and {{37}}. One disgusted visitor from the East saw the Grand Canyon and said, \"It's no place for a gentleman, sir!\"\n\nThese feelings {{38}} completely in the twentieth century. Route 66, the road from Chicago to California, became the trail people followed to new and exciting {{39}} In the 1950s, the West offered an escape for young people who were not satisfied with American {{40}} In 1957, Jack Kerouac wrote On the Road, a book that described this {{41}} for the beat generation of the 1950s. In the 1960s, San Francisco became a center for the hippy generation. Many of these \"flower children\" were {{42}} in the United States government because it {{43}} the Vietnam War.\n\nThese days, many people who go west are buying expensive homes in states like Arizona and Montana. The West which we know today is not very wild anymore. {{44}} it is very beautiful, {{45}} a colorful history that holds magic for many people.",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "exhilarant"
+            },
+            {
+              "label": "B",
+              "text": "changed"
+            },
+            {
+              "label": "C",
+              "text": "looked for"
+            },
+            {
+              "label": "D",
+              "text": "discouraged"
+            },
+            {
+              "label": "E",
+              "text": "coast"
+            },
+            {
+              "label": "F",
+              "text": "but"
+            },
+            {
+              "label": "G",
+              "text": "roads"
+            },
+            {
+              "label": "H",
+              "text": "supported"
+            },
+            {
+              "label": "I",
+              "text": "welfare"
+            },
+            {
+              "label": "J",
+              "text": "occurrences"
+            },
+            {
+              "label": "K",
+              "text": "populous"
+            },
+            {
+              "label": "L",
+              "text": "with"
+            },
+            {
+              "label": "M",
+              "text": "as"
+            },
+            {
+              "label": "N",
+              "text": "escape"
+            },
+            {
+              "label": "O",
+              "text": "history"
+            },
+            {
+              "label": "P",
+              "text": "adventures"
+            },
+            {
+              "label": "Q",
+              "text": "and"
+            },
+            {
+              "label": "R",
+              "text": "disappointed"
+            },
+            {
+              "label": "S",
+              "text": "diamond"
+            },
+            {
+              "label": "T",
+              "text": "turned to"
+            },
+            {
+              "label": "U",
+              "text": "local"
+            },
+            {
+              "label": "V",
+              "text": "frightening"
+            },
+            {
+              "label": "W",
+              "text": "society"
+            },
+            {
+              "label": "X",
+              "text": "curious"
+            },
+            {
+              "label": "Y",
+              "text": "native"
+            },
+            {
+              "label": "Z",
+              "text": "gold"
+            },
+            {
+              "label": "AA",
+              "text": "avenue"
+            },
+            {
+              "label": "BB",
+              "text": "popular"
+            },
+            {
+              "label": "CC",
+              "text": "events"
+            },
+            {
+              "label": "DD",
+              "text": "accidents"
+            }
+          ],
+          "passageAnalysis": "### 1. 文章大意 (Main Idea)\n本文探讨了北美“西部”这一概念的历史演变与文化内涵。文章首先指出西部自19世纪以来就象征着冒险与机遇，并概述了不同群体（如原住民、牛仔、非裔美国人）西迁的历史原因。随后，文章描述了19世纪时人们对西部荒凉景观的负面看法，并重点对比了20世纪后观念的彻底转变——西部成为公路旅行、文化反叛（如“垮掉的一代”和嬉皮士运动）和寻求新生活的目的地。最后，文章指出当代西部虽已不再“狂野”，但其壮丽景色和丰富历史仍对人们具有强大的吸引力。\n\n### 2. 语篇结构 (Structure Analysis)\n*   **第一段：** 引入主题——西部作为“冒险”的象征，并概括其地理与文化意象（道路、空间、景色）。\n*   **第二段：** 阐述19世纪西部故事的核心——它是不同美国人群（原住民、牛仔、非裔美国人）因重大历史事件而迁徙、寻求新生活的舞台。\n*   **第三段：** 描述19世纪人们西迁的具体动机（如淘金），并指出当时旅游业不发达，许多人认为西部丑陋可怕。\n*   **第四段：** 转折点——详细论述20世纪人们对西部看法的彻底改变。以66号公路、文学作品（《在路上》）和社会运动（嬉皮士）为例，说明西部成为追求冒险、逃避社会不满与政治批判的新目的地。\n*   **第五段：** 总结现状——当代西部已成为宜居之地，虽不再狂野，但其自然之美与多彩历史依然充满魅力。\n\n### 3. 核心词汇 (Core Vocabulary)\n1.  **adventure** - 冒险，奇遇\n2.  **trails** - 小径，路线\n3.  **events** - 事件\n4.  **Native Americans** - 美洲原住民\n5.  **ranches** - 大牧场，农场\n6.  **looked for** - 寻找（过去式）\n7.  **gold** - 黄金\n8.  **popular** - 流行的，受欢迎的\n9.  **frightening** - 可怕的，令人恐惧的\n10. **changed** - 改变（过去式）\n11. **adventures** - 冒险（复数）\n12. **society** - 社会\n13. **escape** - 逃离，逃避\n14. **disappointed** - 感到失望的\n15. **supported** - 支持（过去式）"
+        },
+        {
+          "id": "test-6-reading-b-passage-1",
+          "title": "Part II Reading Comprehension - Section B - Passage 1",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-6-q46",
+              "number": 46,
+              "text": "What can be inferred about the modern media of communication?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Radio programs evoke deep thinking in audience."
+                },
+                {
+                  "label": "B",
+                  "text": "Television talk shows expose more serious social problems with deep insight."
+                },
+                {
+                  "label": "C",
+                  "text": "Newspapers tend to be more objective review of problems."
+                },
+                {
+                  "label": "D",
+                  "text": "Audience are more in favor of real competition on the political scene not represented via media."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q47",
+              "number": 47,
+              "text": "Talk shows are mentioned to illustrate that",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "the interviewees can express their own ideas as freely as possible."
+                },
+                {
+                  "label": "B",
+                  "text": "they can provide information and stimulate healthy discussion."
+                },
+                {
+                  "label": "C",
+                  "text": "the interviewer manipulates public idea to a great extent."
+                },
+                {
+                  "label": "D",
+                  "text": "television plays a greater role in promoting knowledge spread."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q48",
+              "number": 48,
+              "text": "How does the new elite influence the elected government?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They stick to an ideal and fight for it."
+                },
+                {
+                  "label": "B",
+                  "text": "They can be constructive to those political officials in their campaigns for election."
+                },
+                {
+                  "label": "C",
+                  "text": "They stealthily modify the constitution."
+                },
+                {
+                  "label": "D",
+                  "text": "They unambiguously provide information without bias."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q49",
+              "number": 49,
+              "text": "The new elite may temper the democracy in a bad way by",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "devoting to a public cause."
+                },
+                {
+                  "label": "B",
+                  "text": "forgetting public interest."
+                },
+                {
+                  "label": "C",
+                  "text": "striving for a public position."
+                },
+                {
+                  "label": "D",
+                  "text": "appealing to a public institution."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q50",
+              "number": 50,
+              "text": "What is the relationship between mediacracy and democracy according to the author?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Mediacracy may displace representative democracy."
+                },
+                {
+                  "label": "B",
+                  "text": "They facilitate each other."
+                },
+                {
+                  "label": "C",
+                  "text": "Representative democracy may be upgraded by mediacracy."
+                },
+                {
+                  "label": "D",
+                  "text": "Mediacracy may be manipulated by representative democracy."
+                }
+              ]
+            }
+          ],
+          "content": "To be sure, the times and the setting differ. While we may still have Cleons and Cleophons vying for power on the political scene, and competing for elected office, there are also other ways through which influence and power can be gained in our age, ways offered by the modern media of communication. These include newspapers, radio, and television. The first have some tradition of a detached analysis and evaluation of political issues, a tradition which is still continued in some publications. The other two, due to their very nature, are more likely to generate intellectual bubbles than serious reflection. This may be particularly true of television. Moreover, the interviewers on these media wield considerable power in setting up the discussion, in selecting the interviewees, in directing the talk with them, and between them and the public. This transpires on the proliferating \"talk-shows,\" which captivate the attention of the American public. According to one report, one half of American adults listen to such talks at least once a week, and some talk-show hosts, like Rush Limbaugh, reach an audience of 20 million people.\n\nAll this involves the political ascendancy of the assorted journalists, television personalities, talk-radio hosts and the like. The gate is open to entertainers, ex-politicians, adventurers, to enter the arena of politics-ostensibly to provide information and to stimulate healthy discussion, but all too often to manipulate and control public opinion. Some of these new elites may be genuinely committed to an ideal, while others are self-seeking individuals trying to gain fame and power for themselves with little concern for the public weal. Moreover, the more popular personalities of the media can be of great help to political officials and candidates, and thus exert an indirect influence on the composition of the elected government.\n\nThus there is a possibility that in American democracy the leadership will at least partly slip into the hands of unelected and technically extra-constitutional individuals, eager for popularity and personal success and oblivious of public responsibility. This opens the door for demagoguery and may undermine the authority and stature of elected officials. Even if it would be an exaggeration to expect that this media elite will replace the official people's representatives, and make the latter completely dependent on the former, the ascendancy of the mediacracy threatens the present institutions and may facilitate the degeneration of representative democracy. We may well follow the pattern of decline of ancient Athens in our own peculiar modern way."
+        },
+        {
+          "id": "test-6-reading-b-passage-2",
+          "title": "Part II Reading Comprehension - Section B - Passage 2",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-6-q51",
+              "number": 51,
+              "text": "Why does the cover story explore Tony Blair's alternative job prospects?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People suspect that he can not serve a third term."
+                },
+                {
+                  "label": "B",
+                  "text": "His grand election victories find him a way into other fields."
+                },
+                {
+                  "label": "C",
+                  "text": "People suspect that he cheated in the former elections."
+                },
+                {
+                  "label": "D",
+                  "text": "He did underhanded things so as not to be worthy of trust."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q52",
+              "number": 52,
+              "text": "According to the author, what did Tony Blair NOT do?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He committed a serious mistake concerning the problem of Iraq."
+                },
+                {
+                  "label": "B",
+                  "text": "He misinterpreted the situation in Iraq."
+                },
+                {
+                  "label": "C",
+                  "text": "He undermined the image of his party."
+                },
+                {
+                  "label": "D",
+                  "text": "He showed sympathy to Saddam Hussein."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q53",
+              "number": 53,
+              "text": "What is Bremer's idea of Blair's claim of “massive evidence of a huge system of clandestine laboratories”?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a new way to reinforce the American security."
+                },
+                {
+                  "label": "B",
+                  "text": "It condemns America to danger."
+                },
+                {
+                  "label": "C",
+                  "text": "It is intended to work against American policy."
+                },
+                {
+                  "label": "D",
+                  "text": "It is indeed invaluable because it is secret."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q54",
+              "number": 54,
+              "text": "What is implied about political claims?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are usually confirmed by solid evidence."
+                },
+                {
+                  "label": "B",
+                  "text": "They are often proved by adequate information."
+                },
+                {
+                  "label": "C",
+                  "text": "Statistics are often made deceptively reasonable."
+                },
+                {
+                  "label": "D",
+                  "text": "Close examination often crystalize the truth."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q55",
+              "number": 55,
+              "text": "What can be inferred about Tony Blair in the last paragraph?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He lost trust from the public."
+                },
+                {
+                  "label": "B",
+                  "text": "He is trying to compensate in other fields."
+                },
+                {
+                  "label": "C",
+                  "text": "He is preoccupied with election campaigns."
+                },
+                {
+                  "label": "D",
+                  "text": "He merits being listened to."
+                }
+              ]
+            }
+          ],
+          "content": "It may seem extraordinary that, with two spectacular election victories under his belt and a third likely, there should be so much speculation about whether Tony Blair can survive 2004 to the extent that our cover story this week explores his alternative job prospects. Yet every day, it becomes clearer that the Prime Minister's error over Iraq was so catastrophic, so patent an example of bad judgement, so contrary to the spirit of his party as to pollute the entire new Labour project. Nobody should shed tears for Saddam Hussein or doubt that most Iraqis rejoice at his downfall and subsequent capture. But what supposedly made Saddam different from dozens of other brutal dictators around the world (of whom some are treated as friends of the west) was the threat he posed to British and American security. Not a scrap of support for the existence of such a threat has been found. If, as Mr. Blair says, there is now \"massive evidence of a huge system of clandestine laboratories\", why can the laboratories themselves not be found? The claim seemed so absurd to Paul Bremer, America's equivalent of a colonial governor in Iraq, that until told that it had been made by the PM, he suggested it was part of some devious attempt to undermine US and British policy.\n\nMost political claims can be justified one way or another with sufficient massage of facts and figures; alternatively, it can be denied the claims were ever made in the form that people thought they were made. But Mr. Blair was unequivocal. Saddam had weapons of mass destruction; no ifs and buts; the PM knew more than he could tell us. Now the news from Iraq is just as unequivocal. Nobody is bothering to look for WMDs any more. Mr. Blair's insistence that he really meant “programmes\" or just \"intentions to acquire\" makes him look both comic and pathetic.\n\nThe result is that everything else his government says and does becomes suspect. Are the figures that show progress towards eradicating child poverty also sexed up? Can we believe anything we are told about improvements in health or education? Are the imminent terrorist attacks of which ministers warn as illusory as Saddam's WMDs? Mr Blair's authority is now so eroded that he does not get a hearing even when he deserves it. For top-up university fees, for example, there is a strong social democratic case to be made. But nobody would listen to Mr. Blair making it, even if he were capable of doing so. The whole issue has become so bound up with the political fallout from Iraq that there is almost no chance of a serious public debate."
+        },
+        {
+          "id": "test-6-reading-b-passage-3",
+          "title": "Part II Reading Comprehension - Section B - Passage 3",
+          "instructions": "Read the following passages carefully and then select the best answer.",
+          "questions": [
+            {
+              "id": "test-6-q56",
+              "number": 56,
+              "text": "It can be inferred from the first paragraph that",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "strict laws are brought into effect concerning treatment of the elderly."
+                },
+                {
+                  "label": "B",
+                  "text": "mistreatment of the elderly is dealt with effectively in the States."
+                },
+                {
+                  "label": "C",
+                  "text": "substantial abuses of the elderly are detected all over the country."
+                },
+                {
+                  "label": "D",
+                  "text": "maltreatment of the elderly is not complained about as it should be."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q57",
+              "number": 57,
+              "text": "What is one of the findings of the cited study?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Senior people are more vulnerable to mistreatment if they have many requirements."
+                },
+                {
+                  "label": "B",
+                  "text": "It is difficult to keep better records of domestic abuse."
+                },
+                {
+                  "label": "C",
+                  "text": "Compulsory reporting contributes to higher incidence of investigation."
+                },
+                {
+                  "label": "D",
+                  "text": "Abuse of adults over 60 is reported more than that of those under 55."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q58",
+              "number": 58,
+              "text": "What can be said about domestic eider abuse?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People are often abused because of bad mental condition."
+                },
+                {
+                  "label": "B",
+                  "text": "Adults are better treated at home than at care facilities."
+                },
+                {
+                  "label": "C",
+                  "text": "Those senior people who are weak physically or mentally sometimes become a victim to family abuse."
+                },
+                {
+                  "label": "D",
+                  "text": "It renders old people more dependent on others for their daily living."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q59",
+              "number": 59,
+              "text": "What is the drawback of the elder abuse reporting system?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The information collecting and laws concerning elder abuse are not consistent."
+                },
+                {
+                  "label": "B",
+                  "text": "Reports of elder abuse received by the states are often alleged to be true."
+                },
+                {
+                  "label": "C",
+                  "text": "The investigation and substantiation tend to be time-consuming."
+                },
+                {
+                  "label": "D",
+                  "text": "It only aims to deal with some mistreatment of the elder that takes place at home."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q60",
+              "number": 60,
+              "text": "It can be inferred from the last two paragraphs that the model elder abuse reporting system",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "is not shared by both adults and children."
+                },
+                {
+                  "label": "B",
+                  "text": "does not apply effectively everywhere."
+                },
+                {
+                  "label": "C",
+                  "text": "deals with children abuse more accurately."
+                },
+                {
+                  "label": "D",
+                  "text": "works better with elder abuse."
+                }
+              ]
+            }
+          ],
+          "content": "Although all states have laws and services in place to detect domestic elder abuse, only about one in five actual cases is reported and substantiated. How cases are detected and dispatched differs significantly across the nation because laws and regulations vary greatly.\n\nIn particular, a University of Iowa, Ames, study found that states that demand mandatory reporting and tracking of domestic elder abuse have much higher investigation rates than those without these requirements.\n\nDomestic elder abuse is the victimization of adults or dependent/ vulnerable adults age 60 and older — age 65 and older in California, Maryland, and Nebraska; age 55 and older in Alabama — who live in private residences, not care facilities. Dependent adults are unable to care for themselves as a result of a physical or mental condition and depend on others to help them with tasks of daily living.\n\n\"Our findings suggest that improvements and standardization are needed nationwide in how information on elder abuse is collected and how state laws are created,\" says Gerald Jogerst, associate professor and interim head of family medicine in the Roy J. and Lucille A. Carver College of Medicine and lead investigator in the study.\n\nA \"report\" is an allegation or suspicion of maltreatment received by a state's adult protective service; an \"investigation\" involves actually going to a potential victim's home to see whether abuse is taking place; and \"substantiation\" is the finding of offenses as defined by that state's law.\n\nThe researchers found that domestic elder abuse reports varied from 4.5 per 1,000 elders in New Hampshire to 14.6 in California. \"The range of reporting rates is very high, and is one of the indicators that there is high variability in how states document elder abuse.\" Investigation rates ranged from 0.5 per 1,000 in Wyoming to 12.1 in Texas. Substantiations ranged from 0.1 per 1,000 in Wyoming to 8.6 in Minnesota. Forty-five percent of cases investigated were classified as actual abuse according to state laws.\n\n\"The National Association of Adult Protective Services has a model reporting system for states to mimic. However, some states are hindered in implementing the model because their adult and child protection services share a computerized system,\" points out Jeanette Daly, geriatric nurse researcher in family medicine and the study's co-principal investigator.\n\nThe researchers also found that states where investigators handle only elder abuse cases had a nearly 50% substantiation ratio compared to 34% where investigators handle both child and elder abuse cases. \"This substantiation difference may exist because investigators devoted to one type of abuse probably acquire more expertise by doing more elder abuse investigations,\" Jogerst concludes."
+        },
+        {
+          "id": "test-6-reading-c",
+          "title": "Part II Reading Comprehension - Section C",
+          "instructions": "In the following passage, five sentences have been removed from the original text.",
+          "questions": [
+            {
+              "id": "test-6-q61",
+              "number": 61,
+              "text": "Choose the best sentence for blank 61",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Greater equality in the performance..."
+                },
+                {
+                  "label": "B",
+                  "text": "Family therapists..."
+                },
+                {
+                  "label": "C",
+                  "text": "The challenge now is..."
+                },
+                {
+                  "label": "D",
+                  "text": "In terms of time..."
+                },
+                {
+                  "label": "E",
+                  "text": "Edgar and Glazer found..."
+                },
+                {
+                  "label": "F",
+                  "text": "Mothers are less likely..."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q62",
+              "number": 62,
+              "text": "Choose the best sentence for blank 62",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Greater equality in the performance..."
+                },
+                {
+                  "label": "B",
+                  "text": "Family therapists..."
+                },
+                {
+                  "label": "C",
+                  "text": "The challenge now is..."
+                },
+                {
+                  "label": "D",
+                  "text": "In terms of time..."
+                },
+                {
+                  "label": "E",
+                  "text": "Edgar and Glazer found..."
+                },
+                {
+                  "label": "F",
+                  "text": "Mothers are less likely..."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q63",
+              "number": 63,
+              "text": "Choose the best sentence for blank 63",
+              "type": "multiple-choice",
+              "correctAnswer": "F",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Greater equality in the performance..."
+                },
+                {
+                  "label": "B",
+                  "text": "Family therapists..."
+                },
+                {
+                  "label": "C",
+                  "text": "The challenge now is..."
+                },
+                {
+                  "label": "D",
+                  "text": "In terms of time..."
+                },
+                {
+                  "label": "E",
+                  "text": "Edgar and Glazer found..."
+                },
+                {
+                  "label": "F",
+                  "text": "Mothers are less likely..."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q64",
+              "number": 64,
+              "text": "Choose the best sentence for blank 64",
+              "type": "multiple-choice",
+              "correctAnswer": "E",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Greater equality in the performance..."
+                },
+                {
+                  "label": "B",
+                  "text": "Family therapists..."
+                },
+                {
+                  "label": "C",
+                  "text": "The challenge now is..."
+                },
+                {
+                  "label": "D",
+                  "text": "In terms of time..."
+                },
+                {
+                  "label": "E",
+                  "text": "Edgar and Glazer found..."
+                },
+                {
+                  "label": "F",
+                  "text": "Mothers are less likely..."
+                }
+              ]
+            },
+            {
+              "id": "test-6-q65",
+              "number": 65,
+              "text": "Choose the best sentence for blank 65",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Greater equality in the performance..."
+                },
+                {
+                  "label": "B",
+                  "text": "Family therapists..."
+                },
+                {
+                  "label": "C",
+                  "text": "The challenge now is..."
+                },
+                {
+                  "label": "D",
+                  "text": "In terms of time..."
+                },
+                {
+                  "label": "E",
+                  "text": "Edgar and Glazer found..."
+                },
+                {
+                  "label": "F",
+                  "text": "Mothers are less likely..."
+                }
+              ]
+            }
+          ],
+          "content": "There are still significant gaps between women and men in terms of their involvement in family life, the tasks they perform and the responsibilities they take. Yet, at least in developed Western countries, both women and men express a desire for greater equality in family life. It is evident that in terms of attitudes and beliefs, the problem cannot simply be thought of in terms of women wanting men to share more equally and men being reluctant to do so. {{61}} These are becoming key concerns of researchers, policy makers, community workers and, more importantly, family members themselves.\n\nDespite the significant increase in the number of women with dependent children who are in the paid workforce, Australian research studies over the last 15 years are consistent in showing that divisions of labor for family work are very rigid indeed. {{62}}\n\nDivisions of labor for family work are particularly problematic in families in which both parents are employed outside the home. Employed mothers adjust their jobs and personal lives to accommodate family commitments more than employed fathers do. {{63}} Mothers spend less time on personal leisure activities than their partners, a factor that often leads to resentment.\n\nThe parental role is central to the stress-related anxiety reported by employed mothers, and a major contributor to such stress is their taking a greater role in child care. {{64}} A mother's wanting her partner to do more housework and child care is a better predictor of poor family adjustment than is actual time spent by fathers in these tasks. It is this desire, together with its lack of fulfillment in most families, which bring about stress in the female parent.\n\n{{65}} Yet, a father accepting responsibility for behavior problems is linked with positive outcomes.",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "Greater equality in the performance of family work is associated with lower levels of family stress and higher self-esteem."
+            },
+            {
+              "label": "B",
+              "text": "Family therapists and social work researchers are increasingly defining family problems in terms of a lack of involvement and support from fathers and are concerned with difficulties involved in having fathers take responsibility for the solution of family and child behavior problems."
+            },
+            {
+              "label": "C",
+              "text": "The challenge now is to develop policies and practices based on a presumption of shared responsibility between men and women."
+            },
+            {
+              "label": "D",
+              "text": "In terms of time, women perform approximately 90 per cent of child care tasks and 70 per cent of all family work, and only 14 per cent of fathers are highly participant in terms of time spent on family work."
+            },
+            {
+              "label": "E",
+              "text": "Edgar and Glazer found that close to 90 per cent of both husbands and wives agreed that the man should share equally in child care, yet 55 per cent of husbands and wives claimed that the men actually did this."
+            },
+            {
+              "label": "F",
+              "text": "Mothers are less likely to work overtime and are more likely to take time off work to attend to children's needs."
+            }
+          ]
+        },
+        {
+          "id": "test-6-writing-a",
+          "title": "Part III Writing - Section A",
+          "instructions": "Summarize the article in no more than 150 words.",
+          "questions": [
+            {
+              "id": "test-6-q66",
+              "number": 66,
+              "text": "Summarize the article in no more than 150 words.",
+              "type": "writing",
+              "correctAnswer": "Living away from your country can be a really interesting and unforgettable experience, but at the same time it has very important effects on one's life. Here are three of them. The major effect, and also a very common one, is that once you start a regular life away from home, you miss everything. This fact doesn't mean that you are unhappy but that you are aware of being on your own. Little details like sitting on a Sunday morning watching TV alone instead of helping your dad organize his things or having a nice chat with your mom makes you realize how valuable your family really is. Living alone makes you homesick. The second main effect would be learning how to accept another type of society and culture into your daily life. Since you are living in a place with different customs and traditions, you have to be able to develop yourself in unknown conditions. This means making new friends, learning other points of view, accepting different opinions and values. Nevertheless, the best thing to do would be to stick to your most important values and, according to them. change those that you believe could be improved. The most significant effect of living away from home is the independent behavior that grows inside of you. Living independently gives you a lot of experiences toward organizing your life. Since it is up to you and no one else to clean your room, wash your clothes, and organize your expenses, it is predictable that you will have a good and strong sense of responsibility. Living far frorn home, even for a short period of time, can be really hard at the beginning. Yet it helps us appreciate everything we have. Not realizing how lucky we are can be a really bad mistake because things don't last forever and we have to make the best out of them.",
+              "explanation": "### 1. 参考范文 (Model Summary)\nGlobally, more boys are born than girls, an evolutionary adaptation to higher male mortality which balances the sex ratio at reproductive age. However, a recent, unexplained decline in the proportion of male births in several Western nations has been controversially linked to chemical pollutants. Concurrently, the rise in single motherhood presents another potential factor. Research on nearly 60,000 American families demonstrates that cohabiting parents before conception have a statistically higher chance of having a boy (51.5%) compared to non-cohabiting parents (49.9%). This suggests an evolutionary link, where parental living arrangements may influence offspring sex. The mechanism is unclear but may involve hormonal changes related to cohabitation and copulation frequency. From an evolutionary perspective, it may be advantageous to have sons when two parents are present to raise stronger, more successful offspring, while daughters might be favored in less optimal conditions to ensure reproductive success. Nonetheless, this biological pattern, established long ago, may not apply to modern, industrialized societies.\n\n### 2. 摘要逻辑 (Summary Logic)\n摘要首先陈述了全球出生性别比的基本事实及其进化论解释，作为背景。然后，它引入了文章探讨的两个核心趋势：男性出生率下降和单亲母亲比例上升。研究数据（诺伯格博士的发现）被选为核心证据，直接证明了同居状态与生男孩概率之间的统计关联。随后，摘要简要提及了可能的激素机制和进化论解释（在有利条件下生儿子，在不利条件下生女儿），这是理解研究发现意义的关键。最后，它指出了这一古老生物模式在现代社会的有限适用性，这是原文的重要限定。逻辑上遵循了“现象 -> 关联研究 -> 可能解释 -> 现代意义”的脉络，直接浓缩了文章的事实性内容和核心论证。\n\n### 3. 重点表达 (Key Expressions)\n1.  **However, ...** - 然而，... (用于引出对比或转折信息)\n2.  **Concurrently, ...** - 同时，... (用于引入同时发生的相关趋势)\n3.  **Research demonstrates that ...** - 研究表明... (用于客观引述研究发现)\n4.  **This suggests ...** - 这表明... (用于引出研究发现可能隐含的意义)\n5.  **From an evolutionary perspective, ...** - 从进化论的角度来看，... (用于引入特定的理论框架进行解释)"
+            }
+          ],
+          "content": "ALL over the world, more boys are born than girls. Evolutionary biologists believe that this is because boys (and, indeed, males in general) are more likely to die at a given age than are their female contemporaries. The imbalance at birth thus means that the sex ratio balances at the age when people are reproducing. But for decades there has been a puzzling trend in the boy/girl ratio. In Britain, as well as in the United States and Canada, the proportion of boys being born is dropping. No one knows why, although it has been suggested, somewhat controversially, that the trend is due to chemical pollutants that are mimicking the effects of sex hormones.\n\nAnd yet there is another recent trend that may have something to do with it. During the same period. the proportion of single mothers has been increasing. The reasons for this are less puzzling, but as the Italian nominee to the European commission, Rocco Buttiglione, found out this week when he apparently suggested that single mothers were not very good as parents, it is no less controversial. The question is, could the two trends be linked? Can household arrangements affect the human sex ratio?\n\nAccording to Karen Norberg, of the National Bureau of Economic Research in Cambridge, Massachusetts, they can. In a review of data from almost 60,000 American families, Dr. Norberg found that the chance of a woman giving birth to a boy rather than a girl is higher if she has been living with a man before the child was conceived. To be specific, for parents who were living together, boys were born 51.5% of the time, while when the parents were not cohabiting only 49.9% of births were male. This difference may seem small, but statistically it is highly significant, which suggests it is the result of evolution. Dr. Norberg's paper was published this week in the Proceedings of the Royal Society.\n\nActually, as with so much else in biology, Charles Darwin got there first. In \"The Descent of Man\", he referred to studies showing that among children born out of wedlock there were more girls than boys. Dr. Norberg's work reinforces the point, and also shows that it is not formal marriage, but actual cohabitation, that is the decisive factor. What neither Darwin's nor Dr. Norberg's work shows, though, is why.\n\nThere are some clues. In work on other mammals, researchers have found an association between hormones, the frequency of copulation, and the sex of the offspring. In other words, there is a way the body might \"know\" if it is cohabiting with someone by the amount of sex it is getting, since copulation changes the levels of various hormones.\n\nIt is easy to speculate. Perhaps same-sex children are easier for a lone parent to rear. Perhaps parents pass on different kinds of benefits to same-sex offspring and opposite-sex offspring. Perhaps a father helps his son to learn sex-specific skills, as in bird songs. Perhaps boys are simply more costly to raise than girls, and would thus overtax the resources of a lone parent. However, a more controversial possibility is that — in a Darwinian sense only — Mr Buttiglione is right that two parents are sometimes better than one.\n\nIt is well established, in both humans and other species, that successful males have lots of offspring, while unsuccessful ones have few or none. Females, by contrast, show a smaller range of reproductive output, with most having some offspring, but none having as many as the most successful males. The upshot is that it makes evolutionary sense to have sons when circumstances favor them becoming big, strong, clever and handsome (and therefore attractive to women), but when they do not, it is better for a woman to have daughters, most of whom will find a mate even in tough times. That way, a woman will maximize the number of grandchildren she has. In the case of humans, circumstances favoring the raising of strong, healthy children could include having two parents around, since humans are unusual among mammals in that fathers are often involved in parental care.\n\nOf course, even if this evolutionary explanation of Dr. Norberg's result does turn out to be correct, it probably does not carry any lessons for the modern world. Such biological patterns would have been established hundreds of thousands — or possibly millions — of years ago. Bringing up children alone in a rich, industrialized society is a rather different proposition from bringing them up in a hunter-gatherer band, and there is no reason to suppose they would be at a disadvantage now. Except, perhaps, that with a surplus of women around, it will be even harder than it is today for a girl to find a suitable husband when she grows up."
+        },
+        {
+          "id": "test-6-writing-b",
+          "title": "Part III Writing - Section B",
+          "instructions": "Write an essay.",
+          "questions": [
+            {
+              "id": "test-6-q67",
+              "number": 67,
+              "text": "Topic: Effects of Living in a Foreign Country",
+              "type": "writing",
+              "correctAnswer": "Living away from your country can be a really interesting and unforgettable experience, but at the same time it has very important effects on one's life. Here are three of them. The major effect, and also a very common one, is that once you start a regular life away from home, you miss everything. This fact doesn't mean that you are unhappy but that you are aware of being on your own. Little details like sitting on a Sunday morning watching TV alone instead of helping your dad organize his things or having a nice chat with your mom makes you realize how valuable your family really is. Living alone makes you homesick. The second main effect would be learning how to accept another type of society and culture into your daily life. Since you are living in a place with different customs and traditions, you have to be able to develop yourself in unknown conditions. This means making new friends, learning other points of view, accepting different opinions and values. Nevertheless, the best thing to do would be to stick to your most important values and, according to them. change those that you believe could be improved. The most significant effect of living away from home is the independent behavior that grows inside of you. Living independently gives you a lot of experiences toward organizing your life. Since it is up to you and no one else to clean your room, wash your clothes, and organize your expenses, it is predictable that you will have a good and strong sense of responsibility. Living far frorn home, even for a short period of time, can be really hard at the beginning. Yet it helps us appreciate everything we have. Not realizing how lucky we are can be a really bad mistake because things don't last forever and we have to make the best out of them.",
+              "explanation": "### 1. 参考范文 (Model Essay)\n\nLiving in a foreign country is a transformative experience that profoundly impacts individuals on multiple levels. While it presents undeniable challenges, the personal and professional benefits it confers are substantial and often life-altering.\n\nThe most immediate and significant effect is cultural and personal growth. Immersion in a new society compels individuals to step outside their comfort zones, challenging preconceived notions and fostering a more nuanced, global perspective. Daily interactions, from navigating public transport to understanding local customs, cultivate adaptability, resilience, and empathy. For instance, someone who has learned to communicate across a language barrier often develops greater patience and improved problem-solving skills. This process of acculturation, while sometimes stressful, ultimately leads to a more well-rounded and self-aware individual.\n\nFrom a professional and academic standpoint, the advantages are equally compelling. Exposure to different work ethics, business practices, and educational systems can enhance one's skill set and marketability. An engineer working abroad might learn innovative project management techniques, while a student might benefit from a unique pedagogical approach. Furthermore, building an international network of contacts is an invaluable asset in our globalised economy. The experience signals to employers traits like independence, cross-cultural competence, and initiative.\n\nHowever, it is crucial to acknowledge the potential difficulties. Initial phases are often marked by culture shock, homesickness, and linguistic hurdles, which can lead to feelings of isolation. Navigating bureaucratic systems or differing social norms can be frustrating. Yet, these very challenges are integral to the growth process. Overcoming them builds character and often leads to a deeper appreciation for both the host culture and one's own heritage.\n\nIn conclusion, residing in a foreign nation is a complex journey with dual effects. The initial obstacles of adaptation are real, but they are far outweighed by the long-term gains in personal development, professional capability, and worldview. It is an unparalleled education that shapes individuals into more capable, understanding, and globally-minded citizens.\n\n### 2. 写作思路 (Writing Strategy)\n\n*   **文章结构 (Essay Structure):** 采用经典的“双边讨论”结构。\n    *   **引言段:** 直接切入主题，提出核心论点：旅居国外虽有挑战，但带来的变革性益处更大。\n    *   **主体段 1:** 论述首要的积极影响——个人与文化层面的成长（适应力、全球视野、同理心）。\n    *   **主体段 2:** 论述第二方面的积极影响——职业与学术上的优势（技能提升、国际人脉、竞争力）。\n    *   **主体段 3:** 承认并讨论存在的挑战（文化冲击、思乡、语言障碍），但将其定位为成长过程的一部分。\n    *   **结论段:** 总结全文，重申利弊并存但利大于弊的观点，并提升到塑造全球公民的高度。\n*   **论证方法 (Arguments):**\n    *   使用具体例子（如工程师、学生）使论证更扎实。\n    *   将挑战（如文化冲击）与个人成长（如韧性）直接联系起来，形成有力的逻辑链条。\n    *   通过对比“短期困难”与“长期收益”来强化核心论点。\n*   **语气与用词 (Tone & Diction):**\n    *   语气客观、辩证、积极，符合学术写作规范。\n    *   使用大量体现因果、转折关系的连接词，使行文流畅、逻辑严密。\n    *   词汇选择上偏向正式、准确，使用如“transformative”, “acculturation”, “globalised”等学术词汇。\n\n### 3. 亮点词汇与句型 (Key Vocabulary & Expressions)\n\n1.  **Transformative (adj.) / 变革性的:** Having a profound and lasting positive effect on someone or something.\n2.  **Immersion (n.) / 沉浸:** Deep involvement in a particular environment or culture.\n3.  **Acculturation (n.) / 文化适应:** The process of adapting to and adopting aspects of a new culture.\n4.  **Foster (v.) / 培养，促进:** To encourage the development or growth of something.\n5.  **Cross-cultural competence (n. phrase) / 跨文化能力:** The ability to understand, communicate with, and effectively interact with people across cultures.\n6.  **Nuanced (adj.) / 细致入微的:** Characterized by subtle and sophisticated differences in meaning or understanding.\n7.  **Globalised economy (n. phrase) / 全球化经济:** An international economic system where goods, services, and capital flow freely across borders.\n8.  **Unparalleled (adj.) / 无比的，无双的:** Having no equal; exceptional."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

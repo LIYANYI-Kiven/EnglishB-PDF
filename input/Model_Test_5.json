@@ -1,0 +1,1143 @@
+{
+  "exams": [
+    {
+      "id": "test-5",
+      "title": "Model Test 5",
+      "sections": [
+        {
+          "id": "test-5-sec-listening",
+          "title": "Part I Listening Comprehension",
+          "audioSrc": "https://image.logicmoriaty.top/UCASListening/Listen/Model%20Test%205.mp3",
+          "instructions": "Section A, B, and C.",
+          "questions": [
+            {
+              "id": "test-5-q1",
+              "number": 1,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A business talk."
+                },
+                {
+                  "label": "B",
+                  "text": "A family talk."
+                },
+                {
+                  "label": "C",
+                  "text": "A private talk."
+                },
+                {
+                  "label": "D",
+                  "text": "A formal talk."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q2",
+              "number": 2,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The man wants some suggestions."
+                },
+                {
+                  "label": "B",
+                  "text": "The man is the boss."
+                },
+                {
+                  "label": "C",
+                  "text": "The man must have offered some valuable suggestions."
+                },
+                {
+                  "label": "D",
+                  "text": "The man must be very jealous now."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q3",
+              "number": 3,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The man is very grateful for the woman's help."
+                },
+                {
+                  "label": "B",
+                  "text": "The man is ready to face any problem."
+                },
+                {
+                  "label": "C",
+                  "text": "The woman does not want to help at all."
+                },
+                {
+                  "label": "D",
+                  "text": "The man is not satisfied with the woman's advice."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q4",
+              "number": 4,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "$3."
+                },
+                {
+                  "label": "B",
+                  "text": "$4."
+                },
+                {
+                  "label": "C",
+                  "text": "$6."
+                },
+                {
+                  "label": "D",
+                  "text": "$12."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q5",
+              "number": 5,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The man really wants to settle down."
+                },
+                {
+                  "label": "B",
+                  "text": "The man wants to have a quiet life."
+                },
+                {
+                  "label": "C",
+                  "text": "The man thinks there is always a better place."
+                },
+                {
+                  "label": "D",
+                  "text": "The man really loves a place with green grass."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q6",
+              "number": 6,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He liked the dinner last night."
+                },
+                {
+                  "label": "B",
+                  "text": "He had dinner with his girlfriend at a restaurant last night."
+                },
+                {
+                  "label": "C",
+                  "text": "He was happy because his girlfriend's parents liked him."
+                },
+                {
+                  "label": "D",
+                  "text": "His girlfriend's parents were too kind to him."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q7",
+              "number": 7,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "In a hotel."
+                },
+                {
+                  "label": "B",
+                  "text": "In a supermarket."
+                },
+                {
+                  "label": "C",
+                  "text": "In a restaurant."
+                },
+                {
+                  "label": "D",
+                  "text": "In a self-service shop."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q8",
+              "number": 8,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "One of the man's old friends is very rich now."
+                },
+                {
+                  "label": "B",
+                  "text": "The woman does not know who the man is talking about."
+                },
+                {
+                  "label": "C",
+                  "text": "The man enjoys his life now and does not want to be rich at all."
+                },
+                {
+                  "label": "D",
+                  "text": "The man used to be very rich, but now he is poor."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q9",
+              "number": 9,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The women must be Doctor Croat's wife."
+                },
+                {
+                  "label": "B",
+                  "text": "The man can see the doctor tomorrow."
+                },
+                {
+                  "label": "C",
+                  "text": "There is something wrong with the man's teeth."
+                },
+                {
+                  "label": "D",
+                  "text": "The doctor is out for a vacation."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q10",
+              "number": 10,
+              "text": "Listen to the conversation",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Father and daughter."
+                },
+                {
+                  "label": "B",
+                  "text": "Teacher and student."
+                },
+                {
+                  "label": "C",
+                  "text": "Boss and secretary."
+                },
+                {
+                  "label": "D",
+                  "text": "Husband and wife."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q11",
+              "number": 11,
+              "text": "Rabies is _______ because the death rate is 100%.",
+              "type": "fill-blank",
+              "correctAnswer": "destructive"
+            },
+            {
+              "id": "test-5-q12",
+              "number": 12,
+              "text": "Other than dogs, _______ are the chief sources of rabies.",
+              "type": "fill-blank",
+              "correctAnswer": "domestic animals"
+            },
+            {
+              "id": "test-5-q13",
+              "number": 13,
+              "text": "Even if the dogs look healthy, we should not _______.",
+              "type": "fill-blank",
+              "correctAnswer": "neglect their bites"
+            },
+            {
+              "id": "test-5-q14",
+              "number": 14,
+              "text": "Slaughtering and eating animals carrying the virus may also _______.",
+              "type": "fill-blank",
+              "correctAnswer": "cause infection"
+            },
+            {
+              "id": "test-5-q15",
+              "number": 15,
+              "text": "_______ for humans include the fear of light and water, especially water.",
+              "type": "fill-blank",
+              "correctAnswer": "Symptoms of infection"
+            },
+            {
+              "id": "test-5-q16",
+              "number": 16,
+              "text": "The Arabian camel's height is about _______.",
+              "type": "fill-blank",
+              "correctAnswer": "2 metres"
+            },
+            {
+              "id": "test-5-q17",
+              "number": 17,
+              "text": "The camel's hump consists of _______ and can carry a food reserve in it.",
+              "type": "fill-blank",
+              "correctAnswer": "fatty tissue"
+            },
+            {
+              "id": "test-5-q18",
+              "number": 18,
+              "text": "The camel is able to survive on _______ like thorny plants in the desert for long periods.",
+              "type": "fill-blank",
+              "correctAnswer": "salty vegetation"
+            },
+            {
+              "id": "test-5-q19",
+              "number": 19,
+              "text": "The camel can consume _______ when coming across water.",
+              "type": "fill-blank",
+              "correctAnswer": "enormous quantities"
+            },
+            {
+              "id": "test-5-q20",
+              "number": 20,
+              "text": "In pre-modern tirnes, the camel's manure was used for _______ after being dried.",
+              "type": "fill-blank",
+              "correctAnswer": "fuel"
+            },
+            {
+              "id": "test-5-q21",
+              "number": 21,
+              "text": "What was the reality for the speaker's grandparents when they were eighty years old?",
+              "type": "fill-blank",
+              "correctAnswer": "They were no longer able to care for themselves."
+            },
+            {
+              "id": "test-5-q22",
+              "number": 22,
+              "text": "What does “golden years” mean to some old Americans?",
+              "type": "fill-blank",
+              "correctAnswer": "The decline of health and the loss of identity and self-worth."
+            },
+            {
+              "id": "test-5-q23",
+              "number": 23,
+              "text": "What's the speaker's focus on the issue of aging population?",
+              "type": "fill-blank",
+              "correctAnswer": "To understand what it means to be a part of the aging population and find meaning roles the elderly can and should play in our societies."
+            },
+            {
+              "id": "test-5-q24",
+              "number": 24,
+              "text": "What does it mean by \"the principle of reciprocity\"?",
+              "type": "fill-blank",
+              "correctAnswer": "If I do something for you, you should do something for me."
+            },
+            {
+              "id": "test-5-q25",
+              "number": 25,
+              "text": "How did other monkeys react when one monkey could trade rocks for grapes?",
+              "type": "fill-blank",
+              "correctAnswer": "They threw away their cucumbers and rocks and refused to make any more trades."
+            },
+            {
+              "id": "test-5-q26",
+              "number": 26,
+              "text": "What will primates do if the food they get by cooperation cannot be distributed fairly?",
+              "type": "fill-blank",
+              "correctAnswer": "They may lose interest in working together."
+            },
+            {
+              "id": "test-5-q27",
+              "number": 27,
+              "text": "Why is critical thinking important to us?",
+              "type": "fill-blank",
+              "correctAnswer": "If we do not think critically, we might be controlled by other people's ideas."
+            },
+            {
+              "id": "test-5-q28",
+              "number": 28,
+              "text": "What will you tend to do if you are a critical thinker?",
+              "type": "fill-blank",
+              "correctAnswer": "You will think deeply about different ideas."
+            },
+            {
+              "id": "test-5-q29",
+              "number": 29,
+              "text": "What is considered to be a measure of intelligence for some people nowadays?",
+              "type": "fill-blank",
+              "correctAnswer": "Speed."
+            },
+            {
+              "id": "test-5-q30",
+              "number": 30,
+              "text": "Why did Albert Einstein try to put Hoffman at ease?",
+              "type": "fill-blank",
+              "correctAnswer": "Because Hoffman was too nervous at the time."
+            }
+          ]
+        },
+        {
+          "id": "test-5-use-of-english-a",
+          "title": "Part II Use of English - Section A",
+          "instructions": "Cloze test.",
+          "questions": [
+            {
+              "id": "test-5-q31",
+              "number": 31,
+              "text": "{{31}}",
+              "type": "fill-blank",
+              "correctAnswer": "devastated"
+            },
+            {
+              "id": "test-5-q32",
+              "number": 32,
+              "text": "{{32}}",
+              "type": "fill-blank",
+              "correctAnswer": "expectations"
+            },
+            {
+              "id": "test-5-q33",
+              "number": 33,
+              "text": "{{33}}",
+              "type": "fill-blank",
+              "correctAnswer": "called for"
+            },
+            {
+              "id": "test-5-q34",
+              "number": 34,
+              "text": "{{34}}",
+              "type": "fill-blank",
+              "correctAnswer": "distinction"
+            },
+            {
+              "id": "test-5-q35",
+              "number": 35,
+              "text": "{{35}}",
+              "type": "fill-blank",
+              "correctAnswer": "aggravating"
+            },
+            {
+              "id": "test-5-q36",
+              "number": 36,
+              "text": "{{36}}",
+              "type": "fill-blank",
+              "correctAnswer": "thus"
+            },
+            {
+              "id": "test-5-q37",
+              "number": 37,
+              "text": "{{37}}",
+              "type": "fill-blank",
+              "correctAnswer": "virtually"
+            },
+            {
+              "id": "test-5-q38",
+              "number": 38,
+              "text": "{{38}}",
+              "type": "fill-blank",
+              "correctAnswer": "opportunities"
+            },
+            {
+              "id": "test-5-q39",
+              "number": 39,
+              "text": "{{39}}",
+              "type": "fill-blank",
+              "correctAnswer": "Along with"
+            },
+            {
+              "id": "test-5-q40",
+              "number": 40,
+              "text": "{{40}}",
+              "type": "fill-blank",
+              "correctAnswer": "focus"
+            },
+            {
+              "id": "test-5-q41",
+              "number": 41,
+              "text": "{{41}}",
+              "type": "fill-blank",
+              "correctAnswer": "convicted"
+            },
+            {
+              "id": "test-5-q42",
+              "number": 42,
+              "text": "{{42}}",
+              "type": "fill-blank",
+              "correctAnswer": "bias"
+            },
+            {
+              "id": "test-5-q43",
+              "number": 43,
+              "text": "{{43}}",
+              "type": "fill-blank",
+              "correctAnswer": "prosecution"
+            },
+            {
+              "id": "test-5-q44",
+              "number": 44,
+              "text": "{{44}}",
+              "type": "fill-blank",
+              "correctAnswer": "but"
+            },
+            {
+              "id": "test-5-q45",
+              "number": 45,
+              "text": "{{45}}",
+              "type": "fill-blank",
+              "correctAnswer": "sensationalized"
+            }
+          ],
+          "content": "World War II marked another sharp reversal in the course of Chicano history, renewing hope where the Depression had brought despair. The Depression had left in its wake a population decline, {{31}} communities, and shattered dreams; the war brought population growth, resurgent communities, and rising {{32}}.\n\nWorld War II caused a tremendous labor shortage. When the military forces {{33}} recruits, Mexican Americans responded in great number and went on to serve with {{34}} Some 350,000 Chicanos served in the armed services and won 17 medals of honor. The war also brought industrial expansion, further {{35}} the labor shortage caused by growth of the armed forces. Chicanos {{36}} managed to gain entry to jobs and industries that had been {{37}} closed to them in the past. These new {{38}} liberated many Chicanos from dependence on such traditional occupations as agriculture.\n\n{{39}} opportunities, World War II also brought increased tensions between Chicanos and law-enforcement agencies. Two events in Los Angeles brought this issue into {{40}} In the Sleepy Lagoon case of 1942-1943, 17 Chicano youths were {{41}} of charges ranging from assault to first-degree murder for the death of a Mexican American boy discovered on the outskirts of the city. Throughout the trial, the judge openly displayed {{42}} against Chicanos, and allowed the {{43}} to bring in racial factors. Further, the defendants were not permitted haircuts or changes of clothing. In 1944, the Sleepy Lagoon Defense Committee obtained a reversal of the convictions from the California District Court of Appeals, {{44}} the damage had been done. Los Angeles newspapers {{45}} the case and helped create an anti-Mexican atmosphere. Police harassed Chicano youth clubs, and repeatedly rounded up Chicano youth “under suspicion.”",
+          "sharedOptions": [
+            {
+              "label": "",
+              "text": "expectations"
+            },
+            {
+              "label": "",
+              "text": "called for"
+            },
+            {
+              "label": "",
+              "text": "distinction"
+            },
+            {
+              "label": "",
+              "text": "prestige"
+            },
+            {
+              "label": "",
+              "text": "thus"
+            },
+            {
+              "label": "",
+              "text": "aggravating"
+            },
+            {
+              "label": "",
+              "text": "dispassion"
+            },
+            {
+              "label": "",
+              "text": "virtually"
+            },
+            {
+              "label": "",
+              "text": "on the contrary"
+            },
+            {
+              "label": "",
+              "text": "along with"
+            },
+            {
+              "label": "",
+              "text": "sign up"
+            },
+            {
+              "label": "",
+              "text": "focus"
+            },
+            {
+              "label": "",
+              "text": "exaggerating"
+            },
+            {
+              "label": "",
+              "text": "convicted"
+            },
+            {
+              "label": "",
+              "text": "understated"
+            },
+            {
+              "label": "",
+              "text": "confirmed"
+            },
+            {
+              "label": "",
+              "text": "opportunities"
+            },
+            {
+              "label": "",
+              "text": "destructive"
+            },
+            {
+              "label": "",
+              "text": "bias"
+            },
+            {
+              "label": "",
+              "text": "except for"
+            },
+            {
+              "label": "",
+              "text": "threats"
+            },
+            {
+              "label": "",
+              "text": "prosecution"
+            },
+            {
+              "label": "",
+              "text": "salary"
+            },
+            {
+              "label": "",
+              "text": "devastated"
+            },
+            {
+              "label": "",
+              "text": "inspection"
+            },
+            {
+              "label": "",
+              "text": "but"
+            },
+            {
+              "label": "",
+              "text": "sensationalized"
+            },
+            {
+              "label": "",
+              "text": "visually"
+            },
+            {
+              "label": "",
+              "text": "attention"
+            },
+            {
+              "label": "",
+              "text": "because"
+            }
+          ],
+          "passageAnalysis": "### 1. 文章大意 (Main Idea)\n本文探讨了第二次世界大战对墨西哥裔美国人（奇卡诺人）历史进程的双重影响。文章首先指出，二战扭转了大萧条带来的绝望，通过人口增长、社区复兴和期望提升带来了希望。其次，战争造成了严重的劳动力短缺，这为奇卡诺人提供了进入以往难以涉足的行业和工作的新机会，从而减少了对传统农业的依赖。然而，文章最后也指出，战争在带来机遇的同时，也加剧了奇卡诺人与执法机构之间的紧张关系，并以洛杉矶的“睡湖案”为例，说明了司法偏见、媒体煽动和警察骚扰如何共同营造了反墨西哥裔的社会氛围。\n\n### 2. 语篇结构 (Structure Analysis)\n*   **第一段：** 提出核心论点——二战对奇卡诺人历史产生了“急剧逆转”的影响，通过对比大萧条（带来破坏）与二战（带来希望），确立了文章的总体框架。\n*   **第二段：** 阐述二战的积极影响。具体说明战争如何通过造成劳动力短缺，为奇卡诺人创造了新的就业机会，使其社会和经济地位得到提升。\n*   **第三段：** 阐述二战的消极影响。转折指出战争也加剧了社会矛盾，并以“睡湖案”这一具体事件作为例证，详细描述了司法不公、媒体角色和警察行为如何共同导致了针对奇卡诺人的歧视与紧张局势。\n\n### 3. 核心词汇 (Core Vocabulary)\n1.  **devastated** - 被摧毁的，遭受严重破坏的\n2.  **expectations** - 期望，预期\n3.  **called for** - 征召，要求\n4.  **distinction** - 卓越，杰出；荣誉\n5.  **aggravating** - 加剧，使恶化\n6.  **thus** - 因此，从而\n7.  **virtually** - 几乎，实际上\n8.  **opportunities** - 机会，机遇\n9.  **Along with** - 与……一起；除……之外（还）\n10. **focus** - 焦点，关注点\n11. **convicted** - 被定罪\n12. **bias** - 偏见，偏心\n13. **prosecution** - 控方，起诉方\n14. **but** - 但是（此处表示转折，强调负面影响已造成）\n15. **sensationalized** - 大肆渲染，耸人听闻地报道"
+        },
+        {
+          "id": "test-5-reading-b-1",
+          "title": "Part II Reading Comprehension - Section B - Passage 1",
+          "instructions": "Read the passage.",
+          "questions": [
+            {
+              "id": "test-5-q46",
+              "number": 46,
+              "text": "Which of the following is true about Mike Trevino?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He couldn't remember any dreams in the race."
+                },
+                {
+                  "label": "B",
+                  "text": "He got the second prize without any sleep."
+                },
+                {
+                  "label": "C",
+                  "text": "He was conscious when dreaming."
+                },
+                {
+                  "label": "D",
+                  "text": "He slept for no more than 90 minutes per day."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q47",
+              "number": 47,
+              "text": "According to the passage, how about the current sleep situations of Americans?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Less than half of them developed some kind of insomnia."
+                },
+                {
+                  "label": "B",
+                  "text": "Their sleep hours are far less than enough."
+                },
+                {
+                  "label": "C",
+                  "text": "Most of them slept over 7 hours on weekends."
+                },
+                {
+                  "label": "D",
+                  "text": "Dreams are necessary for better brain function."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q48",
+              "number": 48,
+              "text": "When people are worried, they will probably",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "lose their temper easily."
+                },
+                {
+                  "label": "B",
+                  "text": "fail to solve some issues."
+                },
+                {
+                  "label": "C",
+                  "text": "experience more nightmares."
+                },
+                {
+                  "label": "D",
+                  "text": "stay up and work."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q49",
+              "number": 49,
+              "text": "What would happen if a depressed dreamer felt asleep?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "His brain wouldn't keep on thinking about problems."
+                },
+                {
+                  "label": "B",
+                  "text": "His brain would not shut off."
+                },
+                {
+                  "label": "C",
+                  "text": "He would have sweet dreams."
+                },
+                {
+                  "label": "D",
+                  "text": "He would wake up in the middle of the night by depression."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q50",
+              "number": 50,
+              "text": "Which one is the best way to have good dreams?",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Going to bed regularly."
+                },
+                {
+                  "label": "B",
+                  "text": "Having a drink before bed time."
+                },
+                {
+                  "label": "C",
+                  "text": "Taking a sleeping pill."
+                },
+                {
+                  "label": "D",
+                  "text": "Staying away from work."
+                }
+              ]
+            }
+          ],
+          "content": "Earlier this summer, Mike Trevino, 29, slept nine hours in nine days in his quest to win a 3,000-mile, cross-country bike race. For the first 38 hours and 646 miles, he skipped sleep entirely. Later he napped — with no dreams he can remember — for no more than 90 minutes a night. Soon he began to imagine that his support crew was part of a bomb plot. \"It was almost like riding in a movie. I thought it was a complex dream, even though I was conscious,\" says Trevino, who finished second.\n\nTrevino's case may be extreme, but it raises important questions: If we don't sleep (or sleep enough), what happens to our dreams? And if we don't dream, what happens to us? These are not purely academic questions. Nearly 40 percent of Americans report getting fewer than seven hours sleep on weekdays and nearly 60 percent say they experience some kind of insomnia at least several nights a week, according to a National Sleep Foundation poll. \"Sleep may be essential for life,\" says Jerry Siegel, a neuroscientist at UCLA's Center for Sleep Research. \"It's certainly essential for optimum brain function.\"\n\nFor those of us who are stressed, anxious and working too hard, insomnia only makes things worse. When our worries wake us in the middle of a REM cycle, issues that might have been resolved through dreams are left hanging. Dreams tend to get more positive as the night wears on, and waking up too soon interrupts this process. \"People who are sleep deprived are often irritable,\" says Rosalind Cartwright, chairman of psychology at Rush University Medical Center in Chicago. \"They haven't worked through the bad feelings.\"\n\nDepression interferes with healthy sleeping – and dreaming. In a study published this month, several experts at the University of Pittsburgh stated that \"The brain of depressed dreamers doesn't shut off, it keeps ruminating about things, which makes it hard for the person to get to sleep – or if they do, it wakes them up in the middle of the night to work on all the problems they have.\"\n\nIf you have trouble sleeping, here's what to do: Find out if you have a physical problem such as sleep apnea. If you're physically fine, go to bed and get up at a regular time every day, stay away from caffeine and alcohol before bedtime, and avoid bright lights in the bedroom. Good sleep produces good dreams. \"You'll work better, feel sharper, actually be more creative,\" says Cartwright. No wonder they say that dreams are sweet."
+        },
+        {
+          "id": "test-5-reading-b-2",
+          "title": "Part II Reading Comprehension - Section B - Passage 2",
+          "instructions": "Read the passage.",
+          "questions": [
+            {
+              "id": "test-5-q51",
+              "number": 51,
+              "text": "Which of the following happened in mental institutions after economic depression?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Patients became inflexible and insensitive."
+                },
+                {
+                  "label": "B",
+                  "text": "Fewer patients led to shortage of funds and inhumane care."
+                },
+                {
+                  "label": "C",
+                  "text": "More patients were reluctant to get help from physicians."
+                },
+                {
+                  "label": "D",
+                  "text": "Patients were disappointed to live in asylums."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q52",
+              "number": 52,
+              "text": "It can be inferred that, had the Civil Rights movement not prompted an investigation of prison conditions,",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "states would never have established asylums for the mentally ill."
+                },
+                {
+                  "label": "B",
+                  "text": "new treatments for major mental illness would have likely remained untested."
+                },
+                {
+                  "label": "C",
+                  "text": "the Civil Rights movement in America would have been politically ineffective."
+                },
+                {
+                  "label": "D",
+                  "text": "conditions in mental hospitals might have escaped judicial scrutiny."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q53",
+              "number": 53,
+              "text": "According to the passage, mental hospital conditions were radically changed because of",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "a group of young angry men in the 1900s."
+                },
+                {
+                  "label": "B",
+                  "text": "active young lawyers in the 1960s."
+                },
+                {
+                  "label": "C",
+                  "text": "innocent insane patients' protest."
+                },
+                {
+                  "label": "D",
+                  "text": "powerful court interventions."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q54",
+              "number": 54,
+              "text": "According to the passage, who is responsible for surveillance of good patient care?",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The state courts."
+                },
+                {
+                  "label": "B",
+                  "text": "The public interest lawyers."
+                },
+                {
+                  "label": "C",
+                  "text": "The state mental health administrators."
+                },
+                {
+                  "label": "D",
+                  "text": "The hospitals."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q55",
+              "number": 55,
+              "text": "The main purpose of the passage is to",
+              "type": "multiple-choice",
+              "correctAnswer": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "provide an historical perspective on problems of mental health care."
+                },
+                {
+                  "label": "B",
+                  "text": "increase public awareness of the plight of the mentally ill."
+                },
+                {
+                  "label": "C",
+                  "text": "shock the reader with vivid descriptions of asylums."
+                },
+                {
+                  "label": "D",
+                  "text": "describe the invention of new treatments for mental illness."
+                }
+              ]
+            }
+          ],
+          "content": "The mental health movement in the United States began with a period of considerable enlightenment. Dorothea Dix was shocked to find the mentally ill in jails and almshouses and crusaded for the establishment of asylums in which people could receive humane care and treatment which might help restore them to sanity. By the mid 1800s, 20 states had established asylums, but during the late 1800s and early 1900s, in the face of economic depression, legislatures were unable to appropriate sufficient funds for decent care. Asylums became overcrowded and prison-like. Additionally, patients were more resistant to treatment than the pioneers in the mental health field had anticipated, and security and restraint were needed to protect patients and others. Mental institutions became frightening and depressing places in which the rights of patients were all but forgotten.\n\nThese conditions continued until after World War II. At that time, new treatments were discovered for some major mental illnesses heretofore considered untreatable (penicillin for syphilis of the brain and insulin treatment for schizophrenia and depressions), and a succession of books, motion pictures, and newspaper exposes called attention to the plight of the mentally ill. Improvements were made and Dr. David Vail's Humane Practices Program is a beacon for today. But changes were slow in coming until the early 1960s. At that time, the Civil Rights movement led lawyers to investigate America's prisons, which were disproportionately populated by blacks, and they in turn followed prisoners into the only institutions that were worse than the prisons – the hospitals for the criminally insane. The prisons were filled with angry young men who, encouraged by legal support, were quick to demand their rights. The hospitals for the criminally insane, by contrast, were populated with people who were considered \"crazy\" and who were often kept obediently in their place through the use of severe bodily restraints and large doses of major tranquilizers. The young cadre of public interest lawyers liked their role in the mental hospitals. The lawyers found a population that was both passive and easy to champion. These were, after all, people who, unlike criminals, had done nothing wrong. And in many states, they were being kept in horrendous institutions, an injustice, which once exposed, was bound to shock the public and, particularly, the judicial conscience. Patients' rights groups successfully encouraged reform by lobbying in state legislatures.\n\nJudicial interventions have had some definite positive effects, but there is growing awareness that courts cannot provide the standards and the review mechanisms that assure good patient care. The details of providing day to day care simply cannot be mandated by a court, so it is time to take from the courts the responsibility for delivery of mental health care and assurance of patient rights and return it to the state mental health administrators to whom the mandate was originally given. Though it is a difficult task, administrators must undertake to write rules and standards and to provide the training and surveillance to assure that treatment is given and patient rights are respected."
+        },
+        {
+          "id": "test-5-reading-b-3",
+          "title": "Part II Reading Comprehension - Section B - Passage 3",
+          "instructions": "Read the passage.",
+          "questions": [
+            {
+              "id": "test-5-q56",
+              "number": 56,
+              "text": "Which of the following can NOT be listed as a reason for corporations' hiring temporary workers and phasing out full time employees?",
+              "type": "multiple-choice",
+              "correctAnswer": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Corporations intend to leave more workload to temporary workers."
+                },
+                {
+                  "label": "B",
+                  "text": "Temp workers are generally well trained and can achieve high efficiency."
+                },
+                {
+                  "label": "C",
+                  "text": "Corporations can reduce their production cost by employing temp workers."
+                },
+                {
+                  "label": "D",
+                  "text": "Corporations can benefit a great deal from keeping a small full time work force."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q57",
+              "number": 57,
+              "text": "In the first paragraph, which statement is true about temp workers?",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Temp workers seem to be satisfied with their conditions."
+                },
+                {
+                  "label": "B",
+                  "text": "Temp workers have to work for temp agencies only."
+                },
+                {
+                  "label": "C",
+                  "text": "Temp workers are fairly paid by their agencies."
+                },
+                {
+                  "label": "D",
+                  "text": "Temp workers can hardly be employed as full time workers."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q58",
+              "number": 58,
+              "text": "The main purpose of the last paragraph is to",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "show how much the capitalist bosses distrust temp workers."
+                },
+                {
+                  "label": "B",
+                  "text": "reveal that temp workers are living in misery."
+                },
+                {
+                  "label": "C",
+                  "text": "arouse readers' hatred for the capitalists."
+                },
+                {
+                  "label": "D",
+                  "text": "criticize severely the ignorance of the temp workers."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q59",
+              "number": 59,
+              "text": "The author's attitude toward the temp workers can be descried as",
+              "type": "multiple-choice",
+              "correctAnswer": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "amicable."
+                },
+                {
+                  "label": "B",
+                  "text": "depressed."
+                },
+                {
+                  "label": "C",
+                  "text": "sympathetic."
+                },
+                {
+                  "label": "D",
+                  "text": "hostile."
+                }
+              ]
+            },
+            {
+              "id": "test-5-q60",
+              "number": 60,
+              "text": "The word \"liabilities'' in the last paragraph is closest in meaning to",
+              "type": "multiple-choice",
+              "correctAnswer": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "risks in hiring temp workers."
+                },
+                {
+                  "label": "B",
+                  "text": "duties distributed to workers."
+                },
+                {
+                  "label": "C",
+                  "text": "responsibilities shared by temp workers."
+                },
+                {
+                  "label": "D",
+                  "text": "considerations offered to temp workers."
+                }
+              ]
+            }
+          ],
+          "content": "The rise of \"temp\" work has further magnified the decreasing rights and alienation of the worker. It is common corporate practice to phase out full time employees and hire temporary workers to take on more workload in less time. When facing a pressing deadline, a corporation may pay per hour for a temp worker, but the temp worker will only see part of that money. The rest goes to temp agency, which is usually a corporate chain, such as Kelly Services, that blatantly makes its profits off of other people's labor. This increases profits of the corporations because they can increase a workload, get rid of the employee when they're finished, and not worry about paying benefits or unemployment for that employee. I have had to work with temps a few times in my current position, and the workers only want one thing — a full time job with benefits. We really wanted to hire one temp I was working with, but we could not offer her a full time job because it would have been a breach in our contract with the temp agency that employed her. To hire a temp full time, we would have had to pay the agency over a thousand dollars. Through this practice and policy, the temp agency locks its temporary workers into a horrible new form of servitude from which the worker cannot break free.\n\nFurthermore, corporate powers push workers to take on bigger workloads, work longer hours, and accept less benefit by instilling paranoia in their workforce. The capitalist bosses assume dishonesty, disloyalty, and laziness amongst workers, and they breed a sense of guilt and fear through their assumptions where guilt doesn't seep in, bitterness, anger, and depression take over, the highest priorities of Big Business are to increase profits and limit liabilities. Personal relations and human needs are last on their list of priorities. So what we see is a huge mass of people who are alienated, disempowered, overworked, mentally and physically ill and who spend the vast majority of their time and energy on their basic survival. They are denied a chance to really \"live\", because they are forced to make profits for the capitalists in power."
+        },
+        {
+          "id": "test-5-reading-c",
+          "title": "Part II Reading Comprehension - Section C",
+          "instructions": "Sentence completion.",
+          "questions": [
+            {
+              "id": "test-5-q61",
+              "number": 61,
+              "text": "{{61}}",
+              "type": "fill-blank",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "test-5-q62",
+              "number": 62,
+              "text": "{{62}}",
+              "type": "fill-blank",
+              "correctAnswer": "F"
+            },
+            {
+              "id": "test-5-q63",
+              "number": 63,
+              "text": "{{63}}",
+              "type": "fill-blank",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "test-5-q64",
+              "number": 64,
+              "text": "{{64}}",
+              "type": "fill-blank",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "test-5-q65",
+              "number": 65,
+              "text": "{{65}}",
+              "type": "fill-blank",
+              "correctAnswer": "B"
+            }
+          ],
+          "content": "The history of coffee is as rich as the brew itself, dating back more than a thousand years. The first coffee plants came from the Horn of Africa. Native tribes would grind the coffee cherries together, mixing the paste with animal fat. Rolled into little balls, the mixture was used to give warriors energy for battle.\n\nDuring these ancient times, coffee's stimulating properties were thought to be a sort of religious ecstasy. The drink earned a mystical reputation, shrouded in secrecy and associated with priests and doctors. {{61}}\n\nAccording to one story, a goat-herder noticed his herd became friskier after consuming the red cherries of a wild coffee shrub. Curious, he tasted the fruit himself. {{62}} Soon the monks began to boil the bean themselves and use the liquid to stay awake during all-night ceremonies.\n\nThe other story is that a Muslim dervish was condemned by his enemies to wander in the desert. In his delirium, the man heard a voice instructing him to eat the fruit from a nearby coffee tree. {{63}} Interpreting his survival and energy as a sign of Allah, he returned to his people, spreading the faith and the recipe.\n\nCoffee cultivation began in the 15th century. For many centuries, Arabia's Yemen province was the world's only source. The demand was very high, and beans leaving the Yemeni port of Mocha were highly guarded. No fertile plants were allowed to leave the country.\n\nDespite the restrictions, Muslim pilgrims to Mecca smuggled coffee plants back to their homelands, and coffee crops soon took root in India. {{64}} Many European merchants grew accustomed to drinking coffee overseas and brought it back with them. The beverage gained popularity when street vendors began selling it.\n\n{{65}} In the 17th century, the Dutch introduced it to their colonies in Indonesia, and the French were the first to start planting it in the Americas. Today, coffee is the second most traded commodity on the planet – only petroleum outranks it!\n\nCoffee is grown all around the world, but only on a belt between the Tropic of Cancer and the Tropic of Capricorn. The region where coffee is grown plays a big role in determining its taste – the native soil, climate, elevation and processing methods used in cultivation all impart a distinctive flavour to the beans. A French winemaker wou'd call this \"goût de terroir\" – the \"taste of the place.\"\n\nGeographically, there are three global coffee-growing regions: East Africa and the Arabian Peninsula, Southeast Asia and the Pacific, and Latin America.",
+          "sharedOptions": [
+            {
+              "label": "A",
+              "text": "Coffee also made its way to Europe through Venice, where fleets traded perfumes, teas, dyes and fabrics with Arabic merchants along the Spice Route."
+            },
+            {
+              "label": "B",
+              "text": "The demand for coffee ensured that it would flourish outside its original homeland."
+            },
+            {
+              "label": "C",
+              "text": "Two prominent legends emerged to explain the discovery of this magic bean."
+            },
+            {
+              "label": "D",
+              "text": "He tried to soften the beans in water, and when this failed, he simply drank the liquid."
+            },
+            {
+              "label": "E",
+              "text": "There are two commercially important coffee species: coffea arabica and coffea canephora (robusta)."
+            },
+            {
+              "label": "F",
+              "text": "Delighted by its invigorating effects, he was spotted dancing with his goats by a group of monks."
+            }
+          ]
+        },
+        {
+          "id": "test-5-writing-a",
+          "title": "Part III Writing - Section A",
+          "instructions": "Write a summary.",
+          "questions": [
+            {
+              "id": "test-5-q66",
+              "number": 66,
+              "text": "Write a summary of the article.",
+              "type": "writing",
+              "correctAnswer": "Literary criticism values the good and bad points of literary works. There are three common ways of writing a critical paper: explication, analysis, comparison/contrast. A paper of explication is a close study of the work by itself. It can be a detailed examination of any contributions to the meaning of the work. It can also be a study of part of the work. As to analysis, there are two kinds. One is to analyze a work into its several elements but only focus on one or two of them; the other is to analyze a work in its entirety. In analysis, we should follow certain logical orders. Comparison or contrast is used when we can think about authors or works in term of similarities or differences. There are two methods of comparison and contrast. One is block comparison or block contrast. The other is alternating comparison and alternating contrast.",
+              "explanation": "### 1. 参考范文 (Model Summary)\nLiterary criticism, which involves evaluating the value of a work, is a formal and organized discourse that can highlight both strengths and weaknesses. Three primary methods are used to write critical papers. The first is explication, a detailed, line-by-line examination of a single work, such as a poem, focusing on elements like word choice and structure to reveal deeper meaning; it is distinct from simple paraphrase. The second method is analysis, which is more common for longer works. It involves breaking a text into its elements, often focusing on just one or two, such as a specific character theme, and then connecting that focus back to the entire work. The principle is to choose a manageable topic for thorough discussion. The third and most organizationally challenging method is comparison and contrast, used to study similarities and differences between two works or authors. Effective essays require structuring thoughts logically, either through a block method (discussing one subject fully before the other) or an alternating method (discussing both point-by-point), avoiding separate, disjointed commentaries.\n\n### 2. 摘要逻辑 (Summary Logic)\n摘要首先点明文学批评的本质是正式、有组织的价值评估。随后，核心结构围绕文章阐述的三种主要批评方法展开：阐释、分析和比较/对比。对于每种方法，摘要都提炼了其核心定义、典型应用场景和关键操作原则。例如，阐释强调对单一作品的细读；分析强调对元素的分解与聚焦；比较/对比则强调逻辑组织结构的重要性。这样选择是因为这三点是文章的主体框架，涵盖了从微观文本细读到宏观作品间关系的主要批评写作方式。\n\n### 3. 重点表达 (Key Expressions)\n1.  **involves evaluating** - 涉及评估\n2.  **The first is... The second method is... The third... method is** - 第一种是... 第二种方法是... 第三种方法是... (用于列举和结构清晰化)\n3.  **distinct from** - 不同于\n4.  **breaking a text into its elements** - 将文本分解为其构成元素\n5.  **connecting that focus back to** - 将该焦点联系回... (用于体现分析的完整性)"
+            }
+          ],
+          "content": "Though the most common meaning of \"criticism\" is something like \"finding fault\", critics often see excellence as well as weaknesses. Good criticism draws our attention to things that are worth attending to. Critical writing has to do with the value of literature, its goodness or badness. In a sense, literary criticism is a natural response to literature, a discourse about a work that interests us, though it is not expressed in a casual, unorganized, or subjective manner.\n\nThere are three common ways of writing a critical paper: explication, analysis, comparison / contrast. Whether long or short, a paper of explication is a close study of the work by itself. It can be a line-by-line commentary on the meaning of a poem by emphasizing the implication of words, the function of rhymes, the shifts in point of view, the development of contrasts, and any other contributions to the meaning. An explication of a poem, such as Robert Frost's \"Design\", is a detailed examination of the whole and can be much longer than the work itself. The method is also suited to a paper that deals only with short passage or section of a story, an important scene in a novel, or a speech or two in a play. Thus, explication is not paraphrase, which is a re-expression of something written or said in different words.\n\nAnalysis can be of two kinds: one is to analyze a work into its several elements but only focus on one or two of them; the other is to analyze a story or a novel in its entirety. Analysis is a more common approach than explication in writing about works longer than a page or two, though both are often-used ways in formalist criticism. When the word limit of the writing task makes it impossible to study all of the elements in a work, the scope of analysis is confined to just one element, though we will not stop there but will go on to suggest its relation to the whole story. The general principle in choosing a topic is to decide on something you can analyze thoroughly rather than something so big that the discussion must be superficial. \"The character of Hester Prynne\" would be a topic for a very long paper, while \"The Effects of Alienation on Hester Prynne\" would be for a shorter paper.\n\nIn writing an analysis we are advised to organize details in a logical order, moving from the lesser material to the greater or from the least important to the most. If the paper is a discussion of the roles of three characters in a story, it must be best to build up to the one of the three that you think is the most complicated.\n\nAn essay of comparison and contrast is much more difficult to handle in organization. When we study two authors or two works of fiction by the same or different authors, it is very natural for us to think about them in terins of similarities or differences. For instance, reading Faulkner's \"Barn Burning\" will make us recall Hawthorne's \"My Kinsman Major Molineux\", and the image of Emily Grierson in \"A Rose for Emily\" will remind us of Joanna Burden in Light in August by the same author. Since comparison/contrast is a mode of our thinking, we need to learn the skill well to make the method more effective. Writing an essay of comparison and contrast is a matter of putting random, associative ideas in order. There are two ways to arrange our thoughts, whether we use comparison, placing two things side by side and pointing out their similarities, or we use contrast, listing out their differences. One way is to examine one thing thoroughly and then turn to the other in similar aspects put down in the same order. This method is called block comparison or block contrast. The other way is to write about the two objects at the same time, discussing them point by point, with the points arranged in a certain order. And the method is called alternating comparison or alternating contrast. What we must avoid doing is to write two separate commentaries of the two objects based on casual items."
+        },
+        {
+          "id": "test-5-writing-b",
+          "title": "Part III Writing - Section B",
+          "instructions": "Write an essay.",
+          "questions": [
+            {
+              "id": "test-5-q67",
+              "number": 67,
+              "text": "Write an essay on the topic: In this highly competitive society, what do you think of the relationship between competition and cooperation?",
+              "type": "writing",
+              "correctAnswer": "Competition is a common phenomenon in our social life. We compete when we play games. We compete while hunting for a job. And we compete as we do business. However, without cooperation, competition itself can help us get nowhere. We often find that competition exists together with cooperation at the same time. Take a baseball game for example. While one team is competing with the other team, each member of the team is cooperating with his teammates. In most cases, we cannot win in competition without cooperation. Thus, taking risks on a shared basis raises the chance of success and reduces the danger of failure. Besides, in teamwork with others we can reach much further than being alone. For instance, bricks must be combined with steel, concrete and many other materials to make a solid building. A brick itself can do nothing. It is the same with people. The power of one person is limited. We should learn to build team spirit and to work in harmony with others. In addition, cooperation can increase our efficiency and make up for our insufficiency. In boat rowing, if people on boat try to row in different directions, the boat can never reach its destination even though everyone has excellent rowing technique. On the contrary, if people work together with one heart, they will quickly achieve their goal, even though some paddlers might not be good at boating. Nowadays, with the explosion of knowledge, it is impossible to master all knowledge on a subject. Therefore, cooperation appears more and more important and necessary.",
+              "explanation": "### 1. 参考范文 (Model Essay)\n\nIn the relentless arena of modern life, the dynamics of competition and cooperation are often presented as a dichotomy. However, a nuanced examination reveals that these two forces are not mutually exclusive but are, in fact, interdependent and mutually reinforcing. Far from being contradictory, a synergistic relationship between them is essential for fostering innovation, ensuring sustainable progress, and cultivating a balanced society.\n\nOn one hand, competition is the undeniable engine that drives individual ambition and societal advancement. It incentivizes excellence, pushes boundaries, and allocates resources efficiently. In the economic sphere, market competition compels companies to innovate, improve quality, and lower prices, ultimately benefiting consumers. In academia and professional fields, healthy rivalry motivates individuals to hone their skills and strive for peak performance. Without this competitive impetus, complacency can set in, potentially stifling growth and dynamism.\n\nConversely, unbridled competition can lead to detrimental outcomes such as a toxic \"winner-takes-all\" mentality, social fragmentation, and unethical practices. This is where the moderating and enabling role of cooperation becomes paramount. Cooperation provides the necessary framework within which healthy competition can thrive. For instance, within a successful corporate team, members cooperate to pool their diverse expertise, yet they may also compete internally in a constructive manner to generate the best ideas. On a global scale, nations compete economically but must cooperate to address transnational challenges like climate change or pandemics, where collective action is the only viable solution.\n\nThe most profound progress often emerges from the fusion of these two principles. Consider the field of scientific research: while individual researchers or institutions may compete for funding and prestige, groundbreaking discoveries are frequently the result of extensive international collaboration and data sharing. The Human Genome Project stands as a testament to this, where competitive drive to decode genes was channeled through a monumental cooperative framework. Similarly, in sports, athletes compete fiercely against one another, yet they rely on a cooperative ecosystem of coaches, trainers, and teammates to reach their competitive best.\n\nIn conclusion, framing competition and cooperation as opposing choices is a false dilemma. They are two sides of the same coin, each giving meaning and context to the other. A society that champions healthy competition within a robust framework of cooperation cultivates resilience, encourages ethical conduct, and paves the way for holistic and sustainable development. The ultimate goal should not be to choose one over the other, but to master the art of balancing their complementary energies.\n\n### 2. 写作思路 (Writing Strategy)\n*   **文章结构 (Structure):** 采用经典的“讨论型”议论文结构。\n    *   **引言段:** 直接切入主题，否定非此即彼的对立观点，提出核心论点——竞争与合作是相互依存、协同作用的。\n    *   **主体段1:** 阐述竞争的积极作用（驱动个人与社会进步、激励创新、优化资源配置），承认其必要性。\n    *   **主体段2:** 指出纯粹竞争的潜在危害，并引出合作的调节与赋能作用。论证合作是健康竞争得以存在的框架，并举例说明（团队内部、国际事务）。\n    *   **主体段3:** 深入论证两者融合产生最大效益。使用科学（人类基因组计划）和体育领域的例子，证明最伟大的成就往往源于竞争动力在合作框架内的发挥。\n    *   **结论段:** 总结全文，重申二者是“一体两面”，强调平衡与协同才是社会可持续发展的关键。\n*   **核心论点 (Arguments):** 拒绝二元对立，主张辩证统一。论证线索为：竞争有价值 -> 但需合作制衡与支撑 -> 二者结合能产生最佳结果。\n*   **语气与用词 (Tone & Diction):** 保持客观、辩证、学术化的语气。使用“nuanced examination”、“synergistic relationship”、“mutually reinforcing”等词汇体现思辨深度。避免绝对化表述，展现全面分析的能力。\n\n### 3. 亮点词汇与句型 (Key Vocabulary & Expressions)\n1.  **Synergistic relationship (协同关系):** A relationship where the combined effect is greater than the sum of individual effects.\n2.  **Mutually reinforcing (相互强化的):** Describing two or more things that strengthen or support each other.\n3.  **Unbridled competition (无节制的竞争):** Competition that is not controlled or limited, often leading to negative consequences.\n4.  **A false dilemma (虚假的两难困境):** A fallacy that presents only two choices when more exist.\n5.  **Holistic development (全面发展):** Development that considers the whole system or person, not just individual parts.\n6.  **Pool their diverse expertise (汇集他们多样的专业知识):** To combine different specialized skills and knowledge from a group.\n7.  **Groundbreaking discoveries (突破性的发现):** Discoveries that are radically new and innovative.\n8.  **Paves the way for (为...铺平道路):** To make it possible for something to happen in the future."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
