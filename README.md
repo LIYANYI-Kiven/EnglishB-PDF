@@ -4,7 +4,7 @@
 
 ## 在线训练
 
-配套在线练习网站：[https://ucasphd.logicmoriaty.top/](https://ucasphd.logicmoriaty.top/)
+由某位大佬提供的在线练习网站：[https://ucasphd.logicmoriaty.top/](https://ucasphd.logicmoriaty.top/)本网站习题来自于这个网站
 
 可在网站上进行英语训练与模考练习，本仓库生成的 PDF 试卷可作为线下打印或复习使用。
 
